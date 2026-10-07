@@ -4,16 +4,15 @@ import subprocess
 from datetime import datetime, timezone
 
 # ============================
-# CHANNELS / QUERIES
+# PATHS (ABSOLUTE)
 # ============================
-# channels.txt se padhega — har line ek channel handle ya query
-# Example:
-#   @ChannelName
-#   ytsearch20:punjabi songs 2026
 
-CHANNELS_FILE = "channels.txt"
-OUTPUT_DIR = "categories"
-DATA_DIR = "data"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+CHANNELS_FILE = os.path.join(BASE_DIR, "channels.txt")
+OUTPUT_DIR = os.path.join(BASE_DIR, "categories")
+DATA_DIR = os.path.join(BASE_DIR, "data")
+
 
 CATEGORY_MAP = {
     "music": ["music", "song", "songs", "gaana"],
@@ -82,7 +81,7 @@ def fetch(query: str):
             "channel": data.get("channel") or data.get("uploader") or "",
             "thumbnail": data.get("thumbnail") or f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
             "duration": data.get("duration") or 0,
-            "category": "",  # baad me set hoga
+            "category": "",
         })
     return videos
 
@@ -118,6 +117,11 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(DATA_DIR, exist_ok=True)
 
+    # ===== DEBUG: paths print karo =====
+    print(f"[DEBUG] BASE_DIR: {BASE_DIR}")
+    print(f"[DEBUG] CHANNELS_FILE: {CHANNELS_FILE}")
+    print(f"[DEBUG] File exists: {os.path.exists(CHANNELS_FILE)}")
+
     # channels.txt padho
     if not os.path.exists(CHANNELS_FILE):
         print("[ERROR] channels.txt not found")
@@ -125,6 +129,8 @@ def main():
 
     with open(CHANNELS_FILE, "r", encoding="utf-8") as f:
         queries = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+
+    print(f"[INFO] Total queries: {len(queries)}")
 
     # Category wise collect
     category_videos = {}
@@ -135,7 +141,6 @@ def main():
         print(f"  → {len(vids)} videos")
 
         for v in vids:
-            # category decide karo
             cat = guess_category(v["title"] + " " + v["channel"] + " " + query)
             v["category"] = cat
             category_videos.setdefault(cat, []).append(v)
@@ -146,7 +151,6 @@ def main():
     for cat, vids in category_videos.items():
         vids = dedupe(vids)
 
-        # purani JSON se merge karo
         path = os.path.join(OUTPUT_DIR, f"{cat}.json")
         old = load_json(path)
         old_videos = old.get("videos", []) if isinstance(old, dict) else []
