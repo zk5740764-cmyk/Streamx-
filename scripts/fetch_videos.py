@@ -1,44 +1,160 @@
+#!/usr/bin/env python3
+"""
+fetch_videos.py
+YouTube se videos fetch karke categories/ me JSON banata hai.
+Har video me URL bhi hai — app me play hoga.
+"""
+
 import json
 import os
 import subprocess
+import sys
 from datetime import datetime, timezone
 
-# ============================
-# PATHS (ABSOLUTE)
-# ============================
+
+# ---------------------------------------------------------------------
+# ABSOLUTE PATHS (kabhi fail nahi honge)
+# ---------------------------------------------------------------------
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-CHANNELS_FILE = os.path.join(BASE_DIR, "channels.txt")
 OUTPUT_DIR = os.path.join(BASE_DIR, "categories")
-DATA_DIR = os.path.join(BASE_DIR, "data")
 
 
-CATEGORY_MAP = {
-    "music": ["music", "song", "songs", "gaana"],
-    "gaming": ["gaming", "game", "bgmi", "freefire"],
-    "news": ["news", "khabar", "samachar"],
-    "sports": ["sports", "cricket", "football"],
-    "movies": ["movie", "film", "trailer"],
-    "comedy": ["comedy", "funny", "meme"],
-    "education": ["education", "learn", "tutorial"],
-    "vlog": ["vlog", "daily"],
-    "tech": ["tech", "gadget", "review"],
-    "devotional": ["bhajan", "devotional", "mandir"],
-    "other": [],
+# ---------------------------------------------------------------------
+# SONG / HOME CATEGORIES
+# ---------------------------------------------------------------------
+
+SONG_CATEGORIES = {
+
+    "home": [
+        "ytsearch40:latest entertainment videos 2026",
+        "ytsearch30:lifestyle vlog 2026",
+        "ytsearch30:travel vlog 2026",
+        "ytsearch30:tech videos 2026",
+        "ytsearch30:cooking videos 2026",
+        "ytsearch20:motivational videos 2026",
+        "ytsearch20:documentary videos 2026",
+        "ytsearch20:podcast interview 2026",
+    ],
+
+    "recently_uploaded": [
+        "ytsearch50:latest uploaded music videos 2026",
+        "ytsearch40:new songs released today 2026",
+        "ytsearch30:new music videos 2026",
+        "ytsearch30:latest Hindi songs 2026",
+    ],
+
+    "indian_pop_music": [
+        "ytsearch50:Indian pop music 2026",
+        "ytsearch40:new Indian pop songs 2026",
+        "ytsearch30:Indian pop hits",
+        "ytsearch20:Indian independent music 2026",
+    ],
+
+    "haryanvi": [
+        "ytsearch50:new Haryanvi songs 2026",
+        "ytsearch40:Haryanvi songs 2026",
+        "ytsearch30:Haryanvi DJ songs",
+        "ytsearch20:Haryanvi romantic songs",
+        "ytsearch20:Haryanvi hits",
+    ],
+
+    "punjabi": [
+        "ytsearch50:new Punjabi songs 2026",
+        "ytsearch40:Punjabi songs 2026",
+        "ytsearch30:Punjabi bhangra songs",
+        "ytsearch30:Punjabi romantic songs",
+        "ytsearch20:Punjabi sad songs",
+    ],
+
+    "storytelling": [
+        "ytsearch40:Hindi storytelling videos",
+        "ytsearch30:Hindi kahani",
+        "ytsearch30:storytelling Hindi",
+        "ytsearch20:Indian stories",
+        "ytsearch20:Hindi story podcast",
+    ],
+
+    "music": [
+        "ytsearch50:latest music 2026",
+        "ytsearch40:Hindi music 2026",
+        "ytsearch30:Indian music hits 2026",
+        "ytsearch30:new songs 2026",
+        "ytsearch20:music videos 2026",
+    ],
+
+    "gaming": [
+        "ytsearch50:gaming videos 2026",
+        "ytsearch40:Indian gaming 2026",
+        "ytsearch30:gaming highlights 2026",
+        "ytsearch30:BGMI gameplay",
+        "ytsearch20:Free Fire gameplay",
+        "ytsearch20:gaming livestream",
+    ],
+
+    "news": [
+        "ytsearch50:India news latest 2026",
+        "ytsearch40:latest India news",
+        "ytsearch30:breaking news India",
+        "ytsearch30:world news 2026",
+        "ytsearch20:technology news 2026",
+    ],
+
+    "sports": [
+        "ytsearch50:India sports latest 2026",
+        "ytsearch40:cricket latest 2026",
+        "ytsearch30:cricket highlights",
+        "ytsearch30:football latest 2026",
+        "ytsearch20:sports news 2026",
+    ],
+
+    "fashion": [
+        "ytsearch40:Indian fashion 2026",
+        "ytsearch30:fashion trends 2026",
+        "ytsearch30:Indian fashion trends",
+        "ytsearch20:fashion vlog India",
+        "ytsearch20:latest fashion videos",
+    ],
 }
 
 
-def guess_category(text: str) -> str:
-    t = text.lower()
-    for cat, keys in CATEGORY_MAP.items():
-        for k in keys:
-            if k in t:
-                return cat
-    return "other"
+# ---------------------------------------------------------------------
+# MOVIE CATEGORIES
+# ---------------------------------------------------------------------
+
+MOVIE_CATEGORIES = {
+
+    "bollywood_movies": [
+        "ytsearch30:Bollywood full movie 2026",
+        "ytsearch30:Bollywood movie trailer 2026",
+        "ytsearch20:Bollywood full movie Hindi",
+    ],
+
+    "hollywood_movies": [
+        "ytsearch30:Hollywood movie trailer 2026",
+        "ytsearch20:Hollywood full movie English",
+        "ytsearch20:Hollywood movie Hindi dubbed",
+    ],
+
+    "south_indian_movies": [
+        "ytsearch30:South Indian movie Hindi dubbed",
+        "ytsearch20:South Indian movie trailer 2026",
+        "ytsearch20:South Indian movies",
+    ],
+
+    "punjabi_movies": [
+        "ytsearch20:Punjabi full movie",
+        "ytsearch15:Punjabi movie trailer",
+        "ytsearch15:Punjabi movies 2026",
+    ],
+}
 
 
-YTDLP_ARGS = [
+# ---------------------------------------------------------------------
+# YT-DLP ARGS
+# ---------------------------------------------------------------------
+
+YTDLP_BASE_ARGS = [
     "yt-dlp",
     "--flat-playlist",
     "--dump-json",
@@ -47,24 +163,33 @@ YTDLP_ARGS = [
 ]
 
 
-def fetch(query: str):
-    """yt-dlp se videos fetch karo"""
+# ---------------------------------------------------------------------
+# FETCH ONE QUERY
+# ---------------------------------------------------------------------
+
+def fetch_query(query: str, category: str):
+
     try:
         proc = subprocess.run(
-            YTDLP_ARGS + [query],
+            YTDLP_BASE_ARGS + [query],
             capture_output=True,
             text=True,
             timeout=240,
         )
+
     except subprocess.TimeoutExpired:
-        print(f"[WARN] timeout: {query}")
+        print(f"[WARN] timeout: {query}", file=sys.stderr)
         return []
 
     videos = []
+
     for line in proc.stdout.splitlines():
+
         line = line.strip()
+
         if not line:
             continue
+
         try:
             data = json.loads(line)
         except json.JSONDecodeError:
@@ -78,123 +203,134 @@ def fetch(query: str):
             "id": vid,
             "title": data.get("title", ""),
             "url": f"https://www.youtube.com/watch?v={vid}",
-            "channel": data.get("channel") or data.get("uploader") or "",
-            "thumbnail": data.get("thumbnail") or f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
+            "channel": (
+                data.get("channel")
+                or data.get("uploader")
+                or ""
+            ),
+            "thumbnail": (
+                data.get("thumbnail")
+                or f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg"
+            ),
             "duration": data.get("duration") or 0,
-            "category": "",
+            "category": category,
         })
+
     return videos
 
+
+# ---------------------------------------------------------------------
+# DEDUPE
+# ---------------------------------------------------------------------
 
 def dedupe(videos):
     seen = set()
     out = []
-    for v in videos:
-        if v["id"] in seen:
+
+    for video in videos:
+        video_id = video.get("id")
+        if not video_id:
             continue
-        seen.add(v["id"])
-        out.append(v)
+        if video_id in seen:
+            continue
+        seen.add(video_id)
+        out.append(video)
+
     return out
 
 
-def load_json(path):
-    if os.path.exists(path):
-        with open(path, "r", encoding="utf-8") as f:
-            try:
-                return json.load(f)
-            except Exception:
-                return {}
-    return {}
+# ---------------------------------------------------------------------
+# FETCH CATEGORY
+# ---------------------------------------------------------------------
 
+def fetch_category(category: str, queries: list) -> list:
 
-def save_json(path, data):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"[INFO] fetching category: {category}")
 
-
-def main():
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    os.makedirs(DATA_DIR, exist_ok=True)
-
-    # ===== DEBUG: paths print karo =====
-    print(f"[DEBUG] BASE_DIR: {BASE_DIR}")
-    print(f"[DEBUG] CHANNELS_FILE: {CHANNELS_FILE}")
-    print(f"[DEBUG] File exists: {os.path.exists(CHANNELS_FILE)}")
-
-    # channels.txt padho
-    if not os.path.exists(CHANNELS_FILE):
-        print("[ERROR] channels.txt not found")
-        return
-
-    with open(CHANNELS_FILE, "r", encoding="utf-8") as f:
-        queries = [line.strip() for line in f if line.strip() and not line.startswith("#")]
-
-    print(f"[INFO] Total queries: {len(queries)}")
-
-    # Category wise collect
-    category_videos = {}
+    collected = []
 
     for query in queries:
+
         print(f"[QUERY] {query}")
-        vids = fetch(query)
-        print(f"  → {len(vids)} videos")
 
-        for v in vids:
-            cat = guess_category(v["title"] + " " + v["channel"] + " " + query)
-            v["category"] = cat
-            category_videos.setdefault(cat, []).append(v)
+        results = fetch_query(query, category)
+        collected.extend(results)
 
-    # Har category ka alag JSON banao
+    deduped = dedupe(collected)
+
+    print(f"[INFO]   -> {len(deduped)} unique videos")
+
+    return deduped
+
+
+# ---------------------------------------------------------------------
+# WRITE CATEGORY JSON
+# ---------------------------------------------------------------------
+
+def write_category_file(category: str, videos: list):
+
+    path = os.path.join(OUTPUT_DIR, f"{category}.json")
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(videos, f, ensure_ascii=False, indent=2)
+
+    print(f"[DONE] wrote {path} — {len(videos)} videos")
+
+
+# ---------------------------------------------------------------------
+# MAIN
+# ---------------------------------------------------------------------
+
+def main():
+
+    print(f"[DEBUG] BASE_DIR: {BASE_DIR}")
+    print(f"[DEBUG] OUTPUT_DIR: {OUTPUT_DIR}")
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
     manifest_categories = []
 
-    for cat, vids in category_videos.items():
-        vids = dedupe(vids)
-
-        path = os.path.join(OUTPUT_DIR, f"{cat}.json")
-        old = load_json(path)
-        old_videos = old.get("videos", []) if isinstance(old, dict) else []
-
-        existing_ids = {v["id"] for v in old_videos}
-        for v in vids:
-            if v["id"] not in existing_ids:
-                old_videos.append(v)
-
-        out = {
-            "category": cat,
-            "updated_at": datetime.now(timezone.utc).isoformat(),
-            "videos": old_videos,
-        }
-        save_json(path, out)
-        print(f"[DONE] {path} — {len(old_videos)} videos")
+    # -------- SONG / HOME --------
+    for category, queries in SONG_CATEGORIES.items():
+        videos = fetch_category(category, queries)
+        write_category_file(category, videos)
 
         manifest_categories.append({
-            "name": cat,
-            "file": f"{cat}.json",
-            "count": len(old_videos),
+            "name": category,
+            "type": "song",
+            "file": f"{category}.json",
+            "count": len(videos),
         })
 
-    # manifest.json
+    # -------- MOVIES --------
+    for category, queries in MOVIE_CATEGORIES.items():
+        videos = fetch_category(category, queries)
+        write_category_file(category, videos)
+
+        manifest_categories.append({
+            "name": category,
+            "type": "movie",
+            "file": f"{category}.json",
+            "count": len(videos),
+        })
+
+    # -------- MANIFEST --------
     manifest = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "categories": manifest_categories,
     }
-    save_json(os.path.join(OUTPUT_DIR, "manifest.json"), manifest)
-    print(f"[DONE] manifest.json — {len(manifest_categories)} categories")
 
-    # Combined data/api.json
-    all_videos = []
-    for cat, vids in category_videos.items():
-        all_videos.extend(vids)
-    all_videos = dedupe(all_videos)
+    manifest_path = os.path.join(OUTPUT_DIR, "manifest.json")
 
-    combined = {
-        "videos": all_videos,
-        "updated_at": datetime.now(timezone.utc).isoformat(),
-    }
-    save_json(os.path.join(DATA_DIR, "api.json"), combined)
-    print(f"[DONE] data/api.json — {len(all_videos)} total videos")
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump(manifest, f, ensure_ascii=False, indent=2)
 
+    print(f"[DONE] wrote {manifest_path} — {len(manifest_categories)} categories")
+
+
+# ---------------------------------------------------------------------
+# ENTRY
+# ---------------------------------------------------------------------
 
 if __name__ == "__main__":
     main()
