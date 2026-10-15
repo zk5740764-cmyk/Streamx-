@@ -1,29 +1,20 @@
 [
   {
-    "id": "gDJ-ini7fF0",
-    "title": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix",
-    "url": "https://www.youtube.com/watch?v=gDJ-ini7fF0",
-    "channel": "Netflix",
-    "thumbnail": "https://i.ytimg.com/vi/gDJ-ini7fF0/hqdefault.jpg",
-    "duration": 161,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "CBZZaoZ7XvU",
-    "title": "THE BEST UPCOMING MOVIES 2026 & 2027 (Trailers)",
-    "url": "https://www.youtube.com/watch?v=CBZZaoZ7XvU",
-    "channel": "KinoCheck.com",
-    "thumbnail": "https://i.ytimg.com/vi/CBZZaoZ7XvU/hqdefault.jpg",
-    "duration": 3135,
-    "category": "hollywood_movies"
-  },
-  {
     "id": "ox8lEnsxDag",
     "title": "River | Official Trailer",
     "url": "https://www.youtube.com/watch?v=ox8lEnsxDag",
     "channel": "Universal Pictures",
     "thumbnail": "https://i.ytimg.com/vi/ox8lEnsxDag/hqdefault.jpg",
     "duration": 113,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "gDJ-ini7fF0",
+    "title": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix",
+    "url": "https://www.youtube.com/watch?v=gDJ-ini7fF0",
+    "channel": "Netflix",
+    "thumbnail": "https://i.ytimg.com/vi/gDJ-ini7fF0/hqdefault.jpg",
+    "duration": 161,
     "category": "hollywood_movies"
   },
   {
@@ -36,48 +27,12 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "t9E2spkHuK4",
-    "title": "THE EXORCIST: MARTYRS Official Trailer (2026) Scarlett Johansson",
-    "url": "https://www.youtube.com/watch?v=t9E2spkHuK4",
-    "channel": "ONE Media",
-    "thumbnail": "https://i.ytimg.com/vi/t9E2spkHuK4/hqdefault.jpg",
-    "duration": 156,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "hiGyVZnKxW8",
-    "title": "The Man With The Bag - Official Teaser Trailer (2026) Arnold Schwarzenegger, Alan Ritchson",
-    "url": "https://www.youtube.com/watch?v=hiGyVZnKxW8",
-    "channel": "IGN",
-    "thumbnail": "https://i.ytimg.com/vi/hiGyVZnKxW8/hqdefault.jpg",
-    "duration": 42,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "9jXnDakbRIQ",
-    "title": "NEW MOVIE TRAILERS (2026 - 2027) 4K",
-    "url": "https://www.youtube.com/watch?v=9jXnDakbRIQ",
-    "channel": "MovieGasm‍․com",
-    "thumbnail": "https://i.ytimg.com/vi/9jXnDakbRIQ/hqdefault.jpg",
-    "duration": 1610,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "bq5a5gYSzPM",
-    "title": "Narnia: The Magician's Nephew - Official Telugu Trailer | Exclusively In Cinemas February 12",
-    "url": "https://www.youtube.com/watch?v=bq5a5gYSzPM",
-    "channel": "Sony Pictures India",
-    "thumbnail": "https://i.ytimg.com/vi/bq5a5gYSzPM/hqdefault.jpg",
-    "duration": 150,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "2n_6GtH-BOM",
-    "title": "CONFESSION Official Trailer (2026) James Franco",
-    "url": "https://www.youtube.com/watch?v=2n_6GtH-BOM",
-    "channel": "Rapid Trailer",
-    "thumbnail": "https://i.ytimg.com/vi/2n_6GtH-BOM/hqdefault.jpg",
-    "duration": 82,
+    "id": "CBZZaoZ7XvU",
+    "title": "THE BEST UPCOMING MOVIES 2026 & 2027 (Trailers)",
+    "url": "https://www.youtube.com/watch?v=CBZZaoZ7XvU",
+    "channel": "KinoCheck.com",
+    "thumbnail": "https://i.ytimg.com/vi/CBZZaoZ7XvU/hqdefault.jpg",
+    "duration": 3135,
     "category": "hollywood_movies"
   },
   {
@@ -90,12 +45,66 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "bzGU0b5XAKc",
-    "title": "SACRIFICE Official Trailer (2026) Chris Evans, Anya Taylor-Joy",
-    "url": "https://www.youtube.com/watch?v=bzGU0b5XAKc",
+    "id": "t9E2spkHuK4",
+    "title": "THE EXORCIST: MARTYRS Official Trailer (2026) Scarlett Johansson",
+    "url": "https://www.youtube.com/watch?v=t9E2spkHuK4",
     "channel": "ONE Media",
-    "thumbnail": "https://i.ytimg.com/vi/bzGU0b5XAKc/hqdefault.jpg",
-    "duration": 128,
+    "thumbnail": "https://i.ytimg.com/vi/t9E2spkHuK4/hqdefault.jpg",
+    "duration": 156,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "UKaWzMf9Ybc",
+    "title": "GHOST SOLDIER - New Trailer | Starring Jim Caviezel (4K)",
+    "url": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
+    "channel": "Sony Pictures Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/UKaWzMf9Ybc/hqdefault.jpg",
+    "duration": 109,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "bq5a5gYSzPM",
+    "title": "Narnia: The Magician's Nephew - Official Telugu Trailer | Exclusively In Cinemas February 12",
+    "url": "https://www.youtube.com/watch?v=bq5a5gYSzPM",
+    "channel": "Sony Pictures India",
+    "thumbnail": "https://i.ytimg.com/vi/bq5a5gYSzPM/hqdefault.jpg",
+    "duration": 150,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "VIMjwO_MwKQ",
+    "title": "A LONG WINTER Official Trailer (2026) Ebon Moss-Bachrach",
+    "url": "https://www.youtube.com/watch?v=VIMjwO_MwKQ",
+    "channel": "ONE Media",
+    "thumbnail": "https://i.ytimg.com/vi/VIMjwO_MwKQ/hqdefault.jpg",
+    "duration": 155,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "2n_6GtH-BOM",
+    "title": "CONFESSION Official Trailer (2026) James Franco",
+    "url": "https://www.youtube.com/watch?v=2n_6GtH-BOM",
+    "channel": "Rapid Trailer",
+    "thumbnail": "https://i.ytimg.com/vi/2n_6GtH-BOM/hqdefault.jpg",
+    "duration": 82,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "rDZplZFnbOk",
+    "title": "Artificial - Official Teaser Trailer - In Theaters Christmas Day",
+    "url": "https://www.youtube.com/watch?v=rDZplZFnbOk",
+    "channel": "NEON",
+    "thumbnail": "https://i.ytimg.com/vi/rDZplZFnbOk/hqdefault.jpg",
+    "duration": 77,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "AwK5KxoJsvk",
+    "title": "Blade Runner 2099 - NYCC Trailer | Prime Video",
+    "url": "https://www.youtube.com/watch?v=AwK5KxoJsvk",
+    "channel": "Prime Video",
+    "thumbnail": "https://i.ytimg.com/vi/AwK5KxoJsvk/hqdefault.jpg",
+    "duration": 160,
     "category": "hollywood_movies"
   },
   {
@@ -117,60 +126,6 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "CaS4dB4Lt1g",
-    "title": "Narnia: The Magician's Nephew - Official Hindi Trailer | Exclusively In Cinemas February 12",
-    "url": "https://www.youtube.com/watch?v=CaS4dB4Lt1g",
-    "channel": "Sony Pictures India",
-    "thumbnail": "https://i.ytimg.com/vi/CaS4dB4Lt1g/hqdefault.jpg",
-    "duration": 150,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "lARiBU25bBo",
-    "title": "AVENGERS: DOOMSDAY Official Trailer (2026) Extended",
-    "url": "https://www.youtube.com/watch?v=lARiBU25bBo",
-    "channel": "MovieGasm‍․com",
-    "thumbnail": "https://i.ytimg.com/vi/lARiBU25bBo/hqdefault.jpg",
-    "duration": 222,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "AwK5KxoJsvk",
-    "title": "Blade Runner 2099 - NYCC Trailer | Prime Video",
-    "url": "https://www.youtube.com/watch?v=AwK5KxoJsvk",
-    "channel": "Prime Video",
-    "thumbnail": "https://i.ytimg.com/vi/AwK5KxoJsvk/hqdefault.jpg",
-    "duration": 160,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "h6DMmWvppF4",
-    "title": "TREASURE ISLAND Official Trailer (2026) Hayley Atwell",
-    "url": "https://www.youtube.com/watch?v=h6DMmWvppF4",
-    "channel": "ONE Media",
-    "thumbnail": "https://i.ytimg.com/vi/h6DMmWvppF4/hqdefault.jpg",
-    "duration": 90,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "UmfSGatf7Ew",
-    "title": "The Exorcist: Martyrs | Official Trailer",
-    "url": "https://www.youtube.com/watch?v=UmfSGatf7Ew",
-    "channel": "Universal Pictures India",
-    "thumbnail": "https://i.ytimg.com/vi/UmfSGatf7Ew/hqdefault.jpg",
-    "duration": 145,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "vKRghpnFzx4",
-    "title": "THE AWAKENING Official Trailer (2026)",
-    "url": "https://www.youtube.com/watch?v=vKRghpnFzx4",
-    "channel": "Movie Trailers Source",
-    "thumbnail": "https://i.ytimg.com/vi/vKRghpnFzx4/hqdefault.jpg",
-    "duration": 111,
-    "category": "hollywood_movies"
-  },
-  {
     "id": "iblhKtmMtzw",
     "title": "Narnia: The Magician's Nephew - Official Tamil Trailer | Exclusively In Cinemas February 12",
     "url": "https://www.youtube.com/watch?v=iblhKtmMtzw",
@@ -180,30 +135,12 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "G3miJSF8o_U",
-    "title": "GODS DON'T GIVE GIFTS Official Trailer (2026) New Sci-Fi Movies 4K",
-    "url": "https://www.youtube.com/watch?v=G3miJSF8o_U",
-    "channel": "MovieGasm‍․com",
-    "thumbnail": "https://i.ytimg.com/vi/G3miJSF8o_U/hqdefault.jpg",
-    "duration": 117,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "cwVE1qf6Ixs",
-    "title": "Mr. Irrelevant | Official Trailer (2026 Movie) - David Corenswet, Isabel May",
-    "url": "https://www.youtube.com/watch?v=cwVE1qf6Ixs",
-    "channel": "Paramount Pictures and New York Giants",
-    "thumbnail": "https://i.ytimg.com/vi/cwVE1qf6Ixs/hqdefault.jpg",
-    "duration": 180,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "U6sbm1OaJb8",
-    "title": "Street Fighter | New Trailer (2026 Movie)",
-    "url": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
-    "channel": "Paramount Pictures and Legendary",
-    "thumbnail": "https://i.ytimg.com/vi/U6sbm1OaJb8/hqdefault.jpg",
-    "duration": 169,
+    "id": "wl7uj7n7DoY",
+    "title": "The Body | Official Trailer | Netflix",
+    "url": "https://www.youtube.com/watch?v=wl7uj7n7DoY",
+    "channel": "Netflix",
+    "thumbnail": "https://i.ytimg.com/vi/wl7uj7n7DoY/hqdefault.jpg",
+    "duration": 131,
     "category": "hollywood_movies"
   },
   {
@@ -216,12 +153,75 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "zhApeaHMvfs",
-    "title": "JUMANJI: OPEN WORLD - Official Trailer (4K)",
-    "url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
-    "channel": "Sony Pictures Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/zhApeaHMvfs/hqdefault.jpg",
-    "duration": 187,
+    "id": "UmfSGatf7Ew",
+    "title": "The Exorcist: Martyrs | Official Trailer",
+    "url": "https://www.youtube.com/watch?v=UmfSGatf7Ew",
+    "channel": "Universal Pictures India",
+    "thumbnail": "https://i.ytimg.com/vi/UmfSGatf7Ew/hqdefault.jpg",
+    "duration": 145,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "A7lyvgnDuDE",
+    "title": "Ebenezer | Official Trailer (2026 Movie) - Johnny Depp, Ian McKellen, Rupert Grint, Sam Claflin",
+    "url": "https://www.youtube.com/watch?v=A7lyvgnDuDE",
+    "channel": "Paramount Pictures",
+    "thumbnail": "https://i.ytimg.com/vi/A7lyvgnDuDE/hqdefault.jpg",
+    "duration": 82,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "XwioqIb9kwY",
+    "title": "Gods Don't Give Gifts - Official Trailer (2026) New Sci Fi Movies 4K 1080p",
+    "url": "https://www.youtube.com/watch?v=XwioqIb9kwY",
+    "channel": "MetaMindslabs",
+    "thumbnail": "https://i.ytimg.com/vi/XwioqIb9kwY/hqdefault.jpg",
+    "duration": 118,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "CaS4dB4Lt1g",
+    "title": "Narnia: The Magician's Nephew - Official Hindi Trailer | Exclusively In Cinemas February 12",
+    "url": "https://www.youtube.com/watch?v=CaS4dB4Lt1g",
+    "channel": "Sony Pictures India",
+    "thumbnail": "https://i.ytimg.com/vi/CaS4dB4Lt1g/hqdefault.jpg",
+    "duration": 150,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "h6DMmWvppF4",
+    "title": "TREASURE ISLAND Official Trailer (2026) Hayley Atwell",
+    "url": "https://www.youtube.com/watch?v=h6DMmWvppF4",
+    "channel": "ONE Media",
+    "thumbnail": "https://i.ytimg.com/vi/h6DMmWvppF4/hqdefault.jpg",
+    "duration": 90,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "5jEeTPYVBsY",
+    "title": "Focker-In-Law | Official International Trailer (2026) | Paramount Pictures UK",
+    "url": "https://www.youtube.com/watch?v=5jEeTPYVBsY",
+    "channel": "Paramount Pictures UK",
+    "thumbnail": "https://i.ytimg.com/vi/5jEeTPYVBsY/hqdefault.jpg",
+    "duration": 151,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "pWdt8WMCqnc",
+    "title": "12 12 12 — Official Trailer | Apple TV",
+    "url": "https://www.youtube.com/watch?v=pWdt8WMCqnc",
+    "channel": "Apple TV",
+    "thumbnail": "https://i.ytimg.com/vi/pWdt8WMCqnc/hqdefault.jpg",
+    "duration": 127,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "6vxT8wXGLpc",
+    "title": "HEARTLAND Official Trailer (2026) Jessica Chastain",
+    "url": "https://www.youtube.com/watch?v=6vxT8wXGLpc",
+    "channel": "ONE Media",
+    "thumbnail": "https://i.ytimg.com/vi/6vxT8wXGLpc/hqdefault.jpg",
+    "duration": 127,
     "category": "hollywood_movies"
   },
   {
@@ -234,39 +234,39 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "pKD5M0JAH3w",
-    "title": "Confinement (2026) | Official Trailer | Paramount Movies",
-    "url": "https://www.youtube.com/watch?v=pKD5M0JAH3w",
-    "channel": "Paramount Movies",
-    "thumbnail": "https://i.ytimg.com/vi/pKD5M0JAH3w/hqdefault.jpg",
-    "duration": 105,
+    "id": "pV32AcPa-iA",
+    "title": "Ali G: Who Iz I? | Official Trailer 2",
+    "url": "https://www.youtube.com/watch?v=pV32AcPa-iA",
+    "channel": "Amazon MGM Studios and Ali G",
+    "thumbnail": "https://i.ytimg.com/vi/pV32AcPa-iA/hqdefault.jpg",
+    "duration": 129,
     "category": "hollywood_movies"
   },
   {
-    "id": "7tJqYvOwYAg",
-    "title": "APOCALYPSE Z: New World Official Trailer (2026) Prime Video | 4K",
-    "url": "https://www.youtube.com/watch?v=7tJqYvOwYAg",
-    "channel": "GameGasm",
-    "thumbnail": "https://i.ytimg.com/vi/7tJqYvOwYAg/hqdefault.jpg",
-    "duration": 130,
+    "id": "ThcBlOoKT1I",
+    "title": "LOVE LANGUAGE Official Trailer (2026) Chloë Grace Moretz",
+    "url": "https://www.youtube.com/watch?v=ThcBlOoKT1I",
+    "channel": "ONE Media",
+    "thumbnail": "https://i.ytimg.com/vi/ThcBlOoKT1I/hqdefault.jpg",
+    "duration": 151,
     "category": "hollywood_movies"
   },
   {
-    "id": "7fn8BREu93M",
-    "title": "STREET FIGHTER Official Trailer 2 (2026)",
-    "url": "https://www.youtube.com/watch?v=7fn8BREu93M",
+    "id": "vKRghpnFzx4",
+    "title": "THE AWAKENING Official Trailer (2026)",
+    "url": "https://www.youtube.com/watch?v=vKRghpnFzx4",
     "channel": "Movie Trailers Source",
-    "thumbnail": "https://i.ytimg.com/vi/7fn8BREu93M/hqdefault.jpg",
-    "duration": 175,
+    "thumbnail": "https://i.ytimg.com/vi/vKRghpnFzx4/hqdefault.jpg",
+    "duration": 111,
     "category": "hollywood_movies"
   },
   {
-    "id": "L24CYVpQ-LI",
-    "title": "Onslaught | Official Trailer HD | A24",
-    "url": "https://www.youtube.com/watch?v=L24CYVpQ-LI",
-    "channel": "A24",
-    "thumbnail": "https://i.ytimg.com/vi/L24CYVpQ-LI/hqdefault.jpg",
-    "duration": 144,
+    "id": "U6sbm1OaJb8",
+    "title": "Street Fighter | New Trailer (2026 Movie)",
+    "url": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
+    "channel": "Paramount Pictures and Legendary",
+    "thumbnail": "https://i.ytimg.com/vi/U6sbm1OaJb8/hqdefault.jpg",
+    "duration": 169,
     "category": "hollywood_movies"
   },
   {
@@ -276,6 +276,51 @@
     "channel": "CineFlex Entertainment",
     "thumbnail": "https://i.ytimg.com/vi/Y5ajDEfFMbE/hqdefault.jpg",
     "duration": 5723,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "RZfEYeMOI-Y",
+    "title": "Wrath of Valhalla | Hollywood New English Full HD Movie | Action Adventure Fantasy Thriller Revenge",
+    "url": "https://www.youtube.com/watch?v=RZfEYeMOI-Y",
+    "channel": "Zovix – English",
+    "thumbnail": "https://i.ytimg.com/vi/RZfEYeMOI-Y/hqdefault.jpg",
+    "duration": 8152,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "WpvK8VWMvHk",
+    "title": "Liam Neeson & Guy Pearce In THE FINAL ASSIGNMENT | Hollywood Full Action English Movie | Free Movies",
+    "url": "https://www.youtube.com/watch?v=WpvK8VWMvHk",
+    "channel": "Hollywood English Collection",
+    "thumbnail": "https://i.ytimg.com/vi/WpvK8VWMvHk/hqdefault.jpg",
+    "duration": 6199,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "Uvx_LiClOiY",
+    "title": "Runaway Full Movie HD | Hollywood English Action Thriller | One Heist Turns Into a High-Stakes Chase",
+    "url": "https://www.youtube.com/watch?v=Uvx_LiClOiY",
+    "channel": "Blue Orbit – Telugu",
+    "thumbnail": "https://i.ytimg.com/vi/Uvx_LiClOiY/hqdefault.jpg",
+    "duration": 4486,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "AKSN8A8IL38",
+    "title": "Trade to Kill || Best Hollywood Action Adventures Movie in English ll",
+    "url": "https://www.youtube.com/watch?v=AKSN8A8IL38",
+    "channel": "Fusion Flicks Movies",
+    "thumbnail": "https://i.ytimg.com/vi/AKSN8A8IL38/hqdefault.jpg",
+    "duration": 4704,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "DLw9r6H3xf0",
+    "title": "COLOMBIANA 2 (2026) | New Action Movie 2026 | Full Hollywood Action Movie in English 2026",
+    "url": "https://www.youtube.com/watch?v=DLw9r6H3xf0",
+    "channel": "Fast Forward Cinema",
+    "thumbnail": "https://i.ytimg.com/vi/DLw9r6H3xf0/hqdefault.jpg",
+    "duration": 6094,
     "category": "hollywood_movies"
   },
   {
@@ -297,66 +342,12 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "AKSN8A8IL38",
-    "title": "Trade to Kill || Best Hollywood Action Adventures Movie in English ll",
-    "url": "https://www.youtube.com/watch?v=AKSN8A8IL38",
-    "channel": "Fusion Flicks Movies",
-    "thumbnail": "https://i.ytimg.com/vi/AKSN8A8IL38/hqdefault.jpg",
-    "duration": 4704,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "Uvx_LiClOiY",
-    "title": "Runaway Full Movie HD | Hollywood English Action Thriller | One Heist Turns Into a High-Stakes Chase",
-    "url": "https://www.youtube.com/watch?v=Uvx_LiClOiY",
-    "channel": "Blue Orbit – Telugu",
-    "thumbnail": "https://i.ytimg.com/vi/Uvx_LiClOiY/hqdefault.jpg",
-    "duration": 4486,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "RZfEYeMOI-Y",
-    "title": "Wrath of Valhalla | Hollywood New English Full HD Movie | Action Adventure Fantasy Thriller Revenge",
-    "url": "https://www.youtube.com/watch?v=RZfEYeMOI-Y",
-    "channel": "Zovix – English",
-    "thumbnail": "https://i.ytimg.com/vi/RZfEYeMOI-Y/hqdefault.jpg",
-    "duration": 8152,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "qbJ54_lIDqM",
-    "title": "Sylvester Stallone and Madeline Stowe In THE BODYGUARD - Hollywood English Full Action English Movie",
-    "url": "https://www.youtube.com/watch?v=qbJ54_lIDqM",
-    "channel": "Blockbuster English Movies",
-    "thumbnail": "https://i.ytimg.com/vi/qbJ54_lIDqM/hqdefault.jpg",
-    "duration": 5052,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "wmy_IQphC9E",
-    "title": "LUCY 3 || Jason Statham And Scarlett New Action Movie 2026 | Full HD #newmovie In English 1080p",
-    "url": "https://www.youtube.com/watch?v=wmy_IQphC9E",
-    "channel": "CineVerse",
-    "thumbnail": "https://i.ytimg.com/vi/wmy_IQphC9E/hqdefault.jpg",
-    "duration": 5876,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "A07ZfodVbb8",
-    "title": "🔥ANTI-VENOM (2026) New Action Movie in English | Full Hollywood Action Movie in English 2026",
-    "url": "https://www.youtube.com/watch?v=A07ZfodVbb8",
-    "channel": "CineFlex Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/A07ZfodVbb8/hqdefault.jpg",
-    "duration": 5619,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "sAwppeQxQks",
-    "title": "The Money Hunt || Best Hollywood Action Adventures Movie in English ll",
-    "url": "https://www.youtube.com/watch?v=sAwppeQxQks",
-    "channel": "Collection Studio",
-    "thumbnail": "https://i.ytimg.com/vi/sAwppeQxQks/hqdefault.jpg",
-    "duration": 4771,
+    "id": "wtbZUJtjN0Q",
+    "title": "Nine Kingdoms | Full HD English Movie | Hollywood Action Thriller Film | Royal War | Epic Battle",
+    "url": "https://www.youtube.com/watch?v=wtbZUJtjN0Q",
+    "channel": "Chauhan Films – Tamil",
+    "thumbnail": "https://i.ytimg.com/vi/wtbZUJtjN0Q/hqdefault.jpg",
+    "duration": 8218,
     "category": "hollywood_movies"
   },
   {
@@ -369,12 +360,39 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "RcFW9ml2caI",
-    "title": "The Wolf's Revenge | Full Hollywood Action Adventure Fantasy Movie | New English Blockbuster Film HD",
-    "url": "https://www.youtube.com/watch?v=RcFW9ml2caI",
-    "channel": "HollyTube",
-    "thumbnail": "https://i.ytimg.com/vi/RcFW9ml2caI/hqdefault.jpg",
-    "duration": 9051,
+    "id": "sAwppeQxQks",
+    "title": "The Money Hunt || Best Hollywood Action Adventures Movie in English ll",
+    "url": "https://www.youtube.com/watch?v=sAwppeQxQks",
+    "channel": "Collection Studio",
+    "thumbnail": "https://i.ytimg.com/vi/sAwppeQxQks/hqdefault.jpg",
+    "duration": 4771,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "JaMiPNwKmSQ",
+    "title": "Kevin Costner's UNDERGROUND SPY - Hollywood English Movie | Blockbuster Action Packed English Movie",
+    "url": "https://www.youtube.com/watch?v=JaMiPNwKmSQ",
+    "channel": "Hollywood English Collection",
+    "thumbnail": "https://i.ytimg.com/vi/JaMiPNwKmSQ/hqdefault.jpg",
+    "duration": 6486,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "wmy_IQphC9E",
+    "title": "LUCY 3 || Jason Statham And Scarlett New Action Movie 2026 | Full HD #newmovie In English 1080p",
+    "url": "https://www.youtube.com/watch?v=wmy_IQphC9E",
+    "channel": "CineVerse",
+    "thumbnail": "https://i.ytimg.com/vi/wmy_IQphC9E/hqdefault.jpg",
+    "duration": 5876,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "lnG-VKDfKW4",
+    "title": "The Fallen Kingdom | Hollywood Epic Action Adventure | Latest Superhit Fantasy English Full Movie HD",
+    "url": "https://www.youtube.com/watch?v=lnG-VKDfKW4",
+    "channel": "Blue Orbit Media",
+    "thumbnail": "https://i.ytimg.com/vi/lnG-VKDfKW4/hqdefault.jpg",
+    "duration": 8537,
     "category": "hollywood_movies"
   },
   {
@@ -387,12 +405,12 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "jlbsUZPs5b8",
-    "title": "WOLF OF MEXICO - Full Hollywood Action Thriller Movie | English Movie | David, Jason | Free Movies",
-    "url": "https://www.youtube.com/watch?v=jlbsUZPs5b8",
-    "channel": "Majestic Movies",
-    "thumbnail": "https://i.ytimg.com/vi/jlbsUZPs5b8/hqdefault.jpg",
-    "duration": 5187,
+    "id": "Ve1cHGlExF8",
+    "title": "The Equalizer 4 (2026) | New Action Movie 2026 | Full Hollywood Action Movie in English 2026",
+    "url": "https://www.youtube.com/watch?v=Ve1cHGlExF8",
+    "channel": "CineVault Cinema",
+    "thumbnail": "https://i.ytimg.com/vi/Ve1cHGlExF8/hqdefault.jpg",
+    "duration": 5296,
     "category": "hollywood_movies"
   },
   {
@@ -405,93 +423,39 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "CjnIItdobV0",
-    "title": "🔥JOHN WICK (2026) New Action Movie in English (2026) | Full Hollywood Action Movie in English 2026",
-    "url": "https://www.youtube.com/watch?v=CjnIItdobV0",
-    "channel": "CineFlex Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/CjnIItdobV0/hqdefault.jpg",
-    "duration": 5115,
+    "id": "HR699VZyaB4",
+    "title": "DEATH ORDER :: (2026) Jason Statham | Full Action Movie | Full HD",
+    "url": "https://www.youtube.com/watch?v=HR699VZyaB4",
+    "channel": "ZED Drama",
+    "thumbnail": "https://i.ytimg.com/vi/HR699VZyaB4/hqdefault.jpg",
+    "duration": 5686,
     "category": "hollywood_movies"
   },
   {
-    "id": "WpvK8VWMvHk",
-    "title": "Liam Neeson & Guy Pearce In THE FINAL ASSIGNMENT | Hollywood Full Action English Movie | Free Movies",
-    "url": "https://www.youtube.com/watch?v=WpvK8VWMvHk",
-    "channel": "Hollywood English Collection",
-    "thumbnail": "https://i.ytimg.com/vi/WpvK8VWMvHk/hqdefault.jpg",
-    "duration": 6199,
+    "id": "qbJ54_lIDqM",
+    "title": "Sylvester Stallone and Madeline Stowe In THE BODYGUARD - Hollywood English Full Action English Movie",
+    "url": "https://www.youtube.com/watch?v=qbJ54_lIDqM",
+    "channel": "Blockbuster English Movies",
+    "thumbnail": "https://i.ytimg.com/vi/qbJ54_lIDqM/hqdefault.jpg",
+    "duration": 5052,
     "category": "hollywood_movies"
   },
   {
-    "id": "qkiNFzP5A2o",
-    "title": "Jason Statham In DOUBLE CROSS - Hollywood Movie | Free Movie | Superhit Action-Packed English Movie",
-    "url": "https://www.youtube.com/watch?v=qkiNFzP5A2o",
-    "channel": "Hollywood English Collection",
-    "thumbnail": "https://i.ytimg.com/vi/qkiNFzP5A2o/hqdefault.jpg",
-    "duration": 6332,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "Mg_CuDtpf0U",
-    "title": "The Last Howl Full HD Movie | Epic Action Adventure Fantasy | Warrior’s Revenge Against Dark Destiny",
-    "url": "https://www.youtube.com/watch?v=Mg_CuDtpf0U",
-    "channel": "Titan Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/Mg_CuDtpf0U/hqdefault.jpg",
-    "duration": 8505,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "Rp2cnd_dtbA",
-    "title": "Men in Black \" New Hollywood (2026) Full Movie in Hindi Dubbed | Latest Hollywood Action | HD Movie",
-    "url": "https://www.youtube.com/watch?v=Rp2cnd_dtbA",
-    "channel": "muviee world",
-    "thumbnail": "https://i.ytimg.com/vi/Rp2cnd_dtbA/hqdefault.jpg",
-    "duration": 6540,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "KmKFmgZ8TzQ",
-    "title": "ROBO GIRL - Hollywood Movie Hindi Dubbed | Sebastian Cavazza, Stoya | Full Romantic Sci-fi Movie",
-    "url": "https://www.youtube.com/watch?v=KmKFmgZ8TzQ",
-    "channel": "Rising Nova Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/KmKFmgZ8TzQ/hqdefault.jpg",
-    "duration": 3822,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "uzN63h-Li98",
-    "title": "DRUG MAFIA Full Hollywood Movie Hindi Dubbed | Hu Guofang, Zhao Jing, Li Meng | Chinese Action Movie",
-    "url": "https://www.youtube.com/watch?v=uzN63h-Li98",
+    "id": "Sslpb9TY4es",
+    "title": "NAKED ASSASSIN - New Released Full Hindi Dubbed Movie | Hollywood Action Movie In Hindi | Free Movie",
+    "url": "https://www.youtube.com/watch?v=Sslpb9TY4es",
     "channel": "Dimension Pictures",
-    "thumbnail": "https://i.ytimg.com/vi/uzN63h-Li98/hqdefault.jpg",
-    "duration": 5430,
+    "thumbnail": "https://i.ytimg.com/vi/Sslpb9TY4es/hqdefault.jpg",
+    "duration": 5201,
     "category": "hollywood_movies"
   },
   {
-    "id": "JtmCRZqWW5o",
-    "title": "Bermuda Tentacles | Hindi dubbed Hollywood full movie | Hollywood Movie Dubbed in Hindi",
-    "url": "https://www.youtube.com/watch?v=JtmCRZqWW5o",
-    "channel": "South Movie Full Hindi Dubbed",
-    "thumbnail": "https://i.ytimg.com/vi/JtmCRZqWW5o/hqdefault.jpg",
-    "duration": 5148,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "N97z_4qvhNw",
-    "title": "The Last Mission (2026) | Hollywood Full Movie Hindi Dubbed | Commando Action Thriller | 4K Ultra HD",
-    "url": "https://www.youtube.com/watch?v=N97z_4qvhNw",
+    "id": "EaKZEhaxuOY",
+    "title": "Commando Fire (2026) | Hollywood Full Movie Hindi Dubbed | Military Action Thriller | 4K Ultra HD",
+    "url": "https://www.youtube.com/watch?v=EaKZEhaxuOY",
     "channel": "Hollywood Hindi Dub",
-    "thumbnail": "https://i.ytimg.com/vi/N97z_4qvhNw/hqdefault.jpg",
-    "duration": 4846,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "shBDCdqsMb4",
-    "title": "New Hollywood Movie in Hindi Dubbed 2023 | Hindi Dubbed Movies | Captain Jack Sparrow|New Movie 2023",
-    "url": "https://www.youtube.com/watch?v=shBDCdqsMb4",
-    "channel": "Wood Wallah Films",
-    "thumbnail": "https://i.ytimg.com/vi/shBDCdqsMb4/hqdefault.jpg",
-    "duration": 8095,
+    "thumbnail": "https://i.ytimg.com/vi/EaKZEhaxuOY/hqdefault.jpg",
+    "duration": 5050,
     "category": "hollywood_movies"
   },
   {
@@ -504,12 +468,66 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "fAE3fVMNdds",
-    "title": "द सरफेस (THE SURFACE) | Hollywood Movies in Hindi Dubbed | full action HD Movies in Hindi",
-    "url": "https://www.youtube.com/watch?v=fAE3fVMNdds",
-    "channel": "Hollywood English Movies Dubbed in Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/fAE3fVMNdds/hqdefault.jpg",
-    "duration": 5060,
+    "id": "TphlUBGS2VQ",
+    "title": "NAKED | Hollywood Romantic Suspense Movie in Hindi Dubbed | Richard Tyson, Jeannette Weegar",
+    "url": "https://www.youtube.com/watch?v=TphlUBGS2VQ",
+    "channel": "BuzzHub Cinema",
+    "thumbnail": "https://i.ytimg.com/vi/TphlUBGS2VQ/hqdefault.jpg",
+    "duration": 4326,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "UCZx3uiAWeg",
+    "title": "CIA AGENT: MISSION MATRIX - Full Hollywood Movie Hindi Dubbed | Elliot, Amy T | Sci-Fi Action Movie",
+    "url": "https://www.youtube.com/watch?v=UCZx3uiAWeg",
+    "channel": "Rising Nova Premiere",
+    "thumbnail": "https://i.ytimg.com/vi/UCZx3uiAWeg/hqdefault.jpg",
+    "duration": 4210,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "JtmCRZqWW5o",
+    "title": "Bermuda Tentacles | Hindi dubbed Hollywood full movie | Hollywood Movie Dubbed in Hindi",
+    "url": "https://www.youtube.com/watch?v=JtmCRZqWW5o",
+    "channel": "South Movie Full Hindi Dubbed",
+    "thumbnail": "https://i.ytimg.com/vi/JtmCRZqWW5o/hqdefault.jpg",
+    "duration": 5148,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "51B0f9H-3s8",
+    "title": "Hollywood Sci-Fi Movies Island scape Action Movie| Hindi Dubbed Movies thriller Action Movie ",
+    "url": "https://www.youtube.com/watch?v=51B0f9H-3s8",
+    "channel": "Enjoy Movies and SWASTIK ENTERTAINMENT",
+    "thumbnail": "https://i.ytimg.com/vi/51B0f9H-3s8/hqdefault.jpg",
+    "duration": 4923,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "7_6aesf_A8M",
+    "title": "New Hollywood   Hot Movies 2018   Hindi Dubbed Full Action   Adventure Movies",
+    "url": "https://www.youtube.com/watch?v=7_6aesf_A8M",
+    "channel": "Movies Ka Dhamaka",
+    "thumbnail": "https://i.ytimg.com/vi/7_6aesf_A8M/hqdefault.jpg",
+    "duration": 4866,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "mGT2gvSRSsw",
+    "title": "Mukt (2026) New Released South Hindi Dubbed Action Movie | Kamal Haasan, Gautami, Niveda | New Movie",
+    "url": "https://www.youtube.com/watch?v=mGT2gvSRSsw",
+    "channel": "Dumdar HD Movies",
+    "thumbnail": "https://i.ytimg.com/vi/mGT2gvSRSsw/hqdefault.jpg",
+    "duration": 9686,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "IbDqOGprQOg",
+    "title": "TIME LOOP - Hollywood Movie Hindi Dubbed | Courtney Hope, Susan Blakely | Sci-fi Thriller Movie",
+    "url": "https://www.youtube.com/watch?v=IbDqOGprQOg",
+    "channel": "Rising Nova Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/IbDqOGprQOg/hqdefault.jpg",
+    "duration": 6556,
     "category": "hollywood_movies"
   },
   {
@@ -522,12 +540,30 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "CGQ8JwfmD5w",
-    "title": "the venom bank robbery full movie in hindi dubbed",
-    "url": "https://www.youtube.com/watch?v=CGQ8JwfmD5w",
-    "channel": "Full Movie hindi",
-    "thumbnail": "https://i.ytimg.com/vi/CGQ8JwfmD5w/hqdefault.jpg",
-    "duration": 6035,
+    "id": "VxDMdSF1DDs",
+    "title": "IRON FIGHTER - Full Hollywood Movie Hindi Dubbed | Quincy Brown, Mindy | Action Movie | हॉलीवुड मूवी",
+    "url": "https://www.youtube.com/watch?v=VxDMdSF1DDs",
+    "channel": "Hindi Cinema Talkies",
+    "thumbnail": "https://i.ytimg.com/vi/VxDMdSF1DDs/hqdefault.jpg",
+    "duration": 4672,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "XwGI1pVu16M",
+    "title": "LOST GOLD OF SAHARA - Hollywood Movie Hindi Dubbed | Monica, Christopher | Action Adventure Movie",
+    "url": "https://www.youtube.com/watch?v=XwGI1pVu16M",
+    "channel": "Rising Nova Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/XwGI1pVu16M/hqdefault.jpg",
+    "duration": 4930,
+    "category": "hollywood_movies"
+  },
+  {
+    "id": "HnFME0c_DFY",
+    "title": "THE TIGRESS - Full Hollywood Action Movie Hindi Dubbed | Terry M, Greg | Hindi Action Thriller Movie",
+    "url": "https://www.youtube.com/watch?v=HnFME0c_DFY",
+    "channel": "Rising Nova Premiere",
+    "thumbnail": "https://i.ytimg.com/vi/HnFME0c_DFY/hqdefault.jpg",
+    "duration": 5319,
     "category": "hollywood_movies"
   },
   {
@@ -540,57 +576,30 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "fmOhkXqwt6I",
-    "title": "Bridge To Terabithia (2007) Full Movie In Hindi | Hollywood Movie Hindi Dubbed 2023 | Fantasy Movie",
-    "url": "https://www.youtube.com/watch?v=fmOhkXqwt6I",
-    "channel": "Holly FILMS",
-    "thumbnail": "https://i.ytimg.com/vi/fmOhkXqwt6I/hqdefault.jpg",
-    "duration": 5732,
+    "id": "YYgjPxwH4ZE",
+    "title": "Hebah Patel (4k) New Released South Hindi Dubbed Action Movie | Indra Sena, Aishwarya Raj New Movie",
+    "url": "https://www.youtube.com/watch?v=YYgjPxwH4ZE",
+    "channel": "DRJ Records Zest",
+    "thumbnail": "https://i.ytimg.com/vi/YYgjPxwH4ZE/hqdefault.jpg",
+    "duration": 6722,
     "category": "hollywood_movies"
   },
   {
-    "id": "iaBglaCCXg8",
-    "title": "-70° ICE AGE - Full Hollywood Action Movie Hindi Dubbed | Sara, Ted | Action Adventure Sci-Fi Movie",
-    "url": "https://www.youtube.com/watch?v=iaBglaCCXg8",
-    "channel": "Rising Nova Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/iaBglaCCXg8/hqdefault.jpg",
-    "duration": 5839,
+    "id": "_Nsj7Oio5Lg",
+    "title": "FIRST SUNDAY | फ़र्स्ट संडे | Hollywood Movie Hindi Dubbed | Comedy Movie | Sony Pictures",
+    "url": "https://www.youtube.com/watch?v=_Nsj7Oio5Lg",
+    "channel": "Sony Pictures Entertainment - Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/_Nsj7Oio5Lg/hqdefault.jpg",
+    "duration": 5878,
     "category": "hollywood_movies"
   },
   {
-    "id": "EbmMi4Tzr2E",
-    "title": "Avatar 3 Full Movie Hindi Dubbed 2025 | War From Ashes | Full Action Adventure Movie | Game Movie",
-    "url": "https://www.youtube.com/watch?v=EbmMi4Tzr2E",
-    "channel": "Hindi Dub Cinematic",
-    "thumbnail": "https://i.ytimg.com/vi/EbmMi4Tzr2E/hqdefault.jpg",
-    "duration": 4972,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "YnNRAbFZ-8M",
-    "title": "THE FORBIDDEN RESORT - Hollywood Horror Movie Hindi Dubbed | Kawee, Raweewan | Hindi Horror Movie",
-    "url": "https://www.youtube.com/watch?v=YnNRAbFZ-8M",
-    "channel": "O Movies Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/YnNRAbFZ-8M/hqdefault.jpg",
-    "duration": 5025,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "H1xWUDI2L0o",
-    "title": "LOST IN AFRICA - Hollywood Movie Hindi Dubbed | Alexandra Neldel, Max von Thun | Adventure Movie",
-    "url": "https://www.youtube.com/watch?v=H1xWUDI2L0o",
-    "channel": "Rising Nova Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/H1xWUDI2L0o/hqdefault.jpg",
-    "duration": 5534,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "QAHCab91TFg",
-    "title": "The Descent Movie in Hindi | Hollywood Movie Hindi Dubbed | English Movies in Hindi",
-    "url": "https://www.youtube.com/watch?v=QAHCab91TFg",
-    "channel": "Superfine Films Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/QAHCab91TFg/hqdefault.jpg",
-    "duration": 5353,
+    "id": "-CtvL3_-lr4",
+    "title": "Chaos (2025) Full Movie Hindi Dubbed | Crime Action Thriller | Hollywood Movie HD",
+    "url": "https://www.youtube.com/watch?v=-CtvL3_-lr4",
+    "channel": "Cobra 11: Dabang Police Force",
+    "thumbnail": "https://i.ytimg.com/vi/-CtvL3_-lr4/hqdefault.jpg",
+    "duration": 4928,
     "category": "hollywood_movies"
   },
   {
@@ -603,21 +612,12 @@
     "category": "hollywood_movies"
   },
   {
-    "id": "ozIYRAjcfpE",
-    "title": "Badla Dinosaur Ka (Hindi Dubbed) | Full Action Adventure Hollywood Movie | Latest Hindi Dubbed Film",
-    "url": "https://www.youtube.com/watch?v=ozIYRAjcfpE",
-    "channel": "Cinekorn Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/ozIYRAjcfpE/hqdefault.jpg",
-    "duration": 5238,
-    "category": "hollywood_movies"
-  },
-  {
-    "id": "EaKZEhaxuOY",
-    "title": "Commando Fire (2026) | Hollywood Full Movie Hindi Dubbed | Military Action Thriller | 4K Ultra HD",
-    "url": "https://www.youtube.com/watch?v=EaKZEhaxuOY",
-    "channel": "Hollywood Hindi Dub",
-    "thumbnail": "https://i.ytimg.com/vi/EaKZEhaxuOY/hqdefault.jpg",
-    "duration": 5050,
+    "id": "EyKWd6pZIOo",
+    "title": "GOD OF TITANS - Full Hollywood Action Movie Hindi Dubbed | Marcus S | Hindi Action Adventure Movie",
+    "url": "https://www.youtube.com/watch?v=EyKWd6pZIOo",
+    "channel": "Rising Nova Premiere",
+    "thumbnail": "https://i.ytimg.com/vi/EyKWd6pZIOo/hqdefault.jpg",
+    "duration": 5647,
     "category": "hollywood_movies"
   }
 ]
