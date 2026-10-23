@@ -1,11 +1,20 @@
 [
   {
-    "id": "qp06Zau5AL4",
-    "title": "PM Shehbaz Sharif Warns India | 2 PM News Headlines | 10/21/2026 | Samaa TV",
-    "url": "https://www.youtube.com/watch?v=qp06Zau5AL4",
-    "channel": "SAMAA TV",
-    "thumbnail": "https://i.ytimg.com/vi/qp06Zau5AL4/hqdefault.jpg",
-    "duration": 701,
+    "id": "Sjgsn_8klVM",
+    "title": "Air Show Varanasi 2026 | WATCH LIVE: IAF's Aerial Spectacle Over Varanasi's Namo Ghat",
+    "url": "https://www.youtube.com/watch?v=Sjgsn_8klVM",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/Sjgsn_8klVM/hqdefault.jpg",
+    "duration": 27480,
+    "category": "news"
+  },
+  {
+    "id": "A7Q0V43e_Po",
+    "title": "🔴LIVE : Today Headlines | காலை 9 மணி தலைப்புச் செய்திகள் (23.10.2026) | 9 AM Headlines | ThanthiTV",
+    "url": "https://www.youtube.com/watch?v=A7Q0V43e_Po",
+    "channel": "Thanthi TV",
+    "thumbnail": "https://i.ytimg.com/vi/A7Q0V43e_Po/hqdefault.jpg",
+    "duration": 0,
     "category": "news"
   },
   {
@@ -18,30 +27,21 @@
     "category": "news"
   },
   {
+    "id": "ggem-V_pyd8",
+    "title": "Today Breaking News! 25 Major Headlines for October 23, 2026, in a Flash, Big News PM Modi UP",
+    "url": "https://www.youtube.com/watch?v=ggem-V_pyd8",
+    "channel": "Fast News Today 24",
+    "thumbnail": "https://i.ytimg.com/vi/ggem-V_pyd8/hqdefault.jpg",
+    "duration": 656,
+    "category": "news"
+  },
+  {
     "id": "T8SI4E4Cyto",
     "title": "Sun Seithigal | சன் மாலை செய்திகள் | 22-10-2026 | Evening News | Sun News",
     "url": "https://www.youtube.com/watch?v=T8SI4E4Cyto",
     "channel": "Sun News",
     "thumbnail": "https://i.ytimg.com/vi/T8SI4E4Cyto/hqdefault.jpg",
     "duration": 1020,
-    "category": "news"
-  },
-  {
-    "id": "q3GtxKYdxnM",
-    "title": "Sun Seithigal | சன் காலை செய்திகள் | 22-10-2026 | Morning News | Sun News",
-    "url": "https://www.youtube.com/watch?v=q3GtxKYdxnM",
-    "channel": "Sun News",
-    "thumbnail": "https://i.ytimg.com/vi/q3GtxKYdxnM/hqdefault.jpg",
-    "duration": 1118,
-    "category": "news"
-  },
-  {
-    "id": "fKDKUzCWOhU",
-    "title": "Morning 50 | Today's Top News | Oct 20, 2026 | Tiger Shroff | SC | CEC | EC | Dipke | BJP | Rahul",
-    "url": "https://www.youtube.com/watch?v=fKDKUzCWOhU",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/fKDKUzCWOhU/hqdefault.jpg",
-    "duration": 1656,
     "category": "news"
   },
   {
@@ -54,48 +54,57 @@
     "category": "news"
   },
   {
-    "id": "LWCklPZvZ6A",
-    "title": "Live: India vs New Zealand, 1st T20I Live Match Today 2026 Series Cricket Commentary Score 2nd Inn",
-    "url": "https://www.youtube.com/watch?v=LWCklPZvZ6A",
-    "channel": "CricTalks",
-    "thumbnail": "https://i.ytimg.com/vi/LWCklPZvZ6A/hqdefault.jpg",
-    "duration": 9927,
+    "id": "zIKWqPzjkaw",
+    "title": "Today's 3.30 PM Top Breaking News | Oct 22, 2026 | CEC | CJP | Rahul | Dipke | INDIA",
+    "url": "https://www.youtube.com/watch?v=zIKWqPzjkaw",
+    "channel": "News 24",
+    "thumbnail": "https://i.ytimg.com/vi/zIKWqPzjkaw/hqdefault.jpg",
+    "duration": 767,
     "category": "news"
   },
   {
-    "id": "ULIje6-RmNk",
-    "title": "India Vs New Zealand 1st T20 Match Full Highlights 2026 | Ind Vs Nz Highlights",
-    "url": "https://www.youtube.com/watch?v=ULIje6-RmNk",
-    "channel": "Kabaddi MAX",
-    "thumbnail": "https://i.ytimg.com/vi/ULIje6-RmNk/hqdefault.jpg",
-    "duration": 1005,
+    "id": "qp06Zau5AL4",
+    "title": "PM Shehbaz Sharif Warns India | 2 PM News Headlines | 10/21/2026 | Samaa TV",
+    "url": "https://www.youtube.com/watch?v=qp06Zau5AL4",
+    "channel": "SAMAA TV",
+    "thumbnail": "https://i.ytimg.com/vi/qp06Zau5AL4/hqdefault.jpg",
+    "duration": 701,
     "category": "news"
   },
   {
-    "id": "ggem-V_pyd8",
-    "title": "Today Breaking News! 25 Major Headlines for October 23, 2026, in a Flash, Big News PM Modi UP",
-    "url": "https://www.youtube.com/watch?v=ggem-V_pyd8",
-    "channel": "Fast News Today 24",
-    "thumbnail": "https://i.ytimg.com/vi/ggem-V_pyd8/hqdefault.jpg",
-    "duration": 656,
+    "id": "fKDKUzCWOhU",
+    "title": "Morning 50 | Today's Top News | Oct 20, 2026 | Tiger Shroff | SC | CEC | EC | Dipke | BJP | Rahul",
+    "url": "https://www.youtube.com/watch?v=fKDKUzCWOhU",
+    "channel": "News 24",
+    "thumbnail": "https://i.ytimg.com/vi/fKDKUzCWOhU/hqdefault.jpg",
+    "duration": 1656,
     "category": "news"
   },
   {
-    "id": "BGFe8chVWQg",
-    "title": "20 October 2026 | अब तक की बड़ी ख़बरें | Top 10 News | Breaking news | Latest news in hindi #dblive",
-    "url": "https://www.youtube.com/watch?v=BGFe8chVWQg",
-    "channel": "DB Live",
-    "thumbnail": "https://i.ytimg.com/vi/BGFe8chVWQg/hqdefault.jpg",
-    "duration": 225,
+    "id": "8-63F_gWEUo",
+    "title": "23 October 2026 | Aaj Ki 25 Badi Khabrein | Top 25 Breaking News Today | Ravish Kumar Prime Time",
+    "url": "https://www.youtube.com/watch?v=8-63F_gWEUo",
+    "channel": "Same Mini News",
+    "thumbnail": "https://i.ytimg.com/vi/8-63F_gWEUo/hqdefault.jpg",
+    "duration": 0,
     "category": "news"
   },
   {
-    "id": "FgyHCr39xNo",
-    "title": "19 October 2026 |Khabar 20_20 | बड़ी ख़बरें|Breaking news |Rahul Gandhi |Bihar |Iran news |#dblive",
-    "url": "https://www.youtube.com/watch?v=FgyHCr39xNo",
-    "channel": "DB Live",
-    "thumbnail": "https://i.ytimg.com/vi/FgyHCr39xNo/hqdefault.jpg",
-    "duration": 213,
+    "id": "q3GtxKYdxnM",
+    "title": "Sun Seithigal | சன் காலை செய்திகள் | 22-10-2026 | Morning News | Sun News",
+    "url": "https://www.youtube.com/watch?v=q3GtxKYdxnM",
+    "channel": "Sun News",
+    "thumbnail": "https://i.ytimg.com/vi/q3GtxKYdxnM/hqdefault.jpg",
+    "duration": 1118,
+    "category": "news"
+  },
+  {
+    "id": "mAs238SymRk",
+    "title": "🔴LIVE : Today Headlines - 23 OCTOBER 2026 | 9 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK",
+    "url": "https://www.youtube.com/watch?v=mAs238SymRk",
+    "channel": "Polimer News",
+    "thumbnail": "https://i.ytimg.com/vi/mAs238SymRk/hqdefault.jpg",
+    "duration": 0,
     "category": "news"
   },
   {
@@ -108,30 +117,30 @@
     "category": "news"
   },
   {
-    "id": "_tHUgWBY3hc",
-    "title": "Live: IND vs NZ, 1st T20I, 2026 Series, Live match Today, Live Cricket Score, Commentary 7 Over",
-    "url": "https://www.youtube.com/watch?v=_tHUgWBY3hc",
-    "channel": "CricTalks Live",
-    "thumbnail": "https://i.ytimg.com/vi/_tHUgWBY3hc/hqdefault.jpg",
-    "duration": 7137,
+    "id": "LWCklPZvZ6A",
+    "title": "Live: India vs New Zealand, 1st T20I Live Match Today 2026 Series Cricket Commentary Score 2nd Inn",
+    "url": "https://www.youtube.com/watch?v=LWCklPZvZ6A",
+    "channel": "CricTalks",
+    "thumbnail": "https://i.ytimg.com/vi/LWCklPZvZ6A/hqdefault.jpg",
+    "duration": 9927,
     "category": "news"
   },
   {
-    "id": "iYL__NTx8mQ",
-    "title": "19 October 2026 | अब तक की बड़ी ख़बरें | Top 10 News | Breaking news | Latest news in hindi #dblive",
-    "url": "https://www.youtube.com/watch?v=iYL__NTx8mQ",
+    "id": "FgyHCr39xNo",
+    "title": "19 October 2026 |Khabar 20_20 | बड़ी ख़बरें|Breaking news |Rahul Gandhi |Bihar |Iran news |#dblive",
+    "url": "https://www.youtube.com/watch?v=FgyHCr39xNo",
     "channel": "DB Live",
-    "thumbnail": "https://i.ytimg.com/vi/iYL__NTx8mQ/hqdefault.jpg",
-    "duration": 244,
+    "thumbnail": "https://i.ytimg.com/vi/FgyHCr39xNo/hqdefault.jpg",
+    "duration": 213,
     "category": "news"
   },
   {
-    "id": "KMue3nXCsOE",
-    "title": "🔴LIVE: Today Headlines - 22 OCTOBER 2026 | 11 மணி தலைப்புச் செய்திகள் | HEADLINES | CMVIJAY | TVK",
-    "url": "https://www.youtube.com/watch?v=KMue3nXCsOE",
-    "channel": "Polimer News",
-    "thumbnail": "https://i.ytimg.com/vi/KMue3nXCsOE/hqdefault.jpg",
-    "duration": 42899,
+    "id": "HEUdqvCPIeE",
+    "title": "Live: India Vs New Zealand, 1st T20I, 2026 Series | Live Match Today Score Commentary | CricTalks",
+    "url": "https://www.youtube.com/watch?v=HEUdqvCPIeE",
+    "channel": "CricTalks",
+    "thumbnail": "https://i.ytimg.com/vi/HEUdqvCPIeE/hqdefault.jpg",
+    "duration": 25283,
     "category": "news"
   },
   {
@@ -144,21 +153,30 @@
     "category": "news"
   },
   {
-    "id": "Y1EAvFkTRVM",
-    "title": "India vs New Zealand 1st T20 Full Highlights 2026 | IND VS NZ",
-    "url": "https://www.youtube.com/watch?v=Y1EAvFkTRVM",
-    "channel": "Ghazi Shan",
-    "thumbnail": "https://i.ytimg.com/vi/Y1EAvFkTRVM/hqdefault.jpg",
-    "duration": 1327,
+    "id": "ih7WadtoynY",
+    "title": "🔴 Live: IND vs NZ, 1st T20I, 2026 Series Live Cricket Match Today, Live Score Commentary 11 Ov",
+    "url": "https://www.youtube.com/watch?v=ih7WadtoynY",
+    "channel": "CricTalks",
+    "thumbnail": "https://i.ytimg.com/vi/ih7WadtoynY/hqdefault.jpg",
+    "duration": 14270,
     "category": "news"
   },
   {
-    "id": "3QGibeVsmJc",
-    "title": "Top 100 News of the Day | News Shatak | Oct 19, 2026 | Rahul | CJP | CJI | Modi | Tiger Shroff",
-    "url": "https://www.youtube.com/watch?v=3QGibeVsmJc",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/3QGibeVsmJc/hqdefault.jpg",
-    "duration": 1055,
+    "id": "cZQZ_44ZhBw",
+    "title": "आज 'इतने बजे' से INDIA vs NEW ZEALAND 1st T20 | FREE में इन 5 Channels पर LIVE STREAM | Star, Sony?",
+    "url": "https://www.youtube.com/watch?v=cZQZ_44ZhBw",
+    "channel": "News24 Sports",
+    "thumbnail": "https://i.ytimg.com/vi/cZQZ_44ZhBw/hqdefault.jpg",
+    "duration": 187,
+    "category": "news"
+  },
+  {
+    "id": "SLxDQ5YtKug",
+    "title": "🔴 Live: IND vs NZ, 1st T20I, 2026 Series, Cricket Live Match Today, Live Score Commentary - 8 Ov",
+    "url": "https://www.youtube.com/watch?v=SLxDQ5YtKug",
+    "channel": "CricTalks",
+    "thumbnail": "https://i.ytimg.com/vi/SLxDQ5YtKug/hqdefault.jpg",
+    "duration": 6017,
     "category": "news"
   },
   {
@@ -168,6 +186,15 @@
     "channel": "DB Live",
     "thumbnail": "https://i.ytimg.com/vi/V3N2S-jVPK0/hqdefault.jpg",
     "duration": 1236,
+    "category": "news"
+  },
+  {
+    "id": "i1YuhV4kw6A",
+    "title": "din bhar ki khabar |news of the day, hindi news india | top | NEET | rahul gandhi | protest #dblive",
+    "url": "https://www.youtube.com/watch?v=i1YuhV4kw6A",
+    "channel": "DB Live",
+    "thumbnail": "https://i.ytimg.com/vi/i1YuhV4kw6A/hqdefault.jpg",
+    "duration": 1042,
     "category": "news"
   },
   {
@@ -198,6 +225,15 @@
     "category": "news"
   },
   {
+    "id": "aFuXlvWPZLY",
+    "title": "Rajasthan Panchayat Election 2026: पहले चरण का मतदान समाप्त | First India News",
+    "url": "https://www.youtube.com/watch?v=aFuXlvWPZLY",
+    "channel": "First India News",
+    "thumbnail": "https://i.ytimg.com/vi/aFuXlvWPZLY/hqdefault.jpg",
+    "duration": 303,
+    "category": "news"
+  },
+  {
     "id": "ZPFUC5Wj27Q",
     "title": "Top 100 News of the Day | News Shatak | 16 May 2026 | Trump | Petrol Price | BJP | Rahul | Modi",
     "url": "https://www.youtube.com/watch?v=ZPFUC5Wj27Q",
@@ -216,21 +252,12 @@
     "category": "news"
   },
   {
-    "id": "TXdsWvYpKDw",
-    "title": "Sun Seithigal | சன் காலை செய்திகள் | 19-10-2026 | Morning News | Sun News",
-    "url": "https://www.youtube.com/watch?v=TXdsWvYpKDw",
-    "channel": "Sun News",
-    "thumbnail": "https://i.ytimg.com/vi/TXdsWvYpKDw/hqdefault.jpg",
-    "duration": 1107,
-    "category": "news"
-  },
-  {
-    "id": "fp_7X3VWIuA",
-    "title": "FULL REPLAY (English) : NorthEast United FC vs Kerala Blasters FC (4-1) | MG ISL 2026-27 | GW 2",
-    "url": "https://www.youtube.com/watch?v=fp_7X3VWIuA",
-    "channel": "MG Indian Super League",
-    "thumbnail": "https://i.ytimg.com/vi/fp_7X3VWIuA/hqdefault.jpg",
-    "duration": 8722,
+    "id": "uOAgCxCZWwI",
+    "title": "IED Blast in Pakistan: Major Wajahat Martyred | 8 AM SAMAA News Headlines | 19 October 2026",
+    "url": "https://www.youtube.com/watch?v=uOAgCxCZWwI",
+    "channel": "SAMAA TV",
+    "thumbnail": "https://i.ytimg.com/vi/uOAgCxCZWwI/hqdefault.jpg",
+    "duration": 781,
     "category": "news"
   },
   {
@@ -252,6 +279,15 @@
     "category": "news"
   },
   {
+    "id": "fp_7X3VWIuA",
+    "title": "FULL REPLAY (English) : NorthEast United FC vs Kerala Blasters FC (4-1) | MG ISL 2026-27 | GW 2",
+    "url": "https://www.youtube.com/watch?v=fp_7X3VWIuA",
+    "channel": "MG Indian Super League",
+    "thumbnail": "https://i.ytimg.com/vi/fp_7X3VWIuA/hqdefault.jpg",
+    "duration": 8722,
+    "category": "news"
+  },
+  {
     "id": "Kgy6I1t3WiY",
     "title": "First Trade 21st October 2026: Zee Business Live | Share Market Live Updates | Stock Market News",
     "url": "https://www.youtube.com/watch?v=Kgy6I1t3WiY",
@@ -270,39 +306,12 @@
     "category": "news"
   },
   {
-    "id": "MDpETg91alw",
-    "title": "18 October 2026 |Khabar 20_20 | बड़ी ख़बरें|Breaking news |Rahul Gandhi |Bihar |Iran news |#dblive",
-    "url": "https://www.youtube.com/watch?v=MDpETg91alw",
-    "channel": "DB Live",
-    "thumbnail": "https://i.ytimg.com/vi/MDpETg91alw/hqdefault.jpg",
-    "duration": 223,
-    "category": "news"
-  },
-  {
-    "id": "RdqV78loruY",
-    "title": "🔴IND vs NZ: India vs New Zealand 1st T20I Live Watchalong | Live match Today, Live Cricket Score",
-    "url": "https://www.youtube.com/watch?v=RdqV78loruY",
-    "channel": "KM PUNK",
-    "thumbnail": "https://i.ytimg.com/vi/RdqV78loruY/hqdefault.jpg",
-    "duration": 7087,
-    "category": "news"
-  },
-  {
     "id": "OUXne-5yUOk",
     "title": "Top 100 News of the Day | News Century | June 19, 2026 | Rahul | Modi | Uddhav | Ayodhya",
     "url": "https://www.youtube.com/watch?v=OUXne-5yUOk",
     "channel": "News 24",
     "thumbnail": "https://i.ytimg.com/vi/OUXne-5yUOk/hqdefault.jpg",
     "duration": 952,
-    "category": "news"
-  },
-  {
-    "id": "q1bCdtYmgP8",
-    "title": "Duniya Bhar Se | 21 October 2026 | #worldnews | #newsupdate | 4tv News",
-    "url": "https://www.youtube.com/watch?v=q1bCdtYmgP8",
-    "channel": "4tv News Channel",
-    "thumbnail": "https://i.ytimg.com/vi/q1bCdtYmgP8/hqdefault.jpg",
-    "duration": 1091,
     "category": "news"
   },
   {
@@ -315,15 +324,6 @@
     "category": "news"
   },
   {
-    "id": "6d7puy8HLTs",
-    "title": "9 PM | ETV Telugu News | 21st October \"2026",
-    "url": "https://www.youtube.com/watch?v=6d7puy8HLTs",
-    "channel": "ETV Andhra Pradesh and ETV Telangana",
-    "thumbnail": "https://i.ytimg.com/vi/6d7puy8HLTs/hqdefault.jpg",
-    "duration": 1410,
-    "category": "news"
-  },
-  {
     "id": "nefy60QWeY4",
     "title": "22 October 2026 Haryana News || हरियाणा की ताजा खबरें || Haryana Live News || CWB Hindi News",
     "url": "https://www.youtube.com/watch?v=nefy60QWeY4",
@@ -333,30 +333,48 @@
     "category": "news"
   },
   {
-    "id": "NlB45kNj6oQ",
-    "title": "Sun Seithigal | சன் மாலை செய்திகள் | 19-10-2026 | Evening News | Sun News",
-    "url": "https://www.youtube.com/watch?v=NlB45kNj6oQ",
+    "id": "MDpETg91alw",
+    "title": "18 October 2026 |Khabar 20_20 | बड़ी ख़बरें|Breaking news |Rahul Gandhi |Bihar |Iran news |#dblive",
+    "url": "https://www.youtube.com/watch?v=MDpETg91alw",
+    "channel": "DB Live",
+    "thumbnail": "https://i.ytimg.com/vi/MDpETg91alw/hqdefault.jpg",
+    "duration": 223,
+    "category": "news"
+  },
+  {
+    "id": "FKVSvgOdy-c",
+    "title": "din bhar ki khabar |news of the day, hindi news india | top | NEET | rahul gandhi | protest #dblive",
+    "url": "https://www.youtube.com/watch?v=FKVSvgOdy-c",
+    "channel": "DB Live",
+    "thumbnail": "https://i.ytimg.com/vi/FKVSvgOdy-c/hqdefault.jpg",
+    "duration": 1202,
+    "category": "news"
+  },
+  {
+    "id": "TXdsWvYpKDw",
+    "title": "Sun Seithigal | சன் காலை செய்திகள் | 19-10-2026 | Morning News | Sun News",
+    "url": "https://www.youtube.com/watch?v=TXdsWvYpKDw",
     "channel": "Sun News",
-    "thumbnail": "https://i.ytimg.com/vi/NlB45kNj6oQ/hqdefault.jpg",
-    "duration": 1032,
+    "thumbnail": "https://i.ytimg.com/vi/TXdsWvYpKDw/hqdefault.jpg",
+    "duration": 1107,
     "category": "news"
   },
   {
-    "id": "aFuXlvWPZLY",
-    "title": "Rajasthan Panchayat Election 2026: पहले चरण का मतदान समाप्त | First India News",
-    "url": "https://www.youtube.com/watch?v=aFuXlvWPZLY",
-    "channel": "First India News",
-    "thumbnail": "https://i.ytimg.com/vi/aFuXlvWPZLY/hqdefault.jpg",
-    "duration": 303,
+    "id": "t5tXc1B85gI",
+    "title": "Headlines Now | 6 AM | 20-10-2026 | Sun News | Tamil News Today | Latest News",
+    "url": "https://www.youtube.com/watch?v=t5tXc1B85gI",
+    "channel": "Sun News",
+    "thumbnail": "https://i.ytimg.com/vi/t5tXc1B85gI/hqdefault.jpg",
+    "duration": 523,
     "category": "news"
   },
   {
-    "id": "e9wG7EGHeII",
-    "title": "KSR Paper Analysis: Today News Papers Top Headlines | 22-10-2026 | KSR Live Show  @SakshiTV",
-    "url": "https://www.youtube.com/watch?v=e9wG7EGHeII",
-    "channel": "Sakshi TV",
-    "thumbnail": "https://i.ytimg.com/vi/e9wG7EGHeII/hqdefault.jpg",
-    "duration": 445,
+    "id": "RdqV78loruY",
+    "title": "🔴IND vs NZ: India vs New Zealand 1st T20I Live Watchalong | Live match Today, Live Cricket Score",
+    "url": "https://www.youtube.com/watch?v=RdqV78loruY",
+    "channel": "KM PUNK",
+    "thumbnail": "https://i.ytimg.com/vi/RdqV78loruY/hqdefault.jpg",
+    "duration": 7087,
     "category": "news"
   },
   {
@@ -369,12 +387,21 @@
     "category": "news"
   },
   {
-    "id": "LEdl37cV4Ys",
-    "title": "India vs New Zealand 1st T20i Highlights | IND vs NZ | Today Highlights | Vaibhav | Rinku",
-    "url": "https://www.youtube.com/watch?v=LEdl37cV4Ys",
-    "channel": "R.S News",
-    "thumbnail": "https://i.ytimg.com/vi/LEdl37cV4Ys/hqdefault.jpg",
-    "duration": 290,
+    "id": "AF9qX3P65d8",
+    "title": "Sau Baat Ki Ek Baat Live: CJP | Tiranga Yatra | Abhijeet Dipke | Rahul Gandhi | Kishore Ajwani",
+    "url": "https://www.youtube.com/watch?v=AF9qX3P65d8",
+    "channel": "News18 India",
+    "thumbnail": "https://i.ytimg.com/vi/AF9qX3P65d8/hqdefault.jpg",
+    "duration": 0,
+    "category": "news"
+  },
+  {
+    "id": "NlB45kNj6oQ",
+    "title": "Sun Seithigal | சன் மாலை செய்திகள் | 19-10-2026 | Evening News | Sun News",
+    "url": "https://www.youtube.com/watch?v=NlB45kNj6oQ",
+    "channel": "Sun News",
+    "thumbnail": "https://i.ytimg.com/vi/NlB45kNj6oQ/hqdefault.jpg",
+    "duration": 1032,
     "category": "news"
   },
   {
@@ -387,30 +414,21 @@
     "category": "news"
   },
   {
-    "id": "WJPnIJo59B0",
-    "title": "Bihar news live aaj ka taaja news of 19th October 2026.Mahanavami muhurat,MLC election,Patna Airport",
-    "url": "https://www.youtube.com/watch?v=WJPnIJo59B0",
-    "channel": "Bihari news",
-    "thumbnail": "https://i.ytimg.com/vi/WJPnIJo59B0/hqdefault.jpg",
-    "duration": 1490,
-    "category": "news"
-  },
-  {
-    "id": "PoZirHBOFAU",
-    "title": "Tiger Shroff Escapes Firing | All The Videos Decoded | NewsX",
-    "url": "https://www.youtube.com/watch?v=PoZirHBOFAU",
-    "channel": "NewsX Live",
-    "thumbnail": "https://i.ytimg.com/vi/PoZirHBOFAU/hqdefault.jpg",
-    "duration": 80,
-    "category": "news"
-  },
-  {
     "id": "XCPZvv7KEYE",
     "title": "Top 100 News of the Day | News Shatak | July 3, 2026 | Modi | Donation Theft | Congress | BJP",
     "url": "https://www.youtube.com/watch?v=XCPZvv7KEYE",
     "channel": "News 24",
     "thumbnail": "https://i.ytimg.com/vi/XCPZvv7KEYE/hqdefault.jpg",
     "duration": 1136,
+    "category": "news"
+  },
+  {
+    "id": "YeMr-kX2jrQ",
+    "title": "Top 100 News of the Day | News Shatak | May 12, 2026 | Modi | Delhi | Assam CM Oath | NEET EXAM",
+    "url": "https://www.youtube.com/watch?v=YeMr-kX2jrQ",
+    "channel": "News 24",
+    "thumbnail": "https://i.ytimg.com/vi/YeMr-kX2jrQ/hqdefault.jpg",
+    "duration": 897,
     "category": "news"
   },
   {
@@ -423,39 +441,21 @@
     "category": "news"
   },
   {
-    "id": "gfwGoFWnjEU",
-    "title": "7 AM | ETV Telugu News | 18th October \"2026",
-    "url": "https://www.youtube.com/watch?v=gfwGoFWnjEU",
-    "channel": "ETV Andhra Pradesh and ETV Telangana",
-    "thumbnail": "https://i.ytimg.com/vi/gfwGoFWnjEU/hqdefault.jpg",
-    "duration": 1366,
+    "id": "846wA0lkXM8",
+    "title": "Sun Seithigal | சன் காலை செய்திகள் | 18-10-2026 | Morning News | Sun News",
+    "url": "https://www.youtube.com/watch?v=846wA0lkXM8",
+    "channel": "Sun News",
+    "thumbnail": "https://i.ytimg.com/vi/846wA0lkXM8/hqdefault.jpg",
+    "duration": 1107,
     "category": "news"
   },
   {
-    "id": "1I-fWSuHyMM",
-    "title": "Today's Headlines | 01 AUG 2026 | காலை தலைப்புச் செய்திகள் | Morning Headlines |Tamil News |CM vijay",
-    "url": "https://www.youtube.com/watch?v=1I-fWSuHyMM",
-    "channel": "Sathiyam News",
-    "thumbnail": "https://i.ytimg.com/vi/1I-fWSuHyMM/hqdefault.jpg",
-    "duration": 615,
-    "category": "news"
-  },
-  {
-    "id": "ncDnUV1ZAyk",
-    "title": "New Song 2026 | New Hindi Song | Teri Aankhon Mein | Yash | Rakul Preet | New Song",
-    "url": "https://www.youtube.com/watch?v=ncDnUV1ZAyk",
-    "channel": "Gaurav Mali",
-    "thumbnail": "https://i.ytimg.com/vi/ncDnUV1ZAyk/hqdefault.jpg",
-    "duration": 279,
-    "category": "news"
-  },
-  {
-    "id": "3XcpUOuXV0A",
-    "title": "India: Police crack down on New Delhi protests • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=3XcpUOuXV0A",
-    "channel": "FRANCE 24 English",
-    "thumbnail": "https://i.ytimg.com/vi/3XcpUOuXV0A/hqdefault.jpg",
-    "duration": 115,
+    "id": "HAdggiYgNv0",
+    "title": "CJP News LIVE: Trouble For CJP’s Saurav Das, Ashutosh Ranka As Delhi Crime Branch Issues Summons",
+    "url": "https://www.youtube.com/watch?v=HAdggiYgNv0",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/HAdggiYgNv0/hqdefault.jpg",
+    "duration": 27331,
     "category": "news"
   },
   {
@@ -468,21 +468,12 @@
     "category": "news"
   },
   {
-    "id": "C3WocAIWefM",
-    "title": "BJP vs Congress Row LIVE: Amit Shah Attacks Rahul Gandhi Over ‘Vietnam Trip’ LIVE UPDATES",
-    "url": "https://www.youtube.com/watch?v=C3WocAIWefM",
+    "id": "EPgElPoE-p8",
+    "title": "Rajdeep Sardesai LIVE: CJP's Saurav Das & Ranka Released | Right To Protest Or Public Order?",
+    "url": "https://www.youtube.com/watch?v=EPgElPoE-p8",
     "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/C3WocAIWefM/hqdefault.jpg",
-    "duration": 17183,
-    "category": "news"
-  },
-  {
-    "id": "u_zxih1QwBU",
-    "title": "Republic TV LIVE: October 22, 2026 | India | Global News | Tiger Shroff Attack Update",
-    "url": "https://www.youtube.com/watch?v=u_zxih1QwBU",
-    "channel": "Republic World",
-    "thumbnail": "https://i.ytimg.com/vi/u_zxih1QwBU/hqdefault.jpg",
-    "duration": 0,
+    "thumbnail": "https://i.ytimg.com/vi/EPgElPoE-p8/hqdefault.jpg",
+    "duration": 42896,
     "category": "news"
   },
   {
@@ -495,48 +486,12 @@
     "category": "news"
   },
   {
-    "id": "32eI-mY2ygc",
-    "title": "Zakir Naik Says ‘After BJP Goes’ On India Return | Maj GD Bakshi (Retd) Alleges Regime Change Plot",
-    "url": "https://www.youtube.com/watch?v=32eI-mY2ygc",
-    "channel": "Republic World",
-    "thumbnail": "https://i.ytimg.com/vi/32eI-mY2ygc/hqdefault.jpg",
-    "duration": 455,
-    "category": "news"
-  },
-  {
-    "id": "EPgElPoE-p8",
-    "title": "Rajdeep Sardesai LIVE: CJP's Saurav Das & Ranka Released | Right To Protest Or Public Order?",
-    "url": "https://www.youtube.com/watch?v=EPgElPoE-p8",
+    "id": "CTYa7h7SHLM",
+    "title": "Bangladesh Gen Z Movement Row: Neha Bora Faces BJP Attack Over Regime Change Remark | India Today",
+    "url": "https://www.youtube.com/watch?v=CTYa7h7SHLM",
     "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/EPgElPoE-p8/hqdefault.jpg",
-    "duration": 42896,
-    "category": "news"
-  },
-  {
-    "id": "IFOfzy7Cq7I",
-    "title": "CJP Activists Released | Delhi HC Flags Protest Shift, BJP Hits Out at Rahul | Saurav Das | Ranka",
-    "url": "https://www.youtube.com/watch?v=IFOfzy7Cq7I",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/IFOfzy7Cq7I/hqdefault.jpg",
-    "duration": 466,
-    "category": "news"
-  },
-  {
-    "id": "pOHwnHA8YvQ",
-    "title": "Debate With Arnab LIVE: Rahul Gandhi Escapes To Vietnam After Call For Delhi Protest",
-    "url": "https://www.youtube.com/watch?v=pOHwnHA8YvQ",
-    "channel": "Republic World",
-    "thumbnail": "https://i.ytimg.com/vi/pOHwnHA8YvQ/hqdefault.jpg",
-    "duration": 39476,
-    "category": "news"
-  },
-  {
-    "id": "Ba-O9PHYW6o",
-    "title": "PM Modi LIVE: Dussehra 2026 | Ravan Dahan | PM Modi in Delhi | Modi Full Speech | India Today",
-    "url": "https://www.youtube.com/watch?v=Ba-O9PHYW6o",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/Ba-O9PHYW6o/hqdefault.jpg",
-    "duration": 9925,
+    "thumbnail": "https://i.ytimg.com/vi/CTYa7h7SHLM/hqdefault.jpg",
+    "duration": 282,
     "category": "news"
   },
   {
@@ -549,24 +504,6 @@
     "category": "news"
   },
   {
-    "id": "8gZeKuVUBY0",
-    "title": "Today News LIVE: Top 100 Headlines | 22 October | Breaking News |PM Modi | Rahul Gandhi |UP Election",
-    "url": "https://www.youtube.com/watch?v=8gZeKuVUBY0",
-    "channel": "ABP NEWS",
-    "thumbnail": "https://i.ytimg.com/vi/8gZeKuVUBY0/hqdefault.jpg",
-    "duration": 0,
-    "category": "news"
-  },
-  {
-    "id": "urDJvWL8ivw",
-    "title": "Marco Rubio Arrives In India | US-India Ties, Trade Deal & Jaishankar Meeting | Latest News | News18",
-    "url": "https://www.youtube.com/watch?v=urDJvWL8ivw",
-    "channel": "CNN-News18",
-    "thumbnail": "https://i.ytimg.com/vi/urDJvWL8ivw/hqdefault.jpg",
-    "duration": 243,
-    "category": "news"
-  },
-  {
     "id": "5qNS1ymdAHM",
     "title": "Tiger Shroff Firing Incident: What Happened In Mumbai’s Juhu? | Bollywood News | India Today",
     "url": "https://www.youtube.com/watch?v=5qNS1ymdAHM",
@@ -576,30 +513,39 @@
     "category": "news"
   },
   {
-    "id": "Do3wyX7DPVw",
-    "title": "LIVE: CJP's Saurav Das, Ashutosh Ranka's Custody Extended | Right To Protest Under Threat In India?",
-    "url": "https://www.youtube.com/watch?v=Do3wyX7DPVw",
+    "id": "pOHwnHA8YvQ",
+    "title": "Debate With Arnab LIVE: Rahul Gandhi Escapes To Vietnam After Call For Delhi Protest",
+    "url": "https://www.youtube.com/watch?v=pOHwnHA8YvQ",
+    "channel": "Republic World",
+    "thumbnail": "https://i.ytimg.com/vi/pOHwnHA8YvQ/hqdefault.jpg",
+    "duration": 39476,
+    "category": "news"
+  },
+  {
+    "id": "y7UCTRqV8cY",
+    "title": "China’s Ladakh Claim: What Triggered Beijing’s Latest Provocation? | The Palki Sharma Show | IGR",
+    "url": "https://www.youtube.com/watch?v=y7UCTRqV8cY",
+    "channel": "India Global Review",
+    "thumbnail": "https://i.ytimg.com/vi/y7UCTRqV8cY/hqdefault.jpg",
+    "duration": 399,
+    "category": "news"
+  },
+  {
+    "id": "IFOfzy7Cq7I",
+    "title": "CJP Activists Released | Delhi HC Flags Protest Shift, BJP Hits Out at Rahul | Saurav Das | Ranka",
+    "url": "https://www.youtube.com/watch?v=IFOfzy7Cq7I",
     "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/Do3wyX7DPVw/hqdefault.jpg",
-    "duration": 42901,
+    "thumbnail": "https://i.ytimg.com/vi/IFOfzy7Cq7I/hqdefault.jpg",
+    "duration": 466,
     "category": "news"
   },
   {
-    "id": "Q_36Jq1uoBM",
-    "title": "US Temple Attack Foiled, But What's Fueling Anti-India Hate? Warning Signs | Vantage",
-    "url": "https://www.youtube.com/watch?v=Q_36Jq1uoBM",
-    "channel": "Firstpost",
-    "thumbnail": "https://i.ytimg.com/vi/Q_36Jq1uoBM/hqdefault.jpg",
-    "duration": 552,
-    "category": "news"
-  },
-  {
-    "id": "qb53WU1S9Ng",
-    "title": "CJP Protest News LIVE: सुबह-सुबह आई CJP पर बड़ी खबर सामने | Saurav Das | Ashutosh Ranka | HC Hearing",
-    "url": "https://www.youtube.com/watch?v=qb53WU1S9Ng",
-    "channel": "ABP NEWS",
-    "thumbnail": "https://i.ytimg.com/vi/qb53WU1S9Ng/hqdefault.jpg",
-    "duration": 4290,
+    "id": "QHq9kbouF3E",
+    "title": "US Market Update | Indian Stock Market Latest News | Share Bazaar News |Stocks In News| Morning Call",
+    "url": "https://www.youtube.com/watch?v=QHq9kbouF3E",
+    "channel": "CNBC Awaaz.",
+    "thumbnail": "https://i.ytimg.com/vi/QHq9kbouF3E/hqdefault.jpg",
+    "duration": 1430,
     "category": "news"
   },
   {
@@ -609,6 +555,186 @@
     "channel": "NDTV",
     "thumbnail": "https://i.ytimg.com/vi/0dARcu2oMHw/hqdefault.jpg",
     "duration": 156,
+    "category": "news"
+  },
+  {
+    "id": "Ba-O9PHYW6o",
+    "title": "PM Modi LIVE: Dussehra 2026 | Ravan Dahan | PM Modi in Delhi | Modi Full Speech | India Today",
+    "url": "https://www.youtube.com/watch?v=Ba-O9PHYW6o",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/Ba-O9PHYW6o/hqdefault.jpg",
+    "duration": 9925,
+    "category": "news"
+  },
+  {
+    "id": "2v_JNZU_kuc",
+    "title": "Indian Woman’s Fight With U.S. Neighbour Sparks Online Debate | Indians In U.S",
+    "url": "https://www.youtube.com/watch?v=2v_JNZU_kuc",
+    "channel": "TimesXP",
+    "thumbnail": "https://i.ytimg.com/vi/2v_JNZU_kuc/hqdefault.jpg",
+    "duration": 218,
+    "category": "news"
+  },
+  {
+    "id": "pvuJIgP4tUk",
+    "title": "Rahul Gandhi Injured | Rahul Gandhi Detained From Protest Site, Seen With Bruised Face",
+    "url": "https://www.youtube.com/watch?v=pvuJIgP4tUk",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/pvuJIgP4tUk/hqdefault.jpg",
+    "duration": 72,
+    "category": "news"
+  },
+  {
+    "id": "YAzb8mmW2c8",
+    "title": "Indian Immigrants in UAE Hit By War? Passport Centres Shut | Firstpost Live",
+    "url": "https://www.youtube.com/watch?v=YAzb8mmW2c8",
+    "channel": "Firstpost",
+    "thumbnail": "https://i.ytimg.com/vi/YAzb8mmW2c8/hqdefault.jpg",
+    "duration": 317,
+    "category": "news"
+  },
+  {
+    "id": "iQuzYzjYhFQ",
+    "title": "Stock Market News: Trump Says India-US Trade Deal Is Close; Rupee, Markets In Focus | India Today",
+    "url": "https://www.youtube.com/watch?v=iQuzYzjYhFQ",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/iQuzYzjYhFQ/hqdefault.jpg",
+    "duration": 1027,
+    "category": "news"
+  },
+  {
+    "id": "ByVZCsUkYs0",
+    "title": "Congress Protest News | Streets To Supreme Court: Opposition's Next Battle Begins | India Matters",
+    "url": "https://www.youtube.com/watch?v=ByVZCsUkYs0",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/ByVZCsUkYs0/hqdefault.jpg",
+    "duration": 42896,
+    "category": "news"
+  },
+  {
+    "id": "QTY30Go18-Q",
+    "title": "Mahadangal LIVE: कौन 'गद्दार'!, आर-पार-SIR! | SIR Controversy | Congress | BJP | ABP News",
+    "url": "https://www.youtube.com/watch?v=QTY30Go18-Q",
+    "channel": "ABP NEWS",
+    "thumbnail": "https://i.ytimg.com/vi/QTY30Go18-Q/hqdefault.jpg",
+    "duration": 2866,
+    "category": "news"
+  },
+  {
+    "id": "GNAFQ-tI7pg",
+    "title": "How India Became the World’s New Oil Giant, Rubio Jamnagar Refinery Visit, India Crude Oil News",
+    "url": "https://www.youtube.com/watch?v=GNAFQ-tI7pg",
+    "channel": "Inconnect News",
+    "thumbnail": "https://i.ytimg.com/vi/GNAFQ-tI7pg/hqdefault.jpg",
+    "duration": 603,
+    "category": "news"
+  },
+  {
+    "id": "JSJ3IjNh5cs",
+    "title": "Breaking News: Trump Admin Suspends Indian IT Giants & Tech Firms From US Green Card Programme",
+    "url": "https://www.youtube.com/watch?v=JSJ3IjNh5cs",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/JSJ3IjNh5cs/hqdefault.jpg",
+    "duration": 180,
+    "category": "news"
+  },
+  {
+    "id": "8EJ1f6RJ45I",
+    "title": "BREAKING: India Summons Meta Over Removal Of PM Modi's Facebook Post, Meta Sites Tech Glitch",
+    "url": "https://www.youtube.com/watch?v=8EJ1f6RJ45I",
+    "channel": "Republic World",
+    "thumbnail": "https://i.ytimg.com/vi/8EJ1f6RJ45I/hqdefault.jpg",
+    "duration": 183,
+    "category": "news"
+  },
+  {
+    "id": "ms86wX4EeSw",
+    "title": "On Cam: PM Modi Hails FlyDubai Jet's Indian Pilot - 'Israel Said Another 9/11 Averted…'| Capt Smit",
+    "url": "https://www.youtube.com/watch?v=ms86wX4EeSw",
+    "channel": "Hindustan Times",
+    "thumbnail": "https://i.ytimg.com/vi/ms86wX4EeSw/hqdefault.jpg",
+    "duration": 151,
+    "category": "news"
+  },
+  {
+    "id": "nuNxkGj1wdA",
+    "title": "CJP Protest Latest Updates | 'Shame On You': Passengers Confront CJP Leaders During Flight Detention",
+    "url": "https://www.youtube.com/watch?v=nuNxkGj1wdA",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/nuNxkGj1wdA/hqdefault.jpg",
+    "duration": 125,
+    "category": "news"
+  },
+  {
+    "id": "EmXDVPaS-PQ",
+    "title": "'Hope You Know...': Jaishankar’s Deadpan Reply Steals Show After Sunak’s 'Middle Power' Dig At India",
+    "url": "https://www.youtube.com/watch?v=EmXDVPaS-PQ",
+    "channel": "Firstpost",
+    "thumbnail": "https://i.ytimg.com/vi/EmXDVPaS-PQ/hqdefault.jpg",
+    "duration": 491,
+    "category": "news"
+  },
+  {
+    "id": "o6Pg4yh-1AA",
+    "title": "Imran Khan Gets Notice To Leave India By October 28 After Mumbai Protest | CEC Gyanesh Kumar Row",
+    "url": "https://www.youtube.com/watch?v=o6Pg4yh-1AA",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/o6Pg4yh-1AA/hqdefault.jpg",
+    "duration": 374,
+    "category": "news"
+  },
+  {
+    "id": "mZufUkQDFvM",
+    "title": "India’s ‘cockroach’ protests explained and what happens next | BBC News",
+    "url": "https://www.youtube.com/watch?v=mZufUkQDFvM",
+    "channel": "BBC News",
+    "thumbnail": "https://i.ytimg.com/vi/mZufUkQDFvM/hqdefault.jpg",
+    "duration": 651,
+    "category": "news"
+  },
+  {
+    "id": "RtTCYYp84Bw",
+    "title": "Tiger Shroff Shot At: Jackie Shroff Speaks To India Today, Says 'Tiger Is Okay' | Bishnoi Gang",
+    "url": "https://www.youtube.com/watch?v=RtTCYYp84Bw",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/RtTCYYp84Bw/hqdefault.jpg",
+    "duration": 296,
+    "category": "news"
+  },
+  {
+    "id": "xYNgLtOX5gE",
+    "title": "LIVE: CEC Protest | Rahul Gandhi Leads INDIA Bloc March To Supreme Court To File CEC Petition",
+    "url": "https://www.youtube.com/watch?v=xYNgLtOX5gE",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/xYNgLtOX5gE/hqdefault.jpg",
+    "duration": 16696,
+    "category": "news"
+  },
+  {
+    "id": "eGwKLOwwDKE",
+    "title": "India protests: Thousands march on parliament demanding PM Modi’s resignation",
+    "url": "https://www.youtube.com/watch?v=eGwKLOwwDKE",
+    "channel": "Al Jazeera English",
+    "thumbnail": "https://i.ytimg.com/vi/eGwKLOwwDKE/hqdefault.jpg",
+    "duration": 166,
+    "category": "news"
+  },
+  {
+    "id": "6HejryHfSNU",
+    "title": "Imran Khan Moves Bombay High Court Against 'Leave India' Notice, Challenges October 28 Deadline",
+    "url": "https://www.youtube.com/watch?v=6HejryHfSNU",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/6HejryHfSNU/hqdefault.jpg",
+    "duration": 115,
+    "category": "news"
+  },
+  {
+    "id": "gn5kIrDEsxU",
+    "title": "Narendra Modi breaks silence on ongoing anti-government protests in India",
+    "url": "https://www.youtube.com/watch?v=gn5kIrDEsxU",
+    "channel": "News24",
+    "thumbnail": "https://i.ytimg.com/vi/gn5kIrDEsxU/hqdefault.jpg",
+    "duration": 101,
     "category": "news"
   },
   {
@@ -630,30 +756,21 @@
     "category": "news"
   },
   {
-    "id": "wkNBTqEToSw",
-    "title": "Trump Says India-US Trade Deal Will Be Different: What's Changing? | India Today",
-    "url": "https://www.youtube.com/watch?v=wkNBTqEToSw",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/wkNBTqEToSw/hqdefault.jpg",
-    "duration": 240,
+    "id": "IL3xotr9HfM",
+    "title": "India protests: New 'cockroach' movement leader named • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=IL3xotr9HfM",
+    "channel": "FRANCE 24 English",
+    "thumbnail": "https://i.ytimg.com/vi/IL3xotr9HfM/hqdefault.jpg",
+    "duration": 222,
     "category": "news"
   },
   {
-    "id": "pHSXfcMJAOU",
-    "title": "Pakistan blunt warning to India | Houthis Saudi Arabia Escalation | 06 PM News Headlines | Samaa TV",
-    "url": "https://www.youtube.com/watch?v=pHSXfcMJAOU",
-    "channel": "SAMAA TV",
-    "thumbnail": "https://i.ytimg.com/vi/pHSXfcMJAOU/hqdefault.jpg",
-    "duration": 682,
-    "category": "news"
-  },
-  {
-    "id": "7ORQVxNgXbs",
-    "title": "LIVE: वोट चोरी पर अमित शाह आए LIVE | Amit Shah | Delhi News | Rahul Gandhi | INDIA Alliance | News24",
-    "url": "https://www.youtube.com/watch?v=7ORQVxNgXbs",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/7ORQVxNgXbs/hqdefault.jpg",
-    "duration": 25751,
+    "id": "2RKwyVF6vJY",
+    "title": "What BBC saw during police crackdown on India's ‘Cockroach’ protesters | BBC News India",
+    "url": "https://www.youtube.com/watch?v=2RKwyVF6vJY",
+    "channel": "BBC News India",
+    "thumbnail": "https://i.ytimg.com/vi/2RKwyVF6vJY/hqdefault.jpg",
+    "duration": 805,
     "category": "news"
   },
   {
@@ -666,147 +783,39 @@
     "category": "news"
   },
   {
-    "id": "z_zBFpAliqA",
-    "title": "LIVE: CJP's Saurav Das, Ashutosh Ranka Get Bail | Jantar Mantar Protest | India Today",
-    "url": "https://www.youtube.com/watch?v=z_zBFpAliqA",
+    "id": "7ORQVxNgXbs",
+    "title": "LIVE: वोट चोरी पर अमित शाह आए LIVE | Amit Shah | Delhi News | Rahul Gandhi | INDIA Alliance | News24",
+    "url": "https://www.youtube.com/watch?v=7ORQVxNgXbs",
+    "channel": "News 24",
+    "thumbnail": "https://i.ytimg.com/vi/7ORQVxNgXbs/hqdefault.jpg",
+    "duration": 25751,
+    "category": "news"
+  },
+  {
+    "id": "eKsp20mbTiQ",
+    "title": "India's PM Modi calls on Indians to make drastic sacrifices  | DW News",
+    "url": "https://www.youtube.com/watch?v=eKsp20mbTiQ",
+    "channel": "DW News",
+    "thumbnail": "https://i.ytimg.com/vi/eKsp20mbTiQ/hqdefault.jpg",
+    "duration": 477,
+    "category": "news"
+  },
+  {
+    "id": "II6whP_nR84",
+    "title": "LIVE: Rahul Gandhi | INDIA Bloc Chai Pe Charcha | Gyanesh Kumar | No Protest Site In Delhi? |SIR Row",
+    "url": "https://www.youtube.com/watch?v=II6whP_nR84",
     "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/z_zBFpAliqA/hqdefault.jpg",
-    "duration": 9046,
+    "thumbnail": "https://i.ytimg.com/vi/II6whP_nR84/hqdefault.jpg",
+    "duration": 3315,
     "category": "news"
   },
   {
-    "id": "7ybCcUmSCiA",
-    "title": "Why India’s Gen Z Protests Are Heating Up",
-    "url": "https://www.youtube.com/watch?v=7ybCcUmSCiA",
-    "channel": "TLDR News Global",
-    "thumbnail": "https://i.ytimg.com/vi/7ybCcUmSCiA/hqdefault.jpg",
-    "duration": 541,
-    "category": "news"
-  },
-  {
-    "id": "673asr5jznI",
-    "title": "\"Will Harm Bilateral Ties!\": India Warns US Over Proposed 100% Tariff Threat | BREKAING NEWS",
-    "url": "https://www.youtube.com/watch?v=673asr5jznI",
-    "channel": "CNN-News18",
-    "thumbnail": "https://i.ytimg.com/vi/673asr5jznI/hqdefault.jpg",
-    "duration": 633,
-    "category": "news"
-  },
-  {
-    "id": "RtTCYYp84Bw",
-    "title": "Tiger Shroff Shot At: Jackie Shroff Speaks To India Today, Says 'Tiger Is Okay' | Bishnoi Gang",
-    "url": "https://www.youtube.com/watch?v=RtTCYYp84Bw",
+    "id": "Xilat3zxaL0",
+    "title": "Breaking News: Rahul Gandhi Enters Supreme Court With CONG Chief Kharge, Priyanka And DK Shivakumar",
+    "url": "https://www.youtube.com/watch?v=Xilat3zxaL0",
     "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/RtTCYYp84Bw/hqdefault.jpg",
-    "duration": 296,
-    "category": "news"
-  },
-  {
-    "id": "JSJ3IjNh5cs",
-    "title": "Breaking News: Trump Admin Suspends Indian IT Giants & Tech Firms From US Green Card Programme",
-    "url": "https://www.youtube.com/watch?v=JSJ3IjNh5cs",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/JSJ3IjNh5cs/hqdefault.jpg",
-    "duration": 180,
-    "category": "news"
-  },
-  {
-    "id": "6HejryHfSNU",
-    "title": "Imran Khan Moves Bombay High Court Against 'Leave India' Notice, Challenges October 28 Deadline",
-    "url": "https://www.youtube.com/watch?v=6HejryHfSNU",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/6HejryHfSNU/hqdefault.jpg",
-    "duration": 115,
-    "category": "news"
-  },
-  {
-    "id": "kN8o9RvxDZo",
-    "title": "Rahul Gandhi’s Vietnam Trip Sparks BJP-Congress Political Showdown | PM Modi | India Today",
-    "url": "https://www.youtube.com/watch?v=kN8o9RvxDZo",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/kN8o9RvxDZo/hqdefault.jpg",
-    "duration": 196,
-    "category": "news"
-  },
-  {
-    "id": "DGZTF3pAXWw",
-    "title": "Metro Shut, Internet Banned: Delhi Braces for CJP Protests | The Palki Sharma Show | IGR",
-    "url": "https://www.youtube.com/watch?v=DGZTF3pAXWw",
-    "channel": "India Global Review",
-    "thumbnail": "https://i.ytimg.com/vi/DGZTF3pAXWw/hqdefault.jpg",
-    "duration": 392,
-    "category": "news"
-  },
-  {
-    "id": "J90vTTkvxUw",
-    "title": "India Vs New Zealand : 1st T20 की Playing XI आई | Gambhir | Shreyas | Sooryavanshi | Sanju | Abhisek",
-    "url": "https://www.youtube.com/watch?v=J90vTTkvxUw",
-    "channel": "News24 Sports and News 24",
-    "thumbnail": "https://i.ytimg.com/vi/J90vTTkvxUw/hqdefault.jpg",
-    "duration": 248,
-    "category": "news"
-  },
-  {
-    "id": "5vUSjYgfYRY",
-    "title": "US Immigration Crackdown: Indian Students, Families and Economy at Risk? | Green Card | News18",
-    "url": "https://www.youtube.com/watch?v=5vUSjYgfYRY",
-    "channel": "CNN-News18",
-    "thumbnail": "https://i.ytimg.com/vi/5vUSjYgfYRY/hqdefault.jpg",
-    "duration": 299,
-    "category": "news"
-  },
-  {
-    "id": "y7UCTRqV8cY",
-    "title": "China’s Ladakh Claim: What Triggered Beijing’s Latest Provocation? | The Palki Sharma Show | IGR",
-    "url": "https://www.youtube.com/watch?v=y7UCTRqV8cY",
-    "channel": "India Global Review",
-    "thumbnail": "https://i.ytimg.com/vi/y7UCTRqV8cY/hqdefault.jpg",
-    "duration": 399,
-    "category": "news"
-  },
-  {
-    "id": "gn5kIrDEsxU",
-    "title": "Narendra Modi breaks silence on ongoing anti-government protests in India",
-    "url": "https://www.youtube.com/watch?v=gn5kIrDEsxU",
-    "channel": "News24",
-    "thumbnail": "https://i.ytimg.com/vi/gn5kIrDEsxU/hqdefault.jpg",
-    "duration": 101,
-    "category": "news"
-  },
-  {
-    "id": "VwU5zHAg5JQ",
-    "title": "Fortress Delhi: India’s 'cockroaches' and journalists face an iron fist | The Listening Post",
-    "url": "https://www.youtube.com/watch?v=VwU5zHAg5JQ",
-    "channel": "Al Jazeera English",
-    "thumbnail": "https://i.ytimg.com/vi/VwU5zHAg5JQ/hqdefault.jpg",
-    "duration": 1460,
-    "category": "news"
-  },
-  {
-    "id": "ms86wX4EeSw",
-    "title": "On Cam: PM Modi Hails FlyDubai Jet's Indian Pilot - 'Israel Said Another 9/11 Averted…'| Capt Smit",
-    "url": "https://www.youtube.com/watch?v=ms86wX4EeSw",
-    "channel": "Hindustan Times",
-    "thumbnail": "https://i.ytimg.com/vi/ms86wX4EeSw/hqdefault.jpg",
-    "duration": 151,
-    "category": "news"
-  },
-  {
-    "id": "ByVZCsUkYs0",
-    "title": "Congress Protest News | Streets To Supreme Court: Opposition's Next Battle Begins | India Matters",
-    "url": "https://www.youtube.com/watch?v=ByVZCsUkYs0",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/ByVZCsUkYs0/hqdefault.jpg",
-    "duration": 42896,
-    "category": "news"
-  },
-  {
-    "id": "u4QFD0OSWLo",
-    "title": "Zero Warning, 80 Firings In 5 Minutes: Entire India Team Laid Off By US Bank | Vantage | 4K",
-    "url": "https://www.youtube.com/watch?v=u4QFD0OSWLo",
-    "channel": "Firstpost",
-    "thumbnail": "https://i.ytimg.com/vi/u4QFD0OSWLo/hqdefault.jpg",
-    "duration": 552,
+    "thumbnail": "https://i.ytimg.com/vi/Xilat3zxaL0/hqdefault.jpg",
+    "duration": 568,
     "category": "news"
   },
   {
@@ -828,39 +837,21 @@
     "category": "news"
   },
   {
-    "id": "AMUyxKrqkdk",
-    "title": "din bhar ki khabar |news of the day, hindi news india | top | NEET | rahul gandhi | protest #dblive",
-    "url": "https://www.youtube.com/watch?v=AMUyxKrqkdk",
-    "channel": "DB Live",
-    "thumbnail": "https://i.ytimg.com/vi/AMUyxKrqkdk/hqdefault.jpg",
-    "duration": 1045,
-    "category": "news"
-  },
-  {
-    "id": "osxPsIKY9NU",
-    "title": "Tiger Shroff Firing LIVE | First Pictures Of Tiger Shroff After Attack Latest Updates | LIVE",
-    "url": "https://www.youtube.com/watch?v=osxPsIKY9NU",
+    "id": "Jk0VEavewWM",
+    "title": "Shashi Tharoor To NDTV: 'The Integrity Of Indian Democracy Is At Stake'",
+    "url": "https://www.youtube.com/watch?v=Jk0VEavewWM",
     "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/osxPsIKY9NU/hqdefault.jpg",
-    "duration": 42896,
+    "thumbnail": "https://i.ytimg.com/vi/Jk0VEavewWM/hqdefault.jpg",
+    "duration": 203,
     "category": "news"
   },
   {
-    "id": "RqgLuZJMULc",
-    "title": "BREAKING NEWS LIVE: Firing Incident Reported Near Tiger Shroff in Juhu, Mumbai | Tiger Shroff",
-    "url": "https://www.youtube.com/watch?v=RqgLuZJMULc",
-    "channel": "Times Now",
-    "thumbnail": "https://i.ytimg.com/vi/RqgLuZJMULc/hqdefault.jpg",
-    "duration": 3276,
-    "category": "news"
-  },
-  {
-    "id": "o6Pg4yh-1AA",
-    "title": "Imran Khan Gets Notice To Leave India By October 28 After Mumbai Protest | CEC Gyanesh Kumar Row",
-    "url": "https://www.youtube.com/watch?v=o6Pg4yh-1AA",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/o6Pg4yh-1AA/hqdefault.jpg",
-    "duration": 374,
+    "id": "bHldFTiTysI",
+    "title": "India Slams JD Vance's 'Indentured' Labour Remark | WION Breaking News",
+    "url": "https://www.youtube.com/watch?v=bHldFTiTysI",
+    "channel": "WION",
+    "thumbnail": "https://i.ytimg.com/vi/bHldFTiTysI/hqdefault.jpg",
+    "duration": 210,
     "category": "news"
   },
   {
@@ -882,39 +873,39 @@
     "category": "news"
   },
   {
-    "id": "Vd9P1RV-3Ro",
-    "title": "India's Modi government under growing pressure as 'cockroach' protests intensify | BBC News",
-    "url": "https://www.youtube.com/watch?v=Vd9P1RV-3Ro",
-    "channel": "BBC News",
-    "thumbnail": "https://i.ytimg.com/vi/Vd9P1RV-3Ro/hqdefault.jpg",
-    "duration": 226,
+    "id": "osxPsIKY9NU",
+    "title": "Tiger Shroff Firing LIVE | First Pictures Of Tiger Shroff After Attack Latest Updates | LIVE",
+    "url": "https://www.youtube.com/watch?v=osxPsIKY9NU",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/osxPsIKY9NU/hqdefault.jpg",
+    "duration": 42896,
     "category": "news"
   },
   {
-    "id": "rSbc77z2nUw",
-    "title": "LIVE: Abhijeet Dipke 1st Reaction After Being Released From Custody | CJP Protest | Jantar Mantar",
-    "url": "https://www.youtube.com/watch?v=rSbc77z2nUw",
+    "id": "oWrNtONBy74",
+    "title": "Breaking News LIVE: Ujjain Mosque Demolition | Massive Muslim Vigil Stops Ujjain Mosque Demolition",
+    "url": "https://www.youtube.com/watch?v=oWrNtONBy74",
     "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/rSbc77z2nUw/hqdefault.jpg",
-    "duration": 42899,
+    "thumbnail": "https://i.ytimg.com/vi/oWrNtONBy74/hqdefault.jpg",
+    "duration": 19196,
     "category": "news"
   },
   {
-    "id": "eGwKLOwwDKE",
-    "title": "India protests: Thousands march on parliament demanding PM Modi’s resignation",
-    "url": "https://www.youtube.com/watch?v=eGwKLOwwDKE",
-    "channel": "Al Jazeera English",
-    "thumbnail": "https://i.ytimg.com/vi/eGwKLOwwDKE/hqdefault.jpg",
-    "duration": 166,
+    "id": "Y3sCHbHWHNQ",
+    "title": "Breaking News: India Prepares IAF Aircraft & Relief Material For Flood-Hit Nepal | Death Toll Mounts",
+    "url": "https://www.youtube.com/watch?v=Y3sCHbHWHNQ",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/Y3sCHbHWHNQ/hqdefault.jpg",
+    "duration": 576,
     "category": "news"
   },
   {
-    "id": "mZufUkQDFvM",
-    "title": "India’s ‘cockroach’ protests explained and what happens next | BBC News",
-    "url": "https://www.youtube.com/watch?v=mZufUkQDFvM",
-    "channel": "BBC News",
-    "thumbnail": "https://i.ytimg.com/vi/mZufUkQDFvM/hqdefault.jpg",
-    "duration": 651,
+    "id": "-X24V7kb4XE",
+    "title": "Breaking News: Rahul Gandhi And Akhilesh Yadav Detained By Delhi Police From Congress Protest Site",
+    "url": "https://www.youtube.com/watch?v=-X24V7kb4XE",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/-X24V7kb4XE/hqdefault.jpg",
+    "duration": 520,
     "category": "news"
   },
   {
@@ -927,30 +918,30 @@
     "category": "news"
   },
   {
-    "id": "c9zNV5ljW40",
-    "title": "Delhi News: Police Drag Fasting Wangchuk to Safdarjung as Protests Explode | India Today",
-    "url": "https://www.youtube.com/watch?v=c9zNV5ljW40",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/c9zNV5ljW40/hqdefault.jpg",
-    "duration": 444,
+    "id": "B2QtJKMlYTo",
+    "title": "How Gen Z are fighting to change India | BBC News",
+    "url": "https://www.youtube.com/watch?v=B2QtJKMlYTo",
+    "channel": "BBC News",
+    "thumbnail": "https://i.ytimg.com/vi/B2QtJKMlYTo/hqdefault.jpg",
+    "duration": 1595,
     "category": "news"
   },
   {
-    "id": "RJgEd6FgBnI",
-    "title": "Rajdeep Sardesai LIVE: CJP & Congress Now United In CEC Protest? | Arrest Of CJP Leaders Justified?",
-    "url": "https://www.youtube.com/watch?v=RJgEd6FgBnI",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/RJgEd6FgBnI/hqdefault.jpg",
-    "duration": 42901,
+    "id": "673asr5jznI",
+    "title": "\"Will Harm Bilateral Ties!\": India Warns US Over Proposed 100% Tariff Threat | BREKAING NEWS",
+    "url": "https://www.youtube.com/watch?v=673asr5jznI",
+    "channel": "CNN-News18",
+    "thumbnail": "https://i.ytimg.com/vi/673asr5jznI/hqdefault.jpg",
+    "duration": 633,
     "category": "news"
   },
   {
-    "id": "1mIbsqpXV-U",
-    "title": "Gyanesh Kumar Latest News | INDIA Bloc Leaders Coordinate Fresh Move Against CEC Gyanesh Kumar",
-    "url": "https://www.youtube.com/watch?v=1mIbsqpXV-U",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/1mIbsqpXV-U/hqdefault.jpg",
-    "duration": 505,
+    "id": "sxRNLw_5xVI",
+    "title": "What happened in Delhi when youth protesters marched to India's parliament? | BBC News India",
+    "url": "https://www.youtube.com/watch?v=sxRNLw_5xVI",
+    "channel": "BBC News India",
+    "thumbnail": "https://i.ytimg.com/vi/sxRNLw_5xVI/hqdefault.jpg",
+    "duration": 318,
     "category": "news"
   },
   {
@@ -963,6 +954,24 @@
     "category": "news"
   },
   {
+    "id": "osiyRRt3VOA",
+    "title": "India on Alert as Khyber Pakhtunkhwa & PoK Unite Against Pak, POK News, India Pakistan War",
+    "url": "https://www.youtube.com/watch?v=osiyRRt3VOA",
+    "channel": "Inconnect News",
+    "thumbnail": "https://i.ytimg.com/vi/osiyRRt3VOA/hqdefault.jpg",
+    "duration": 680,
+    "category": "news"
+  },
+  {
+    "id": "RJgEd6FgBnI",
+    "title": "Rajdeep Sardesai LIVE: CJP & Congress Now United In CEC Protest? | Arrest Of CJP Leaders Justified?",
+    "url": "https://www.youtube.com/watch?v=RJgEd6FgBnI",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/RJgEd6FgBnI/hqdefault.jpg",
+    "duration": 42901,
+    "category": "news"
+  },
+  {
     "id": "gtbP6OP66KM",
     "title": "Breaking News: Air India Pilots Under Dope Test Scanner After AI2379 Probe | India Today",
     "url": "https://www.youtube.com/watch?v=gtbP6OP66KM",
@@ -972,53 +981,35 @@
     "category": "news"
   },
   {
-    "id": "e9Jd2XKEsls",
-    "title": "Breaking: Delhi Court Grants Bail To CJP Leaders Saurav Das And Ashutosh Ranka | Jantar Mantar",
-    "url": "https://www.youtube.com/watch?v=e9Jd2XKEsls",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/e9Jd2XKEsls/hqdefault.jpg",
-    "duration": 301,
-    "category": "news"
-  },
-  {
-    "id": "VEj2wPGA5Z8",
-    "title": "CJP Protest News: Rahul Gandhi Slams PM Modi On Police Action Against Students | India Today",
-    "url": "https://www.youtube.com/watch?v=VEj2wPGA5Z8",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/VEj2wPGA5Z8/hqdefault.jpg",
-    "duration": 249,
-    "category": "news"
-  },
-  {
-    "id": "nqSIhgwqXww",
-    "title": "Cockroach revolution turns on India's leader | DW News",
-    "url": "https://www.youtube.com/watch?v=nqSIhgwqXww",
-    "channel": "DW News",
-    "thumbnail": "https://i.ytimg.com/vi/nqSIhgwqXww/hqdefault.jpg",
-    "duration": 396,
-    "category": "news"
-  },
-  {
-    "id": "5r5Xy58uIB0",
-    "title": "BREAKING NEWS: Dhruv Rathee Detained Ahead Of CJP Protest, Delhi On High Alert | India Today",
-    "url": "https://www.youtube.com/watch?v=5r5Xy58uIB0",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/5r5Xy58uIB0/hqdefault.jpg",
-    "duration": 497,
-    "category": "news"
-  },
-  {
-    "id": "kuNd0CQigGQ",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 21, 2026",
-    "url": "https://www.youtube.com/watch?v=kuNd0CQigGQ",
+    "id": "OmxzmpPeGW0",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 22, 2026",
+    "url": "https://www.youtube.com/watch?v=OmxzmpPeGW0",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/kuNd0CQigGQ/hqdefault.jpg",
-    "duration": 1210,
+    "thumbnail": "https://i.ytimg.com/vi/OmxzmpPeGW0/hqdefault.jpg",
+    "duration": 1230,
+    "category": "news"
+  },
+  {
+    "id": "p9B2zMGWYr0",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 22, 2026",
+    "url": "https://www.youtube.com/watch?v=p9B2zMGWYr0",
+    "channel": "MF Entertainment Official",
+    "thumbnail": "https://i.ytimg.com/vi/p9B2zMGWYr0/hqdefault.jpg",
+    "duration": 1150,
+    "category": "news"
+  },
+  {
+    "id": "HstcaKW1X1Q",
+    "title": "ABC World News Tonight with David Muir Full Episode October  22 - 2026",
+    "url": "https://www.youtube.com/watch?v=HstcaKW1X1Q",
+    "channel": "William Morin and Sajid Khan",
+    "thumbnail": "https://i.ytimg.com/vi/HstcaKW1X1Q/hqdefault.jpg",
+    "duration": 1202,
     "category": "news"
   },
   {
     "id": "N7-sBNIRg20",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 20, 2026",
+    "title": "Reports: NFL will not discipline Eagles: ABC World News Tonight with David Muir - Oct. 20, 2026",
     "url": "https://www.youtube.com/watch?v=N7-sBNIRg20",
     "channel": "ABC News",
     "thumbnail": "https://i.ytimg.com/vi/N7-sBNIRg20/hqdefault.jpg",
@@ -1035,12 +1026,12 @@
     "category": "news"
   },
   {
-    "id": "qWZE-wbzKfs",
-    "title": "CBS Evening News Full Broadcast | October 21, 2026",
-    "url": "https://www.youtube.com/watch?v=qWZE-wbzKfs",
-    "channel": "CBS Evening News",
-    "thumbnail": "https://i.ytimg.com/vi/qWZE-wbzKfs/hqdefault.jpg",
-    "duration": 1196,
+    "id": "kuNd0CQigGQ",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 21, 2026",
+    "url": "https://www.youtube.com/watch?v=kuNd0CQigGQ",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/kuNd0CQigGQ/hqdefault.jpg",
+    "duration": 1210,
     "category": "news"
   },
   {
@@ -1053,6 +1044,33 @@
     "category": "news"
   },
   {
+    "id": "Ff_QaTF7HJQ",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 22, 2026",
+    "url": "https://www.youtube.com/watch?v=Ff_QaTF7HJQ",
+    "channel": "MF Records Official",
+    "thumbnail": "https://i.ytimg.com/vi/Ff_QaTF7HJQ/hqdefault.jpg",
+    "duration": 1150,
+    "category": "news"
+  },
+  {
+    "id": "UcEAAuTZ6Ec",
+    "title": "Top U.S. & World Headlines — October 20, 2026",
+    "url": "https://www.youtube.com/watch?v=UcEAAuTZ6Ec",
+    "channel": "Democracy Now!",
+    "thumbnail": "https://i.ytimg.com/vi/UcEAAuTZ6Ec/hqdefault.jpg",
+    "duration": 873,
+    "category": "news"
+  },
+  {
+    "id": "xh7ywq1VILI",
+    "title": "ABC World News Tonight with David Muir Full Episode October  22 - 2026",
+    "url": "https://www.youtube.com/watch?v=xh7ywq1VILI",
+    "channel": "Sajid Khan and William Morin",
+    "thumbnail": "https://i.ytimg.com/vi/xh7ywq1VILI/hqdefault.jpg",
+    "duration": 1226,
+    "category": "news"
+  },
+  {
     "id": "Z95o1GR2xWI",
     "title": "ABC News Live Prime Full Episode: Tue, Oct 20, 2026",
     "url": "https://www.youtube.com/watch?v=Z95o1GR2xWI",
@@ -1062,30 +1080,21 @@
     "category": "news"
   },
   {
-    "id": "CnmR57nEBYM",
-    "title": "Good Morning America: News to start your day | October 20",
-    "url": "https://www.youtube.com/watch?v=CnmR57nEBYM",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/CnmR57nEBYM/hqdefault.jpg",
-    "duration": 928,
+    "id": "UAp7mQ4jTX8",
+    "title": "Top U.S. & World Headlines — October 21, 2026",
+    "url": "https://www.youtube.com/watch?v=UAp7mQ4jTX8",
+    "channel": "Democracy Now!",
+    "thumbnail": "https://i.ytimg.com/vi/UAp7mQ4jTX8/hqdefault.jpg",
+    "duration": 739,
     "category": "news"
   },
   {
-    "id": "gsxBgwFMybU",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 16, 2026",
-    "url": "https://www.youtube.com/watch?v=gsxBgwFMybU",
+    "id": "qIx7uBClzCo",
+    "title": "Nightline Full Broadcast — Wednesday, October 21, 2026",
+    "url": "https://www.youtube.com/watch?v=qIx7uBClzCo",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/gsxBgwFMybU/hqdefault.jpg",
-    "duration": 1234,
-    "category": "news"
-  },
-  {
-    "id": "30lVQf3-7FU",
-    "title": "Good Morning America Full Broadcast — Wednesday, October 21, 2026",
-    "url": "https://www.youtube.com/watch?v=30lVQf3-7FU",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/30lVQf3-7FU/hqdefault.jpg",
-    "duration": 4270,
+    "thumbnail": "https://i.ytimg.com/vi/qIx7uBClzCo/hqdefault.jpg",
+    "duration": 1137,
     "category": "news"
   },
   {
@@ -1098,12 +1107,12 @@
     "category": "news"
   },
   {
-    "id": "ntcUqyF68sA",
-    "title": "Control of Congress up for grabs in midterm elections",
-    "url": "https://www.youtube.com/watch?v=ntcUqyF68sA",
+    "id": "JSeYLagrm1Y",
+    "title": "Good Morning America: News to start your day | October 22",
+    "url": "https://www.youtube.com/watch?v=JSeYLagrm1Y",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/ntcUqyF68sA/hqdefault.jpg",
-    "duration": 267,
+    "thumbnail": "https://i.ytimg.com/vi/JSeYLagrm1Y/hqdefault.jpg",
+    "duration": 966,
     "category": "news"
   },
   {
@@ -1116,39 +1125,30 @@
     "category": "news"
   },
   {
-    "id": "PfvgNd3qH6o",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 15, 2026",
-    "url": "https://www.youtube.com/watch?v=PfvgNd3qH6o",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/PfvgNd3qH6o/hqdefault.jpg",
-    "duration": 1223,
+    "id": "9u785QhFeQQ",
+    "title": "CBS Evening News Full Broadcast | October 20, 2026",
+    "url": "https://www.youtube.com/watch?v=9u785QhFeQQ",
+    "channel": "CBS Evening News",
+    "thumbnail": "https://i.ytimg.com/vi/9u785QhFeQQ/hqdefault.jpg",
+    "duration": 1175,
     "category": "news"
   },
   {
-    "id": "eCX6LQxgw7c",
-    "title": "Top U.S. & World Headlines — August 25, 2026",
-    "url": "https://www.youtube.com/watch?v=eCX6LQxgw7c",
-    "channel": "Democracy Now!",
-    "thumbnail": "https://i.ytimg.com/vi/eCX6LQxgw7c/hqdefault.jpg",
-    "duration": 715,
+    "id": "qWZE-wbzKfs",
+    "title": "CBS Evening News Full Broadcast | October 21, 2026",
+    "url": "https://www.youtube.com/watch?v=qWZE-wbzKfs",
+    "channel": "CBS Evening News",
+    "thumbnail": "https://i.ytimg.com/vi/qWZE-wbzKfs/hqdefault.jpg",
+    "duration": 1196,
     "category": "news"
   },
   {
-    "id": "pUeQResXPNI",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 14, 2026",
-    "url": "https://www.youtube.com/watch?v=pUeQResXPNI",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/pUeQResXPNI/hqdefault.jpg",
-    "duration": 1194,
-    "category": "news"
-  },
-  {
-    "id": "xr_DLgwvgy8",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 3, 2026",
-    "url": "https://www.youtube.com/watch?v=xr_DLgwvgy8",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/xr_DLgwvgy8/hqdefault.jpg",
-    "duration": 1210,
+    "id": "XtSfwFCQjEE",
+    "title": "Fox News Highlights - October 21, 2026",
+    "url": "https://www.youtube.com/watch?v=XtSfwFCQjEE",
+    "channel": "Fox News",
+    "thumbnail": "https://i.ytimg.com/vi/XtSfwFCQjEE/hqdefault.jpg",
+    "duration": 2630,
     "category": "news"
   },
   {
@@ -1161,66 +1161,12 @@
     "category": "news"
   },
   {
-    "id": "xaxU3ML14Pc",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 19, 2026",
-    "url": "https://www.youtube.com/watch?v=xaxU3ML14Pc",
+    "id": "pUeQResXPNI",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 14, 2026",
+    "url": "https://www.youtube.com/watch?v=pUeQResXPNI",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/xaxU3ML14Pc/hqdefault.jpg",
-    "duration": 1207,
-    "category": "news"
-  },
-  {
-    "id": "fTQgFK-Gx-0",
-    "title": "Good Morning America Full Broadcast — Monday, October 19, 2026",
-    "url": "https://www.youtube.com/watch?v=fTQgFK-Gx-0",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/fTQgFK-Gx-0/hqdefault.jpg",
-    "duration": 3796,
-    "category": "news"
-  },
-  {
-    "id": "KHNScpUntbU",
-    "title": "Good Morning America: News to start your day | October 21",
-    "url": "https://www.youtube.com/watch?v=KHNScpUntbU",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/KHNScpUntbU/hqdefault.jpg",
-    "duration": 959,
-    "category": "news"
-  },
-  {
-    "id": "YfhRRTMOctY",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 9, 2026",
-    "url": "https://www.youtube.com/watch?v=YfhRRTMOctY",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/YfhRRTMOctY/hqdefault.jpg",
-    "duration": 1226,
-    "category": "news"
-  },
-  {
-    "id": "XFO-zN5FVC8",
-    "title": "ABC News Live Prime: October 12, 2026",
-    "url": "https://www.youtube.com/watch?v=XFO-zN5FVC8",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/XFO-zN5FVC8/hqdefault.jpg",
-    "duration": 2565,
-    "category": "news"
-  },
-  {
-    "id": "Pv13cFP4JYA",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 8, 2026",
-    "url": "https://www.youtube.com/watch?v=Pv13cFP4JYA",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/Pv13cFP4JYA/hqdefault.jpg",
-    "duration": 1237,
-    "category": "news"
-  },
-  {
-    "id": "S6_Q0fca7ag",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 2, 2026",
-    "url": "https://www.youtube.com/watch?v=S6_Q0fca7ag",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/S6_Q0fca7ag/hqdefault.jpg",
-    "duration": 1247,
+    "thumbnail": "https://i.ytimg.com/vi/pUeQResXPNI/hqdefault.jpg",
+    "duration": 1194,
     "category": "news"
   },
   {
@@ -1233,6 +1179,15 @@
     "category": "news"
   },
   {
+    "id": "gsxBgwFMybU",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 16, 2026",
+    "url": "https://www.youtube.com/watch?v=gsxBgwFMybU",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/gsxBgwFMybU/hqdefault.jpg",
+    "duration": 1234,
+    "category": "news"
+  },
+  {
     "id": "dKtMkeqDVLs",
     "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 18, 2026",
     "url": "https://www.youtube.com/watch?v=dKtMkeqDVLs",
@@ -1242,30 +1197,21 @@
     "category": "news"
   },
   {
-    "id": "id6IvyLwWcc",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - April 17, 2026",
-    "url": "https://www.youtube.com/watch?v=id6IvyLwWcc",
+    "id": "YcQgcZiJ8R0",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - May 6, 2026",
+    "url": "https://www.youtube.com/watch?v=YcQgcZiJ8R0",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/id6IvyLwWcc/hqdefault.jpg",
-    "duration": 1215,
+    "thumbnail": "https://i.ytimg.com/vi/YcQgcZiJ8R0/hqdefault.jpg",
+    "duration": 1199,
     "category": "news"
   },
   {
-    "id": "xmRgk4K73w8",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 11, 2026",
-    "url": "https://www.youtube.com/watch?v=xmRgk4K73w8",
+    "id": "ntcUqyF68sA",
+    "title": "Control of Congress up for grabs in midterm elections",
+    "url": "https://www.youtube.com/watch?v=ntcUqyF68sA",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/xmRgk4K73w8/hqdefault.jpg",
-    "duration": 1212,
-    "category": "news"
-  },
-  {
-    "id": "0O1QOOiccrA",
-    "title": "Good Morning America Full Broadcast — Sunday, October 18, 2026",
-    "url": "https://www.youtube.com/watch?v=0O1QOOiccrA",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/0O1QOOiccrA/hqdefault.jpg",
-    "duration": 2038,
+    "thumbnail": "https://i.ytimg.com/vi/ntcUqyF68sA/hqdefault.jpg",
+    "duration": 267,
     "category": "news"
   },
   {
@@ -1278,12 +1224,30 @@
     "category": "news"
   },
   {
-    "id": "moy3waNDQa8",
-    "title": "Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News",
-    "url": "https://www.youtube.com/watch?v=moy3waNDQa8",
-    "channel": "BBC News",
-    "thumbnail": "https://i.ytimg.com/vi/moy3waNDQa8/hqdefault.jpg",
-    "duration": 117,
+    "id": "PfvgNd3qH6o",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 15, 2026",
+    "url": "https://www.youtube.com/watch?v=PfvgNd3qH6o",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/PfvgNd3qH6o/hqdefault.jpg",
+    "duration": 1223,
+    "category": "news"
+  },
+  {
+    "id": "fTQgFK-Gx-0",
+    "title": "Good Morning America Full Broadcast — Monday, October 19, 2026",
+    "url": "https://www.youtube.com/watch?v=fTQgFK-Gx-0",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/fTQgFK-Gx-0/hqdefault.jpg",
+    "duration": 3796,
+    "category": "news"
+  },
+  {
+    "id": "xmRgk4K73w8",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 11, 2026",
+    "url": "https://www.youtube.com/watch?v=xmRgk4K73w8",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/xmRgk4K73w8/hqdefault.jpg",
+    "duration": 1212,
     "category": "news"
   },
   {
@@ -1296,21 +1260,12 @@
     "category": "news"
   },
   {
-    "id": "nQdXp6HKKik",
-    "title": "I tested the most Futuristic Tech - it scared me.",
-    "url": "https://www.youtube.com/watch?v=nQdXp6HKKik",
-    "channel": "Mrwhosetheboss",
-    "thumbnail": "https://i.ytimg.com/vi/nQdXp6HKKik/hqdefault.jpg",
-    "duration": 1472,
-    "category": "news"
-  },
-  {
-    "id": "AVCU9srV-Hs",
-    "title": "NEW AI Technologies You Must See in 2026",
-    "url": "https://www.youtube.com/watch?v=AVCU9srV-Hs",
+    "id": "cbe84W30GM8",
+    "title": "Top 17 New Technology Trends That Will Define 2026",
+    "url": "https://www.youtube.com/watch?v=cbe84W30GM8",
     "channel": "TechTrends",
-    "thumbnail": "https://i.ytimg.com/vi/AVCU9srV-Hs/hqdefault.jpg",
-    "duration": 976,
+    "thumbnail": "https://i.ytimg.com/vi/cbe84W30GM8/hqdefault.jpg",
+    "duration": 1060,
     "category": "news"
   },
   {
@@ -1332,21 +1287,12 @@
     "category": "news"
   },
   {
-    "id": "cbe84W30GM8",
-    "title": "Top 17 New Technology Trends That Will Define 2026",
-    "url": "https://www.youtube.com/watch?v=cbe84W30GM8",
+    "id": "AVCU9srV-Hs",
+    "title": "NEW AI Technologies You Must See in 2026",
+    "url": "https://www.youtube.com/watch?v=AVCU9srV-Hs",
     "channel": "TechTrends",
-    "thumbnail": "https://i.ytimg.com/vi/cbe84W30GM8/hqdefault.jpg",
-    "duration": 1060,
-    "category": "news"
-  },
-  {
-    "id": "hw7lczdv6jg",
-    "title": "Gadgets of the future? | BBC News",
-    "url": "https://www.youtube.com/watch?v=hw7lczdv6jg",
-    "channel": "BBC News",
-    "thumbnail": "https://i.ytimg.com/vi/hw7lczdv6jg/hqdefault.jpg",
-    "duration": 345,
+    "thumbnail": "https://i.ytimg.com/vi/AVCU9srV-Hs/hqdefault.jpg",
+    "duration": 976,
     "category": "news"
   },
   {
@@ -1359,12 +1305,12 @@
     "category": "news"
   },
   {
-    "id": "83TiUbFY6fY",
-    "title": "21 Coolest Tech at CES 2026",
-    "url": "https://www.youtube.com/watch?v=83TiUbFY6fY",
-    "channel": "Cybernews",
-    "thumbnail": "https://i.ytimg.com/vi/83TiUbFY6fY/hqdefault.jpg",
-    "duration": 1715,
+    "id": "hw7lczdv6jg",
+    "title": "Gadgets of the future? | BBC News",
+    "url": "https://www.youtube.com/watch?v=hw7lczdv6jg",
+    "channel": "BBC News",
+    "thumbnail": "https://i.ytimg.com/vi/hw7lczdv6jg/hqdefault.jpg",
+    "duration": 345,
     "category": "news"
   },
   {
@@ -1377,12 +1323,12 @@
     "category": "news"
   },
   {
-    "id": "qLgXSGG3Fnc",
-    "title": "Heckler CONFRONTS NVIDIA CEO Jensen Huang  Over Technology Found in Russian Drones",
-    "url": "https://www.youtube.com/watch?v=qLgXSGG3Fnc",
-    "channel": "Diario AS",
-    "thumbnail": "https://i.ytimg.com/vi/qLgXSGG3Fnc/hqdefault.jpg",
-    "duration": 164,
+    "id": "83TiUbFY6fY",
+    "title": "21 Coolest Tech at CES 2026",
+    "url": "https://www.youtube.com/watch?v=83TiUbFY6fY",
+    "channel": "Cybernews",
+    "thumbnail": "https://i.ytimg.com/vi/83TiUbFY6fY/hqdefault.jpg",
+    "duration": 1715,
     "category": "news"
   },
   {
@@ -1395,30 +1341,21 @@
     "category": "news"
   },
   {
-    "id": "SNyi4eNyPCc",
-    "title": "AI Whistleblower WARNS: \"You Have No Idea What's Coming In 2026\"",
-    "url": "https://www.youtube.com/watch?v=SNyi4eNyPCc",
-    "channel": "AI Upload",
-    "thumbnail": "https://i.ytimg.com/vi/SNyi4eNyPCc/hqdefault.jpg",
-    "duration": 1394,
+    "id": "nQdXp6HKKik",
+    "title": "I tested the most Futuristic Tech - it scared me.",
+    "url": "https://www.youtube.com/watch?v=nQdXp6HKKik",
+    "channel": "Mrwhosetheboss",
+    "thumbnail": "https://i.ytimg.com/vi/nQdXp6HKKik/hqdefault.jpg",
+    "duration": 1472,
     "category": "news"
   },
   {
-    "id": "dxWb1Vd9aq8",
-    "title": "20 INVENTIONS THAT WILL CHANGE THE WORLD",
-    "url": "https://www.youtube.com/watch?v=dxWb1Vd9aq8",
-    "channel": "TechZone",
-    "thumbnail": "https://i.ytimg.com/vi/dxWb1Vd9aq8/hqdefault.jpg",
-    "duration": 1210,
-    "category": "news"
-  },
-  {
-    "id": "6cidsEwRvjU",
-    "title": "I Found 20 New Inventions That Are Changing 2026",
-    "url": "https://www.youtube.com/watch?v=6cidsEwRvjU",
-    "channel": "TechTrends",
-    "thumbnail": "https://i.ytimg.com/vi/6cidsEwRvjU/hqdefault.jpg",
-    "duration": 1295,
+    "id": "Ru99FGJ_yuE",
+    "title": "The state of the tech industry in 2026 - LDX3 New York",
+    "url": "https://www.youtube.com/watch?v=Ru99FGJ_yuE",
+    "channel": "The Pragmatic Engineer",
+    "thumbnail": "https://i.ytimg.com/vi/Ru99FGJ_yuE/hqdefault.jpg",
+    "duration": 1779,
     "category": "news"
   },
   {
@@ -1431,12 +1368,21 @@
     "category": "news"
   },
   {
-    "id": "XHk1MSibXjw",
-    "title": "Latest Defense Technology on Display in Czech Republic | Future Force 2026",
-    "url": "https://www.youtube.com/watch?v=XHk1MSibXjw",
-    "channel": "DefenseWebTV",
-    "thumbnail": "https://i.ytimg.com/vi/XHk1MSibXjw/hqdefault.jpg",
-    "duration": 568,
+    "id": "6cidsEwRvjU",
+    "title": "I Found 20 New Inventions That Are Changing 2026",
+    "url": "https://www.youtube.com/watch?v=6cidsEwRvjU",
+    "channel": "TechTrends",
+    "thumbnail": "https://i.ytimg.com/vi/6cidsEwRvjU/hqdefault.jpg",
+    "duration": 1295,
+    "category": "news"
+  },
+  {
+    "id": "zt0JA5rxdfM",
+    "title": "AI Trends 2026: Quantum, Agentic AI & Smarter Automation",
+    "url": "https://www.youtube.com/watch?v=zt0JA5rxdfM",
+    "channel": "IBM Technology",
+    "thumbnail": "https://i.ytimg.com/vi/zt0JA5rxdfM/hqdefault.jpg",
+    "duration": 699,
     "category": "news"
   },
   {
@@ -1449,12 +1395,39 @@
     "category": "news"
   },
   {
-    "id": "VTLnDqjfRZQ",
-    "title": "I spent $12,000 on the THINNEST Tech",
-    "url": "https://www.youtube.com/watch?v=VTLnDqjfRZQ",
-    "channel": "Mrwhosetheboss",
-    "thumbnail": "https://i.ytimg.com/vi/VTLnDqjfRZQ/hqdefault.jpg",
-    "duration": 1479,
+    "id": "B_hx-zAWz3w",
+    "title": "10 Breakthrough Technologies of 2026",
+    "url": "https://www.youtube.com/watch?v=B_hx-zAWz3w",
+    "channel": "SXSW",
+    "thumbnail": "https://i.ytimg.com/vi/B_hx-zAWz3w/hqdefault.jpg",
+    "duration": 2937,
+    "category": "news"
+  },
+  {
+    "id": "moy3waNDQa8",
+    "title": "Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News",
+    "url": "https://www.youtube.com/watch?v=moy3waNDQa8",
+    "channel": "BBC News",
+    "thumbnail": "https://i.ytimg.com/vi/moy3waNDQa8/hqdefault.jpg",
+    "duration": 117,
+    "category": "news"
+  },
+  {
+    "id": "2jU-mLMV8Vw",
+    "title": "Cybersecurity Trends in 2026: Shadow AI, Quantum & Deepfakes",
+    "url": "https://www.youtube.com/watch?v=2jU-mLMV8Vw",
+    "channel": "IBM Technology",
+    "thumbnail": "https://i.ytimg.com/vi/2jU-mLMV8Vw/hqdefault.jpg",
+    "duration": 1229,
+    "category": "news"
+  },
+  {
+    "id": "wjJG8ga63lQ",
+    "title": "Top 15 New Breakthrough Technologies of 2026 (According to MIT)",
+    "url": "https://www.youtube.com/watch?v=wjJG8ga63lQ",
+    "channel": "AI Uncovered",
+    "thumbnail": "https://i.ytimg.com/vi/wjJG8ga63lQ/hqdefault.jpg",
+    "duration": 869,
     "category": "news"
   }
 ]
