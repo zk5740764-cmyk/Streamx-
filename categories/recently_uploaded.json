@@ -1,5 +1,14 @@
 [
   {
+    "id": "yT_AfrHbAyA",
+    "title": "Tyla - THAT GIRL (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=yT_AfrHbAyA",
+    "channel": "Tyla",
+    "thumbnail": "https://i.ytimg.com/vi/yT_AfrHbAyA/hqdefault.jpg",
+    "duration": 191,
+    "category": "recently_uploaded"
+  },
+  {
     "id": "5l5OKWE3rbA",
     "title": "Nickelback - Make Me Love You (Official Music Video)",
     "url": "https://www.youtube.com/watch?v=5l5OKWE3rbA",
@@ -9,12 +18,12 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "yT_AfrHbAyA",
-    "title": "Tyla - THAT GIRL (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=yT_AfrHbAyA",
-    "channel": "Tyla",
-    "thumbnail": "https://i.ytimg.com/vi/yT_AfrHbAyA/hqdefault.jpg",
-    "duration": 191,
+    "id": "f6ZDmAhaH_Q",
+    "title": "Future - Konnichiwa (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=f6ZDmAhaH_Q",
+    "channel": "Future",
+    "thumbnail": "https://i.ytimg.com/vi/f6ZDmAhaH_Q/hqdefault.jpg",
+    "duration": 157,
     "category": "recently_uploaded"
   },
   {
@@ -36,21 +45,21 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "f6ZDmAhaH_Q",
-    "title": "Future - Konnichiwa (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=f6ZDmAhaH_Q",
-    "channel": "Future",
-    "thumbnail": "https://i.ytimg.com/vi/f6ZDmAhaH_Q/hqdefault.jpg",
-    "duration": 157,
-    "category": "recently_uploaded"
-  },
-  {
     "id": "owxHUouEIBU",
     "title": "Future - California Girls (Official Music Video)",
     "url": "https://www.youtube.com/watch?v=owxHUouEIBU",
     "channel": "Future",
     "thumbnail": "https://i.ytimg.com/vi/owxHUouEIBU/hqdefault.jpg",
     "duration": 151,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "kSBQZH3dkZ8",
+    "title": "Tyla - THAT GIRL (Biuro Version)",
+    "url": "https://www.youtube.com/watch?v=kSBQZH3dkZ8",
+    "channel": "Tyla",
+    "thumbnail": "https://i.ytimg.com/vi/kSBQZH3dkZ8/hqdefault.jpg",
+    "duration": 178,
     "category": "recently_uploaded"
   },
   {
@@ -72,48 +81,12 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "8Bf4qOn0MRs",
-    "title": "T.I. - Mr. Him (Official Video)",
-    "url": "https://www.youtube.com/watch?v=8Bf4qOn0MRs",
-    "channel": "T.I.",
-    "thumbnail": "https://i.ytimg.com/vi/8Bf4qOn0MRs/hqdefault.jpg",
-    "duration": 151,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "kSBQZH3dkZ8",
-    "title": "Tyla - THAT GIRL (Biuro Version)",
-    "url": "https://www.youtube.com/watch?v=kSBQZH3dkZ8",
-    "channel": "Tyla",
-    "thumbnail": "https://i.ytimg.com/vi/kSBQZH3dkZ8/hqdefault.jpg",
-    "duration": 178,
-    "category": "recently_uploaded"
-  },
-  {
     "id": "_2zXB420w4o",
     "title": "Kehlani - Back and Forth (feat. Missy Elliott) [Official Music Video]",
     "url": "https://www.youtube.com/watch?v=_2zXB420w4o",
     "channel": "Kehlani",
     "thumbnail": "https://i.ytimg.com/vi/_2zXB420w4o/hqdefault.jpg",
     "duration": 244,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "TTRCk8UROwU",
-    "title": "Latto - Okayyy (Official Video) ft. Doja Cat",
-    "url": "https://www.youtube.com/watch?v=TTRCk8UROwU",
-    "channel": "Latto and Doja Cat",
-    "thumbnail": "https://i.ytimg.com/vi/TTRCk8UROwU/hqdefault.jpg",
-    "duration": 239,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "Hfss_tTPtcw",
-    "title": "Jacquees - \"Lick Back\" Remix ft. Lil Baby (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=Hfss_tTPtcw",
-    "channel": "Jacquees",
-    "thumbnail": "https://i.ytimg.com/vi/Hfss_tTPtcw/hqdefault.jpg",
-    "duration": 150,
     "category": "recently_uploaded"
   },
   {
@@ -126,12 +99,39 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "0dET6FONIKk",
-    "title": "Lil Twist, Lil Wayne - Addict (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=0dET6FONIKk",
-    "channel": "Lil Twist and Lil Wayne",
-    "thumbnail": "https://i.ytimg.com/vi/0dET6FONIKk/hqdefault.jpg",
-    "duration": 214,
+    "id": "Hfss_tTPtcw",
+    "title": "Jacquees - \"Lick Back\" Remix ft. Lil Baby (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=Hfss_tTPtcw",
+    "channel": "Jacquees",
+    "thumbnail": "https://i.ytimg.com/vi/Hfss_tTPtcw/hqdefault.jpg",
+    "duration": 150,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "8Bf4qOn0MRs",
+    "title": "T.I. - Mr. Him (Official Video)",
+    "url": "https://www.youtube.com/watch?v=8Bf4qOn0MRs",
+    "channel": "T.I.",
+    "thumbnail": "https://i.ytimg.com/vi/8Bf4qOn0MRs/hqdefault.jpg",
+    "duration": 151,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "-5ZXrO_lYSA",
+    "title": "LISA - Tarantino (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA",
+    "channel": "LLOUD Official",
+    "thumbnail": "https://i.ytimg.com/vi/-5ZXrO_lYSA/hqdefault.jpg",
+    "duration": 217,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "atJwRQ1zdjQ",
+    "title": "mgk & Wiz Khalifa - girl next door (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=atJwRQ1zdjQ",
+    "channel": "mgk and Wiz Khalifa",
+    "thumbnail": "https://i.ytimg.com/vi/atJwRQ1zdjQ/hqdefault.jpg",
+    "duration": 237,
     "category": "recently_uploaded"
   },
   {
@@ -144,21 +144,12 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "fE6w_LdkFHg",
-    "title": "Skillet - Scream (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=fE6w_LdkFHg",
-    "channel": "Skillet",
-    "thumbnail": "https://i.ytimg.com/vi/fE6w_LdkFHg/hqdefault.jpg",
-    "duration": 207,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "atJwRQ1zdjQ",
-    "title": "mgk & Wiz Khalifa - girl next door (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=atJwRQ1zdjQ",
-    "channel": "mgk and Wiz Khalifa",
-    "thumbnail": "https://i.ytimg.com/vi/atJwRQ1zdjQ/hqdefault.jpg",
-    "duration": 237,
+    "id": "-NKqonGjL6E",
+    "title": "Future - No Misery (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=-NKqonGjL6E",
+    "channel": "Future",
+    "thumbnail": "https://i.ytimg.com/vi/-NKqonGjL6E/hqdefault.jpg",
+    "duration": 134,
     "category": "recently_uploaded"
   },
   {
@@ -180,12 +171,12 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "7gKpREE5Z3w",
-    "title": "DJ Khaled, Future, Lil Baby - One of Them (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=7gKpREE5Z3w",
-    "channel": "DJ Khaled",
-    "thumbnail": "https://i.ytimg.com/vi/7gKpREE5Z3w/hqdefault.jpg",
-    "duration": 237,
+    "id": "prqNqQUWXBE",
+    "title": "Asake - Oba (Official Video)",
+    "url": "https://www.youtube.com/watch?v=prqNqQUWXBE",
+    "channel": "ASAKE",
+    "thumbnail": "https://i.ytimg.com/vi/prqNqQUWXBE/hqdefault.jpg",
+    "duration": 172,
     "category": "recently_uploaded"
   },
   {
@@ -198,39 +189,21 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "Otsixg2WpHo",
-    "title": "Ice Spice & Lil Yachty - Out My Face (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=Otsixg2WpHo",
-    "channel": "Lyrical Lemonade and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/Otsixg2WpHo/hqdefault.jpg",
-    "duration": 214,
+    "id": "AHuKFYTSrZU",
+    "title": "Future - Radio (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=AHuKFYTSrZU",
+    "channel": "Future",
+    "thumbnail": "https://i.ytimg.com/vi/AHuKFYTSrZU/hqdefault.jpg",
+    "duration": 163,
     "category": "recently_uploaded"
   },
   {
-    "id": "cJE8_DcQw7s",
-    "title": "The Game - The Life (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=cJE8_DcQw7s",
-    "channel": "The Game ",
-    "thumbnail": "https://i.ytimg.com/vi/cJE8_DcQw7s/hqdefault.jpg",
-    "duration": 174,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "noKWHhLR9Mc",
-    "title": "Kodak Black - Lemon Squeeze (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=noKWHhLR9Mc",
-    "channel": "Kodak Black",
-    "thumbnail": "https://i.ytimg.com/vi/noKWHhLR9Mc/hqdefault.jpg",
-    "duration": 90,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "A02IAIbFSrE",
-    "title": "Fetty Wap - I Remember (feat. G Herbo) [Official Video]",
-    "url": "https://www.youtube.com/watch?v=A02IAIbFSrE",
-    "channel": "Harlem Fetty and G Herbo",
-    "thumbnail": "https://i.ytimg.com/vi/A02IAIbFSrE/hqdefault.jpg",
-    "duration": 245,
+    "id": "7gKpREE5Z3w",
+    "title": "DJ Khaled, Future, Lil Baby - One of Them (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=7gKpREE5Z3w",
+    "channel": "DJ Khaled",
+    "thumbnail": "https://i.ytimg.com/vi/7gKpREE5Z3w/hqdefault.jpg",
+    "duration": 237,
     "category": "recently_uploaded"
   },
   {
@@ -243,75 +216,12 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "Lufa9QAFFeY",
-    "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
-    "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY",
-    "channel": "ROSÉ",
-    "thumbnail": "https://i.ytimg.com/vi/Lufa9QAFFeY/hqdefault.jpg",
-    "duration": 182,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "E_0y8bmIATM",
-    "title": "Cardi B - Safe (feat. Kehlani) [Official Music Video]",
-    "url": "https://www.youtube.com/watch?v=E_0y8bmIATM",
-    "channel": "Cardi B",
-    "thumbnail": "https://i.ytimg.com/vi/E_0y8bmIATM/hqdefault.jpg",
-    "duration": 207,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "TKICNQfIRXE",
-    "title": "Kodak Black - Time To Be Free [Official Music Video]",
-    "url": "https://www.youtube.com/watch?v=TKICNQfIRXE",
-    "channel": "Kodak Black",
-    "thumbnail": "https://i.ytimg.com/vi/TKICNQfIRXE/hqdefault.jpg",
-    "duration": 184,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "WPuP-qkhkuI",
-    "title": "Finesse2Tymes - Creepin [Official Music Video]",
-    "url": "https://www.youtube.com/watch?v=WPuP-qkhkuI",
-    "channel": "Finesse2Tymes",
-    "thumbnail": "https://i.ytimg.com/vi/WPuP-qkhkuI/hqdefault.jpg",
-    "duration": 201,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "6OzP09nC79o",
-    "title": "Rema - TEA",
-    "url": "https://www.youtube.com/watch?v=6OzP09nC79o",
-    "channel": "Rema",
-    "thumbnail": "https://i.ytimg.com/vi/6OzP09nC79o/hqdefault.jpg",
-    "duration": 241,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "-5ZXrO_lYSA",
-    "title": "LISA - Tarantino (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA",
-    "channel": "LLOUD Official",
-    "thumbnail": "https://i.ytimg.com/vi/-5ZXrO_lYSA/hqdefault.jpg",
-    "duration": 217,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "qRNXrz_MyFw",
-    "title": "Chris Brown - For The Moment (Official Video)",
-    "url": "https://www.youtube.com/watch?v=qRNXrz_MyFw",
-    "channel": "Chris Brown",
-    "thumbnail": "https://i.ytimg.com/vi/qRNXrz_MyFw/hqdefault.jpg",
-    "duration": 242,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "1ZL5TreJAHk",
-    "title": "YA BABA (Official Video) - NORA FATEHI | SANJOY | SHILPA RAO | VAYU | BHUSHAN KUMAR",
-    "url": "https://www.youtube.com/watch?v=1ZL5TreJAHk",
-    "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/1ZL5TreJAHk/hqdefault.jpg",
-    "duration": 218,
+    "id": "MyLPqyvl6qE",
+    "title": "Davido - On The Road (Official Video)",
+    "url": "https://www.youtube.com/watch?v=MyLPqyvl6qE",
+    "channel": "Davido",
+    "thumbnail": "https://i.ytimg.com/vi/MyLPqyvl6qE/hqdefault.jpg",
+    "duration": 137,
     "category": "recently_uploaded"
   },
   {
@@ -324,12 +234,57 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "1l7wbZmdtys",
-    "title": "Bruno Mars - Dance With Me [Official Music Video]",
-    "url": "https://www.youtube.com/watch?v=1l7wbZmdtys",
-    "channel": "Bruno Mars",
-    "thumbnail": "https://i.ytimg.com/vi/1l7wbZmdtys/hqdefault.jpg",
-    "duration": 220,
+    "id": "6OzP09nC79o",
+    "title": "Rema - TEA",
+    "url": "https://www.youtube.com/watch?v=6OzP09nC79o",
+    "channel": "Rema",
+    "thumbnail": "https://i.ytimg.com/vi/6OzP09nC79o/hqdefault.jpg",
+    "duration": 241,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "A02IAIbFSrE",
+    "title": "Fetty Wap - I Remember (feat. G Herbo) [Official Video]",
+    "url": "https://www.youtube.com/watch?v=A02IAIbFSrE",
+    "channel": "Harlem Fetty and G Herbo",
+    "thumbnail": "https://i.ytimg.com/vi/A02IAIbFSrE/hqdefault.jpg",
+    "duration": 245,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "1ZL5TreJAHk",
+    "title": "YA BABA (Official Video) - NORA FATEHI | SANJOY | SHILPA RAO | VAYU | BHUSHAN KUMAR",
+    "url": "https://www.youtube.com/watch?v=1ZL5TreJAHk",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/1ZL5TreJAHk/hqdefault.jpg",
+    "duration": 218,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "Lufa9QAFFeY",
+    "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
+    "url": "https://www.youtube.com/watch?v=Lufa9QAFFeY",
+    "channel": "ROSÉ",
+    "thumbnail": "https://i.ytimg.com/vi/Lufa9QAFFeY/hqdefault.jpg",
+    "duration": 182,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "TKICNQfIRXE",
+    "title": "Kodak Black - Time To Be Free [Official Music Video]",
+    "url": "https://www.youtube.com/watch?v=TKICNQfIRXE",
+    "channel": "Kodak Black",
+    "thumbnail": "https://i.ytimg.com/vi/TKICNQfIRXE/hqdefault.jpg",
+    "duration": 184,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "E_0y8bmIATM",
+    "title": "Cardi B - Safe (feat. Kehlani) [Official Music Video]",
+    "url": "https://www.youtube.com/watch?v=E_0y8bmIATM",
+    "channel": "Cardi B",
+    "thumbnail": "https://i.ytimg.com/vi/E_0y8bmIATM/hqdefault.jpg",
+    "duration": 207,
     "category": "recently_uploaded"
   },
   {
@@ -342,33 +297,6 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "ko70cExuzZM",
-    "title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=ko70cExuzZM",
-    "channel": "Taylor Swift",
-    "thumbnail": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
-    "duration": 239,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "MyLPqyvl6qE",
-    "title": "Davido - On The Road (Official Video)",
-    "url": "https://www.youtube.com/watch?v=MyLPqyvl6qE",
-    "channel": "Davido",
-    "thumbnail": "https://i.ytimg.com/vi/MyLPqyvl6qE/hqdefault.jpg",
-    "duration": 137,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "Lca7VGqAHaY",
-    "title": "Kodak Black - Little Birdie  [Official Music Video]",
-    "url": "https://www.youtube.com/watch?v=Lca7VGqAHaY",
-    "channel": "Kodak Black",
-    "thumbnail": "https://i.ytimg.com/vi/Lca7VGqAHaY/hqdefault.jpg",
-    "duration": 157,
-    "category": "recently_uploaded"
-  },
-  {
     "id": "ARtrZET7XSA",
     "title": "Rema - Oh No",
     "url": "https://www.youtube.com/watch?v=ARtrZET7XSA",
@@ -378,12 +306,39 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "UD10JcbcANs",
-    "title": "DRIEMO - ULEKE (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=UD10JcbcANs",
-    "channel": "Driemo",
-    "thumbnail": "https://i.ytimg.com/vi/UD10JcbcANs/hqdefault.jpg",
-    "duration": 153,
+    "id": "qRNXrz_MyFw",
+    "title": "Chris Brown - For The Moment (Official Video)",
+    "url": "https://www.youtube.com/watch?v=qRNXrz_MyFw",
+    "channel": "Chris Brown",
+    "thumbnail": "https://i.ytimg.com/vi/qRNXrz_MyFw/hqdefault.jpg",
+    "duration": 242,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "WPuP-qkhkuI",
+    "title": "Finesse2Tymes - Creepin [Official Music Video]",
+    "url": "https://www.youtube.com/watch?v=WPuP-qkhkuI",
+    "channel": "Finesse2Tymes",
+    "thumbnail": "https://i.ytimg.com/vi/WPuP-qkhkuI/hqdefault.jpg",
+    "duration": 201,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "cJE8_DcQw7s",
+    "title": "The Game - The Life (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=cJE8_DcQw7s",
+    "channel": "The Game ",
+    "thumbnail": "https://i.ytimg.com/vi/cJE8_DcQw7s/hqdefault.jpg",
+    "duration": 174,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "1l7wbZmdtys",
+    "title": "Bruno Mars - Dance With Me [Official Music Video]",
+    "url": "https://www.youtube.com/watch?v=1l7wbZmdtys",
+    "channel": "Bruno Mars",
+    "thumbnail": "https://i.ytimg.com/vi/1l7wbZmdtys/hqdefault.jpg",
+    "duration": 220,
     "category": "recently_uploaded"
   },
   {
@@ -396,30 +351,21 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "kmEt-GrhOmw",
-    "title": "Spice Diana - Finally (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=kmEt-GrhOmw",
-    "channel": "Spice Diana",
-    "thumbnail": "https://i.ytimg.com/vi/kmEt-GrhOmw/hqdefault.jpg",
-    "duration": 167,
+    "id": "SD4yRDY9mek",
+    "title": "Drake - Janice STFU",
+    "url": "https://www.youtube.com/watch?v=SD4yRDY9mek",
+    "channel": "Drake",
+    "thumbnail": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
+    "duration": 237,
     "category": "recently_uploaded"
   },
   {
-    "id": "sAvg4cmJOhI",
-    "title": "Sean Paul & Sommer Ray - DIP (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=sAvg4cmJOhI",
-    "channel": "Sean Paul and Sommer Ray",
-    "thumbnail": "https://i.ytimg.com/vi/sAvg4cmJOhI/hqdefault.jpg",
-    "duration": 208,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "q4lU1N3oqYQ",
-    "title": "Madison Beer - lovergirl (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=q4lU1N3oqYQ",
-    "channel": "Madison Beer",
-    "thumbnail": "https://i.ytimg.com/vi/q4lU1N3oqYQ/hqdefault.jpg",
-    "duration": 202,
+    "id": "vLLdKVYJUzs",
+    "title": "BigXthaPlug feat. Ava Max - BURN (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=vLLdKVYJUzs",
+    "channel": "BigXthaPlug and Ava Max",
+    "thumbnail": "https://i.ytimg.com/vi/vLLdKVYJUzs/hqdefault.jpg",
+    "duration": 291,
     "category": "recently_uploaded"
   },
   {
@@ -432,12 +378,48 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "lY5V4hSLWY8",
-    "title": "Bruno Mars - Risk It All [Official Music Video]",
-    "url": "https://www.youtube.com/watch?v=lY5V4hSLWY8",
-    "channel": "Bruno Mars",
-    "thumbnail": "https://i.ytimg.com/vi/lY5V4hSLWY8/hqdefault.jpg",
-    "duration": 211,
+    "id": "Lca7VGqAHaY",
+    "title": "Kodak Black - Little Birdie  [Official Music Video]",
+    "url": "https://www.youtube.com/watch?v=Lca7VGqAHaY",
+    "channel": "Kodak Black",
+    "thumbnail": "https://i.ytimg.com/vi/Lca7VGqAHaY/hqdefault.jpg",
+    "duration": 157,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "ko70cExuzZM",
+    "title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=ko70cExuzZM",
+    "channel": "Taylor Swift",
+    "thumbnail": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg",
+    "duration": 239,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "UD10JcbcANs",
+    "title": "DRIEMO - ULEKE (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=UD10JcbcANs",
+    "channel": "Driemo",
+    "thumbnail": "https://i.ytimg.com/vi/UD10JcbcANs/hqdefault.jpg",
+    "duration": 153,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "kmEt-GrhOmw",
+    "title": "Spice Diana - Finally (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=kmEt-GrhOmw",
+    "channel": "Spice Diana",
+    "thumbnail": "https://i.ytimg.com/vi/kmEt-GrhOmw/hqdefault.jpg",
+    "duration": 167,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "tcEFkqD9cx0",
+    "title": "Vybz Kartel, Shenseea - PANIC (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=tcEFkqD9cx0",
+    "channel": "VybzKartelRadio",
+    "thumbnail": "https://i.ytimg.com/vi/tcEFkqD9cx0/hqdefault.jpg",
+    "duration": 132,
     "category": "recently_uploaded"
   },
   {
@@ -450,39 +432,156 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "1WDVjjPXoaM",
-    "title": "FREEZE: BRANDON HARRY(Official Video) Sukh Lotey | Latest Punjabi Songs 2026 - Geet MP3",
-    "url": "https://www.youtube.com/watch?v=1WDVjjPXoaM",
-    "channel": "Geet MP3",
-    "thumbnail": "https://i.ytimg.com/vi/1WDVjjPXoaM/hqdefault.jpg",
-    "duration": 174,
+    "id": "lY5V4hSLWY8",
+    "title": "Bruno Mars - Risk It All [Official Music Video]",
+    "url": "https://www.youtube.com/watch?v=lY5V4hSLWY8",
+    "channel": "Bruno Mars",
+    "thumbnail": "https://i.ytimg.com/vi/lY5V4hSLWY8/hqdefault.jpg",
+    "duration": 211,
     "category": "recently_uploaded"
   },
   {
-    "id": "uX7u9wtFh-M",
-    "title": "New Songs 2026 | New Trending Songs | New Hindi Song | Trending Songs | Latest Romantic Song",
-    "url": "https://www.youtube.com/watch?v=uX7u9wtFh-M",
-    "channel": "Vatsal Bhoya",
-    "thumbnail": "https://i.ytimg.com/vi/uX7u9wtFh-M/hqdefault.jpg",
-    "duration": 1276,
+    "id": "XmzXgqN3Cyo",
+    "title": "Winnie Wa Mummy - My Man (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=XmzXgqN3Cyo",
+    "channel": "Winnie Wa Mummy “ Ugandan Beyonce”",
+    "thumbnail": "https://i.ytimg.com/vi/XmzXgqN3Cyo/hqdefault.jpg",
+    "duration": 172,
     "category": "recently_uploaded"
   },
   {
-    "id": "IckjvFAjTt4",
-    "title": "NISHANA (Full Video) | JIGAR | Latest Punjabi Songs 2026 | T-Series",
-    "url": "https://www.youtube.com/watch?v=IckjvFAjTt4",
+    "id": "9m1ZJHhUVSs",
+    "title": "Spotify Hits Music 2026 🎤 | Best 100 English Songs | TikTok Viral Music | New Popular English Songs",
+    "url": "https://www.youtube.com/watch?v=9m1ZJHhUVSs",
+    "channel": "Soft Feelings",
+    "thumbnail": "https://i.ytimg.com/vi/9m1ZJHhUVSs/hqdefault.jpg",
+    "duration": 0,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "Rt9tW3cMLhI",
+    "title": "Olivia Rodrigo - stupid song (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=Rt9tW3cMLhI",
+    "channel": "Olivia Rodrigo",
+    "thumbnail": "https://i.ytimg.com/vi/Rt9tW3cMLhI/hqdefault.jpg",
+    "duration": 217,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "82-jTNka3uc",
+    "title": "Ariana Grande - hate that i made you love me (official music video)",
+    "url": "https://www.youtube.com/watch?v=82-jTNka3uc",
+    "channel": "Ariana Grande",
+    "thumbnail": "https://i.ytimg.com/vi/82-jTNka3uc/hqdefault.jpg",
+    "duration": 301,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "kizfrmykOkM",
+    "title": "Best Pop Songs 2026 ♫ Taylor Swift, Ed Sheeran, Bruno Mars, Lady Gaga💥 Billboard Top 100 This Week",
+    "url": "https://www.youtube.com/watch?v=kizfrmykOkM",
+    "channel": "Timeless Pop Music",
+    "thumbnail": "https://i.ytimg.com/vi/kizfrmykOkM/hqdefault.jpg",
+    "duration": 0,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "m2BnK_hf2qg",
+    "title": "Music Radio Mix Songs 2025 – Today's Hits & All-Time Classics | Best Spotify POP Songs",
+    "url": "https://www.youtube.com/watch?v=m2BnK_hf2qg",
+    "channel": "Too Music",
+    "thumbnail": "https://i.ytimg.com/vi/m2BnK_hf2qg/hqdefault.jpg",
+    "duration": 0,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "cCvLt6gqAIA",
+    "title": "Babylon",
+    "url": "https://www.youtube.com/watch?v=cCvLt6gqAIA",
+    "channel": "Taylor Swift",
+    "thumbnail": "https://i.ytimg.com/vi/cCvLt6gqAIA/hqdefault.jpg",
+    "duration": 220,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "pLGRaZpNO5Y",
+    "title": "BRABUS (Official Video) Parmish Verma - Harman Brar Ft. Kiran Bajwa | VICTORY LAP",
+    "url": "https://www.youtube.com/watch?v=pLGRaZpNO5Y",
+    "channel": "Parmish Verma",
+    "thumbnail": "https://i.ytimg.com/vi/pLGRaZpNO5Y/hqdefault.jpg",
+    "duration": 260,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "zkJe4QL95aE",
+    "title": "New Song 2026 | New Hindi Song | Musafir | Shahid Kapoor | Kriti Sanon | New Song",
+    "url": "https://www.youtube.com/watch?v=zkJe4QL95aE",
+    "channel": "Sagar Bairagi ",
+    "thumbnail": "https://i.ytimg.com/vi/zkJe4QL95aE/hqdefault.jpg",
+    "duration": 309,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "XkFZD52Epe8",
+    "title": "Koka Qehar - Shivjot | The Boss | AHSII | New Punjabi Songs 2026 | Punjabi Music Hit",
+    "url": "https://www.youtube.com/watch?v=XkFZD52Epe8",
+    "channel": "Shivjot and Ignite Music",
+    "thumbnail": "https://i.ytimg.com/vi/XkFZD52Epe8/hqdefault.jpg",
+    "duration": 170,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "fQ0T6ljfuOU",
+    "title": "ROG (Official Video) | PARRY SIDHU | Latest Punjabi Songs 2026 | T-Series",
+    "url": "https://www.youtube.com/watch?v=fQ0T6ljfuOU",
     "channel": "T-Series Apna Punjab",
-    "thumbnail": "https://i.ytimg.com/vi/IckjvFAjTt4/hqdefault.jpg",
-    "duration": 115,
+    "thumbnail": "https://i.ytimg.com/vi/fQ0T6ljfuOU/hqdefault.jpg",
+    "duration": 211,
     "category": "recently_uploaded"
   },
   {
-    "id": "vm92MBLZH4U",
-    "title": "Breezy (Official Music Video) Gur Sidhu | Kaptaan",
-    "url": "https://www.youtube.com/watch?v=vm92MBLZH4U",
-    "channel": "Brown Town Music",
-    "thumbnail": "https://i.ytimg.com/vi/vm92MBLZH4U/hqdefault.jpg",
-    "duration": 159,
+    "id": "ovoIHYw8L4c",
+    "title": "New Song 2026 | New Hindi Song | Kabhi Aankhon Se | Shahrukh Khan | Tamannaah Bhatia | New Song",
+    "url": "https://www.youtube.com/watch?v=ovoIHYw8L4c",
+    "channel": "Gaurav Mali",
+    "thumbnail": "https://i.ytimg.com/vi/ovoIHYw8L4c/hqdefault.jpg",
+    "duration": 285,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "-X2ML7Sf7Lg",
+    "title": "FAYA FAYA (Official Video) | MANAVGEET GILL | Latest Punjabi Songs 2026 | T-Series",
+    "url": "https://www.youtube.com/watch?v=-X2ML7Sf7Lg",
+    "channel": "T-Series Apna Punjab",
+    "thumbnail": "https://i.ytimg.com/vi/-X2ML7Sf7Lg/hqdefault.jpg",
+    "duration": 182,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "P03rCJkFA2Q",
+    "title": "Jutti Talk :Official Video | Amrit Maan | Rass | Latest Punjabi Songs 2026 | New Songs 2026 ",
+    "url": "https://www.youtube.com/watch?v=P03rCJkFA2Q",
+    "channel": "Amrit Maan",
+    "thumbnail": "https://i.ytimg.com/vi/P03rCJkFA2Q/hqdefault.jpg",
+    "duration": 160,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "iGwvHO9Gg44",
+    "title": "Kaali LC | Diksha B | BxckBencher | New Punjabi Song 2026 | Latest Punjabi Song 2026 | Speed Records",
+    "url": "https://www.youtube.com/watch?v=iGwvHO9Gg44",
+    "channel": "Speed Records",
+    "thumbnail": "https://i.ytimg.com/vi/iGwvHO9Gg44/hqdefault.jpg",
+    "duration": 135,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "39JcLiUzSrQ",
+    "title": "New Song 2026 | New Hindi Song | Zara Kareeb Se | Emraan Hashmi | Janhvi Kapoor | New Song",
+    "url": "https://www.youtube.com/watch?v=39JcLiUzSrQ",
+    "channel": "Gaurav Mali",
+    "thumbnail": "https://i.ytimg.com/vi/39JcLiUzSrQ/hqdefault.jpg",
+    "duration": 285,
     "category": "recently_uploaded"
   },
   {
@@ -495,6 +594,60 @@
     "category": "recently_uploaded"
   },
   {
+    "id": "HW0_8GOuaVI",
+    "title": "VAIR (OFFICIAL VIDEO) AMRIT MAAN | THIARAJXTT | LATEST PUNJABI SONGS 2026 | NEW SONGS 2026",
+    "url": "https://www.youtube.com/watch?v=HW0_8GOuaVI",
+    "channel": "Amrit Maan",
+    "thumbnail": "https://i.ytimg.com/vi/HW0_8GOuaVI/hqdefault.jpg",
+    "duration": 210,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "vm92MBLZH4U",
+    "title": "Breezy (Official Music Video) Gur Sidhu | Kaptaan",
+    "url": "https://www.youtube.com/watch?v=vm92MBLZH4U",
+    "channel": "Brown Town Music",
+    "thumbnail": "https://i.ytimg.com/vi/vm92MBLZH4U/hqdefault.jpg",
+    "duration": 159,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "gYmf-Eqkstw",
+    "title": "Refugee (Official Music Video) Jordan Sandhu | Latest Punjabi Songs 2026",
+    "url": "https://www.youtube.com/watch?v=gYmf-Eqkstw",
+    "channel": "Jordan Sandhu",
+    "thumbnail": "https://i.ytimg.com/vi/gYmf-Eqkstw/hqdefault.jpg",
+    "duration": 152,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "Tw5QQsSflYc",
+    "title": "God's Favorite (Official Video) Jordan Sandhu ft. Sultaan | New Music Punjabi 2026",
+    "url": "https://www.youtube.com/watch?v=Tw5QQsSflYc",
+    "channel": "Jordan Sandhu",
+    "thumbnail": "https://i.ytimg.com/vi/Tw5QQsSflYc/hqdefault.jpg",
+    "duration": 182,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "NnaIdVCm6Uc",
+    "title": "KINAARE (Official Video): Maninder Buttar | Himanshi Khurana | Latest Punjabi Song | Suyash | Danny",
+    "url": "https://www.youtube.com/watch?v=NnaIdVCm6Uc",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/NnaIdVCm6Uc/hqdefault.jpg",
+    "duration": 252,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "Pd1yGW_g2T8",
+    "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
+    "url": "https://www.youtube.com/watch?v=Pd1yGW_g2T8",
+    "channel": "Karan Aujla",
+    "thumbnail": "https://i.ytimg.com/vi/Pd1yGW_g2T8/hqdefault.jpg",
+    "duration": 218,
+    "category": "recently_uploaded"
+  },
+  {
     "id": "3fiiGM8EC3E",
     "title": "Time Zone (Official Video) | Kaka Ji | New Punjabi Song 2026",
     "url": "https://www.youtube.com/watch?v=3fiiGM8EC3E",
@@ -504,12 +657,48 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "hMuuLsVeRKM",
-    "title": "Jee Sohneya (Official Video) Priya | Black Virus | New Punjabi Songs 2026 | Jass Records",
-    "url": "https://www.youtube.com/watch?v=hMuuLsVeRKM",
-    "channel": "Jass Records",
-    "thumbnail": "https://i.ytimg.com/vi/hMuuLsVeRKM/hqdefault.jpg",
-    "duration": 181,
+    "id": "NF3DPpo-EXw",
+    "title": "Varinder Brar- Big Poppa( Official music video) | Latest punjabi songs 2026 | New Punjabi song 2026",
+    "url": "https://www.youtube.com/watch?v=NF3DPpo-EXw",
+    "channel": "Varinder Brar",
+    "thumbnail": "https://i.ytimg.com/vi/NF3DPpo-EXw/hqdefault.jpg",
+    "duration": 156,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "Gcf_q4B3Crc",
+    "title": "Asla (Official Video) Mankirt Aulakh | Zehr Vibe | New Punjabi Song 2026",
+    "url": "https://www.youtube.com/watch?v=Gcf_q4B3Crc",
+    "channel": "Mankirt Aulakh",
+    "thumbnail": "https://i.ytimg.com/vi/Gcf_q4B3Crc/hqdefault.jpg",
+    "duration": 197,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "478GFvQ8MNk",
+    "title": "JUST YOU (OFFICIAL VIDEO) TARSEM JASSAR | PAV DHARIA | LATEST PUNJABI SONG 2026",
+    "url": "https://www.youtube.com/watch?v=478GFvQ8MNk",
+    "channel": "Vehli Janta Films and VehliJantaRecords",
+    "thumbnail": "https://i.ytimg.com/vi/478GFvQ8MNk/hqdefault.jpg",
+    "duration": 164,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "yrFoTUpogdc",
+    "title": "Ludhiana (Official Video) Kulwinder Sohi | Kiran Bajwa | New Punjabi Songs 2026",
+    "url": "https://www.youtube.com/watch?v=yrFoTUpogdc",
+    "channel": "Leaf Records",
+    "thumbnail": "https://i.ytimg.com/vi/yrFoTUpogdc/hqdefault.jpg",
+    "duration": 174,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "JuDv-vAz8mc",
+    "title": "Lost In You(Official Video) Ammy Virk | Gurjit Gill | Ary B | B2gether Pros | New Punjabi Songs 2026",
+    "url": "https://www.youtube.com/watch?v=JuDv-vAz8mc",
+    "channel": "Ammy Virk",
+    "thumbnail": "https://i.ytimg.com/vi/JuDv-vAz8mc/hqdefault.jpg",
+    "duration": 152,
     "category": "recently_uploaded"
   },
   {
@@ -531,273 +720,12 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "p4s7iPXlGlI",
-    "title": "She Ain’t Easy (Official Video) Navaan Sandhu | RXTRO | New Punjabi Songs 2026",
-    "url": "https://www.youtube.com/watch?v=p4s7iPXlGlI",
-    "channel": "Navaan Sandhu",
-    "thumbnail": "https://i.ytimg.com/vi/p4s7iPXlGlI/hqdefault.jpg",
-    "duration": 194,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "ncDnUV1ZAyk",
-    "title": "New Song 2026 | New Hindi Song | Teri Aankhon Mein | Yash | Rakul Preet | New Song",
-    "url": "https://www.youtube.com/watch?v=ncDnUV1ZAyk",
-    "channel": "Gaurav Mali",
-    "thumbnail": "https://i.ytimg.com/vi/ncDnUV1ZAyk/hqdefault.jpg",
-    "duration": 279,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "Z_ZBv-pL-hg",
-    "title": "New Song 2026 | New Hindi Song | Dil Mera Bekarar Raha | Sharukh Khan | Sara Arjun | New Song",
-    "url": "https://www.youtube.com/watch?v=Z_ZBv-pL-hg",
-    "channel": "Prakash Jojawar and Rawat Super Star Music",
-    "thumbnail": "https://i.ytimg.com/vi/Z_ZBv-pL-hg/hqdefault.jpg",
-    "duration": 292,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "SwkQXb_4XpE",
-    "title": "AIN TAAN (Official Audio) Amar Sehmbi | Black Virus | New Punjabi Songs 2026 | Jass Records",
-    "url": "https://www.youtube.com/watch?v=SwkQXb_4XpE",
-    "channel": "Jass Records",
-    "thumbnail": "https://i.ytimg.com/vi/SwkQXb_4XpE/hqdefault.jpg",
-    "duration": 178,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "UTiQsMI1ips",
-    "title": "Challa 2 | Sabba | Meavin | New Punjabi Song 2026 | Latest Punjabi Song 2026 | Speed Records",
-    "url": "https://www.youtube.com/watch?v=UTiQsMI1ips",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/UTiQsMI1ips/hqdefault.jpg",
-    "duration": 172,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "DvfSRwensw8",
-    "title": "Garoor (Official Video):  Kulshan Sandhu | Jasmeen Akhtar | Samridhi Puri | New Punjabi Songs 2026",
-    "url": "https://www.youtube.com/watch?v=DvfSRwensw8",
-    "channel": "Top Notch Music",
-    "thumbnail": "https://i.ytimg.com/vi/DvfSRwensw8/hqdefault.jpg",
-    "duration": 197,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "EdCnVO4msqY",
-    "title": "Hustle | Wazir Patar | Latest Punjabi Songs 2026 | New Punjabi Songs 2026 | Speed Records",
-    "url": "https://www.youtube.com/watch?v=EdCnVO4msqY",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/EdCnVO4msqY/hqdefault.jpg",
-    "duration": 166,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "oG9BuY91a9o",
-    "title": "JASSA DHILLON: YEARNING | STARBOY | New Punjabi Song 2026 #lovesong #sadromanticsong",
-    "url": "https://www.youtube.com/watch?v=oG9BuY91a9o",
-    "channel": "White Hill Music",
-    "thumbnail": "https://i.ytimg.com/vi/oG9BuY91a9o/hqdefault.jpg",
-    "duration": 183,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "W4MyRYw4i2o",
-    "title": "Afterimage (Official Music Video) Gur Sidhu | Kaptaan",
-    "url": "https://www.youtube.com/watch?v=W4MyRYw4i2o",
-    "channel": "Brown Town Music",
-    "thumbnail": "https://i.ytimg.com/vi/W4MyRYw4i2o/hqdefault.jpg",
-    "duration": 204,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "hDZLwNd03a0",
-    "title": "Top Trending Music Spotify 2026 🎶 || Latest English Songs ~ Smooth Acoustic Trending 2026",
-    "url": "https://www.youtube.com/watch?v=hDZLwNd03a0",
-    "channel": "Acoustic Pulse",
-    "thumbnail": "https://i.ytimg.com/vi/hDZLwNd03a0/hqdefault.jpg",
-    "duration": 3841,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "ApNouygjN34",
-    "title": "New Songs 2026 | Top Trending Songs | New Hindi Song | Trending Songs | Latest Romantic Song",
-    "url": "https://www.youtube.com/watch?v=ApNouygjN34",
-    "channel": "Vatsal Bhoya",
-    "thumbnail": "https://i.ytimg.com/vi/ApNouygjN34/hqdefault.jpg",
-    "duration": 1413,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "oIcKrkEYfbg",
-    "title": "Kajla (Official Video) Kaur B | Black Virus | Guri Sangali | Latest Punjabi Song 2026 ",
-    "url": "https://www.youtube.com/watch?v=oIcKrkEYfbg",
-    "channel": "Kaur B",
-    "thumbnail": "https://i.ytimg.com/vi/oIcKrkEYfbg/hqdefault.jpg",
-    "duration": 158,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "jksydmI7Z4w",
-    "title": "Charcha (Official Video) Pardeep Sran | Jashna | Gaiphy | New Punjabi Songs 2026 | Punjabi Songs",
-    "url": "https://www.youtube.com/watch?v=jksydmI7Z4w",
-    "channel": "Red Leaf Music",
-    "thumbnail": "https://i.ytimg.com/vi/jksydmI7Z4w/hqdefault.jpg",
-    "duration": 163,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "iGwvHO9Gg44",
-    "title": "Kaali LC | Diksha B | BxckBencher | New Punjabi Song 2026 | Latest Punjabi Song 2026 | Speed Records",
-    "url": "https://www.youtube.com/watch?v=iGwvHO9Gg44",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/iGwvHO9Gg44/hqdefault.jpg",
-    "duration": 135,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "Egmnm2JuiLE",
-    "title": "New Song 2026 | New Hindi Song | Tere Ishq Ki Aarzoo | Emran Hashmi | Kriti Sanon| New Song",
-    "url": "https://www.youtube.com/watch?v=Egmnm2JuiLE",
-    "channel": "Prakash Jojawar",
-    "thumbnail": "https://i.ytimg.com/vi/Egmnm2JuiLE/hqdefault.jpg",
-    "duration": 329,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "U8cAYPsazyI",
-    "title": "COACH - Arjan Dhillon | Mxrci | Latest Punjabi Songs 2026 | ArjanX",
-    "url": "https://www.youtube.com/watch?v=U8cAYPsazyI",
-    "channel": "𝐀𝐫𝐣𝐚𝐧𝐗",
-    "thumbnail": "https://i.ytimg.com/vi/U8cAYPsazyI/hqdefault.jpg",
-    "duration": 1287,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "dGAJv50TEZU",
-    "title": "New Punjabi Songs 2026 | Doctor Saab (Official Video) Korala Maan ft Gurlez Akhtar",
-    "url": "https://www.youtube.com/watch?v=dGAJv50TEZU",
-    "channel": "Korala Maan Music",
-    "thumbnail": "https://i.ytimg.com/vi/dGAJv50TEZU/hqdefault.jpg",
-    "duration": 177,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "hPnNZFio4-o",
-    "title": "Top Lugai (Official) Pardeep Boora | Pooja Hooda | Sandeep Surila | Neenu | New Haryanvi Song 2026",
-    "url": "https://www.youtube.com/watch?v=hPnNZFio4-o",
-    "channel": "Pardeep Boora",
-    "thumbnail": "https://i.ytimg.com/vi/hPnNZFio4-o/hqdefault.jpg",
-    "duration": 147,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "qdc1zBwULv8",
-    "title": "TOP BANDE (Official Video) | HUNAR SIDHU | Latest Punjabi Songs 2026 | T-Series",
-    "url": "https://www.youtube.com/watch?v=qdc1zBwULv8",
-    "channel": "T-Series Apna Punjab",
-    "thumbnail": "https://i.ytimg.com/vi/qdc1zBwULv8/hqdefault.jpg",
-    "duration": 178,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "sEo3fL8OPoQ",
-    "title": "Opps (Official Video) Ammy Virk | Arjan Virk | Ary B | New Punjabi Songs 2026",
-    "url": "https://www.youtube.com/watch?v=sEo3fL8OPoQ",
-    "channel": "Ammy Virk",
-    "thumbnail": "https://i.ytimg.com/vi/sEo3fL8OPoQ/hqdefault.jpg",
-    "duration": 134,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "x6zYV9K7xk4",
-    "title": "BAYILLA BACHALI KURA FULL SONG || LATEST FOLK SONG 2026 || ESHWAR SAI || POOJA NAGESHWAR || MANUKOTA",
-    "url": "https://www.youtube.com/watch?v=x6zYV9K7xk4",
-    "channel": "MANUKOTAPATALU",
-    "thumbnail": "https://i.ytimg.com/vi/x6zYV9K7xk4/hqdefault.jpg",
-    "duration": 277,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "iDkZ6laay2c",
-    "title": "New Songs 2026 | Kitna Pyar Hai | New Hindi Song | Ariyan Khan | Rashmika | Latest Romantic Song",
-    "url": "https://www.youtube.com/watch?v=iDkZ6laay2c",
-    "channel": "Vatsal Bhoya",
-    "thumbnail": "https://i.ytimg.com/vi/iDkZ6laay2c/hqdefault.jpg",
-    "duration": 322,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "Dol2IwugFds",
-    "title": "100% (Official Video) Lakhi Ghuman | Jang Dhillon | New Punjabi Songs | Latest Punjabi Songs 2026",
-    "url": "https://www.youtube.com/watch?v=Dol2IwugFds",
-    "channel": "Leaf Records",
-    "thumbnail": "https://i.ytimg.com/vi/Dol2IwugFds/hqdefault.jpg",
-    "duration": 178,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "m67Xdu78PrA",
-    "title": "Top Trending Songs 2026❤️ Best Hindi Love Songs | Latest Romantic Songs Playlist | New Song Hindi",
-    "url": "https://www.youtube.com/watch?v=m67Xdu78PrA",
-    "channel": "Grow Music ",
-    "thumbnail": "https://i.ytimg.com/vi/m67Xdu78PrA/hqdefault.jpg",
-    "duration": 7429,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "2J23QOUN9Es",
-    "title": "New Punjabi Songs | Shareek (Official Video) Korala Maan | R Nait | Latest Punjabi Songs 2026",
-    "url": "https://www.youtube.com/watch?v=2J23QOUN9Es",
-    "channel": "Korala Maan Music",
-    "thumbnail": "https://i.ytimg.com/vi/2J23QOUN9Es/hqdefault.jpg",
-    "duration": 205,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "Qys0N9Rw9mQ",
-    "title": "New Song 2026 | New Hindi Song | Suroor Mera Ho | Emraan Hashmi | Genelia D'Souza | New Song",
-    "url": "https://www.youtube.com/watch?v=Qys0N9Rw9mQ",
-    "channel": "Gaurav Mali",
-    "thumbnail": "https://i.ytimg.com/vi/Qys0N9Rw9mQ/hqdefault.jpg",
-    "duration": 280,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "bnu_Db3wCv8",
-    "title": "Ammiye (Official Music Video) NIJJAR | Dr Zeus | Autobiography | Latest Punjabi Song 2026",
-    "url": "https://www.youtube.com/watch?v=bnu_Db3wCv8",
-    "channel": "Saregama Punjabi and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/bnu_Db3wCv8/hqdefault.jpg",
-    "duration": 167,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "htipO4tsq_4",
-    "title": "New Songs 2026 | New Hindi Song | Meri Mohabbat Afsana | Emraan Hashmi |Kriti | Latest Romantic Song",
-    "url": "https://www.youtube.com/watch?v=htipO4tsq_4",
-    "channel": "Vatsal Bhoya",
-    "thumbnail": "https://i.ytimg.com/vi/htipO4tsq_4/hqdefault.jpg",
-    "duration": 337,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "1rwq13M0zEw",
-    "title": "TAREEF (MUSIC VIDEO) Surjit Bhullar ft Sudesh Kumari | Latest punjabi songs 2026 | New punjabi songs",
-    "url": "https://www.youtube.com/watch?v=1rwq13M0zEw",
-    "channel": "Motivate Music",
-    "thumbnail": "https://i.ytimg.com/vi/1rwq13M0zEw/hqdefault.jpg",
-    "duration": 189,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "JzrCkYGIxRM",
-    "title": "Lucky Me (Official Music Video) Jordan Sandhu | Mandeep Maavi | Latest Punjabi Songs 2026",
-    "url": "https://www.youtube.com/watch?v=JzrCkYGIxRM",
-    "channel": "Jordan Sandhu",
-    "thumbnail": "https://i.ytimg.com/vi/JzrCkYGIxRM/hqdefault.jpg",
-    "duration": 181,
+    "id": "qU5ezUVgovg",
+    "title": "Jaadu (Official Video) - Filmy & Rawme Hooda | New Haryanvi Song 2026 | Real Music",
+    "url": "https://www.youtube.com/watch?v=qU5ezUVgovg",
+    "channel": "Real Music and Filmy",
+    "thumbnail": "https://i.ytimg.com/vi/qU5ezUVgovg/hqdefault.jpg",
+    "duration": 242,
     "category": "recently_uploaded"
   },
   {
@@ -810,30 +738,39 @@
     "category": "recently_uploaded"
   },
   {
+    "id": "rAibhYtcc9E",
+    "title": "MUNDA EHO CHAHIDA: Gurdas Maan | Introducing Priyanka Bhagat | Khush Qainaat : EP |New Punjabi Song",
+    "url": "https://www.youtube.com/watch?v=rAibhYtcc9E",
+    "channel": "Gurdas Maan",
+    "thumbnail": "https://i.ytimg.com/vi/rAibhYtcc9E/hqdefault.jpg",
+    "duration": 218,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "oIcKrkEYfbg",
+    "title": "Kajla (Official Video) Kaur B | Black Virus | Guri Sangali | Latest Punjabi Song 2026 ",
+    "url": "https://www.youtube.com/watch?v=oIcKrkEYfbg",
+    "channel": "Kaur B",
+    "thumbnail": "https://i.ytimg.com/vi/oIcKrkEYfbg/hqdefault.jpg",
+    "duration": 158,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "SjUrIDtLoUQ",
+    "title": "Khan Bhaini - Ki Jattiye (Official Video) | New Punjabi Songs 2026",
+    "url": "https://www.youtube.com/watch?v=SjUrIDtLoUQ",
+    "channel": "Khan Bhaini",
+    "thumbnail": "https://i.ytimg.com/vi/SjUrIDtLoUQ/hqdefault.jpg",
+    "duration": 194,
+    "category": "recently_uploaded"
+  },
+  {
     "id": "I-5e_J3LWS8",
     "title": "Cardi B - AH HA [Official Music Video]",
     "url": "https://www.youtube.com/watch?v=I-5e_J3LWS8",
     "channel": "Cardi B",
     "thumbnail": "https://i.ytimg.com/vi/I-5e_J3LWS8/hqdefault.jpg",
     "duration": 180,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "gsZauX8gwxo",
-    "title": "Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=gsZauX8gwxo",
-    "channel": "Olivia Rodrigo and Chappell Roan",
-    "thumbnail": "https://i.ytimg.com/vi/gsZauX8gwxo/hqdefault.jpg",
-    "duration": 293,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "vLLdKVYJUzs",
-    "title": "BigXthaPlug feat. Ava Max - BURN (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=vLLdKVYJUzs",
-    "channel": "BigXthaPlug and Ava Max",
-    "thumbnail": "https://i.ytimg.com/vi/vLLdKVYJUzs/hqdefault.jpg",
-    "duration": 291,
     "category": "recently_uploaded"
   },
   {
@@ -846,48 +783,12 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "48rRv5ISfrg",
-    "title": "Gunna - pop it [Official Video]",
-    "url": "https://www.youtube.com/watch?v=48rRv5ISfrg",
-    "channel": "Gunna",
-    "thumbnail": "https://i.ytimg.com/vi/48rRv5ISfrg/hqdefault.jpg",
-    "duration": 178,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "qki8O42Ct1w",
-    "title": "Nickelback - Rattle The Cage (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=qki8O42Ct1w",
-    "channel": "Nickelback",
-    "thumbnail": "https://i.ytimg.com/vi/qki8O42Ct1w/hqdefault.jpg",
-    "duration": 237,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "Zb3H_W6z9Ak",
-    "title": "Lil Baby, Bally Baby, Fatt Smaxk - Coast 2 Coast",
-    "url": "https://www.youtube.com/watch?v=Zb3H_W6z9Ak",
-    "channel": "Lil Baby Official  and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/Zb3H_W6z9Ak/hqdefault.jpg",
-    "duration": 254,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "LB72Mbd88mU",
-    "title": "Zara Larsson - Blue Moon (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=LB72Mbd88mU",
-    "channel": "Zara Larsson",
-    "thumbnail": "https://i.ytimg.com/vi/LB72Mbd88mU/hqdefault.jpg",
-    "duration": 194,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "xFMdDMELQIY",
-    "title": "DRAKE - PRINCESS",
-    "url": "https://www.youtube.com/watch?v=xFMdDMELQIY",
-    "channel": "Drake",
-    "thumbnail": "https://i.ytimg.com/vi/xFMdDMELQIY/hqdefault.jpg",
-    "duration": 152,
+    "id": "TTRCk8UROwU",
+    "title": "Latto - Okayyy (Official Video) ft. Doja Cat",
+    "url": "https://www.youtube.com/watch?v=TTRCk8UROwU",
+    "channel": "Latto and Doja Cat",
+    "thumbnail": "https://i.ytimg.com/vi/TTRCk8UROwU/hqdefault.jpg",
+    "duration": 239,
     "category": "recently_uploaded"
   },
   {
@@ -900,21 +801,12 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "FeJaG-NOK_8",
-    "title": "John Legend - Daylight",
-    "url": "https://www.youtube.com/watch?v=FeJaG-NOK_8",
-    "channel": "John Legend",
-    "thumbnail": "https://i.ytimg.com/vi/FeJaG-NOK_8/hqdefault.jpg",
-    "duration": 204,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "YzUs8ohSB3w",
-    "title": "Katy Perry - Watch It Burn (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=YzUs8ohSB3w",
-    "channel": "Katy Perry",
-    "thumbnail": "https://i.ytimg.com/vi/YzUs8ohSB3w/hqdefault.jpg",
-    "duration": 232,
+    "id": "ouoUo4lYvyg",
+    "title": "PFG ft. J. Cole - \"Whole House\" (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=ouoUo4lYvyg",
+    "channel": "PFG and J. Cole",
+    "thumbnail": "https://i.ytimg.com/vi/ouoUo4lYvyg/hqdefault.jpg",
+    "duration": 298,
     "category": "recently_uploaded"
   },
   {
@@ -927,6 +819,51 @@
     "category": "recently_uploaded"
   },
   {
+    "id": "FyS5dAywkEo",
+    "title": "LISA - SaWaDiKa (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=FyS5dAywkEo",
+    "channel": "LLOUD Official",
+    "thumbnail": "https://i.ytimg.com/vi/FyS5dAywkEo/hqdefault.jpg",
+    "duration": 187,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "JLucCHwY-2c",
+    "title": "Future, Tyla, FIFA Sound - Game Time (FIFA World Cup 2026™) [Official Music Video]",
+    "url": "https://www.youtube.com/watch?v=JLucCHwY-2c",
+    "channel": "FIFA",
+    "thumbnail": "https://i.ytimg.com/vi/JLucCHwY-2c/hqdefault.jpg",
+    "duration": 225,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "YzUs8ohSB3w",
+    "title": "Katy Perry - Watch It Burn (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=YzUs8ohSB3w",
+    "channel": "Katy Perry",
+    "thumbnail": "https://i.ytimg.com/vi/YzUs8ohSB3w/hqdefault.jpg",
+    "duration": 232,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "S8vRK4WWybY",
+    "title": "Stunna Girl - I'm Really Her (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=S8vRK4WWybY",
+    "channel": "Stunna Girl",
+    "thumbnail": "https://i.ytimg.com/vi/S8vRK4WWybY/hqdefault.jpg",
+    "duration": 204,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "W4-OOLYXDac",
+    "title": "Nkosazana Buhle - Ngiyakhala Mama (Official Music Video) ft Master K New 2026 Song",
+    "url": "https://www.youtube.com/watch?v=W4-OOLYXDac",
+    "channel": "Ndou Advocate",
+    "thumbnail": "https://i.ytimg.com/vi/W4-OOLYXDac/hqdefault.jpg",
+    "duration": 191,
+    "category": "recently_uploaded"
+  },
+  {
     "id": "EHrt-gFgvXo",
     "title": "Madonna & Sabrina Carpenter - Bring Your Love (Official Video)",
     "url": "https://www.youtube.com/watch?v=EHrt-gFgvXo",
@@ -936,120 +873,12 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "pukptR0VePs",
-    "title": "Reba McEntire - Ring Ring (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=pukptR0VePs",
-    "channel": "Reba McEntire",
-    "thumbnail": "https://i.ytimg.com/vi/pukptR0VePs/hqdefault.jpg",
-    "duration": 208,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "Rt9tW3cMLhI",
-    "title": "Olivia Rodrigo - stupid song (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=Rt9tW3cMLhI",
-    "channel": "Olivia Rodrigo",
-    "thumbnail": "https://i.ytimg.com/vi/Rt9tW3cMLhI/hqdefault.jpg",
-    "duration": 217,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "AHuKFYTSrZU",
-    "title": "Future - Radio (Official Music Video)",
-    "url": "https://www.youtube.com/watch?v=AHuKFYTSrZU",
-    "channel": "Future",
-    "thumbnail": "https://i.ytimg.com/vi/AHuKFYTSrZU/hqdefault.jpg",
-    "duration": 163,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "SD4yRDY9mek",
-    "title": "Drake - Janice STFU",
-    "url": "https://www.youtube.com/watch?v=SD4yRDY9mek",
-    "channel": "Drake",
-    "thumbnail": "https://i.ytimg.com/vi/SD4yRDY9mek/hqdefault.jpg",
-    "duration": 237,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "WWIfHemqSEA",
-    "title": "Arijit Singh - Tujhko (from Cocktail 2) Rashmika Mandanna, Shahid Kapoor & Kriti | Love Song 2026",
-    "url": "https://www.youtube.com/watch?v=WWIfHemqSEA",
-    "channel": "iPop Superhits",
-    "thumbnail": "https://i.ytimg.com/vi/WWIfHemqSEA/hqdefault.jpg",
-    "duration": 337,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "bUWzbuEmYUI",
-    "title": "New Song 2026 | Top 10 Hindi romantic Songs | New Song | Audio Jukebox | New Hindi Song",
-    "url": "https://www.youtube.com/watch?v=bUWzbuEmYUI",
-    "channel": "Sagar Bairagi ",
-    "thumbnail": "https://i.ytimg.com/vi/bUWzbuEmYUI/hqdefault.jpg",
-    "duration": 3093,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "Nm4V8EHSG4o",
-    "title": "Long Drive Love Mashup 2026❤️ | Hindi Love Mashup | New Bollywood Romantic Songs 2026 | Melodies ...",
-    "url": "https://www.youtube.com/watch?v=Nm4V8EHSG4o",
-    "channel": "CORAÇÃO MUSICAL",
-    "thumbnail": "https://i.ytimg.com/vi/Nm4V8EHSG4o/hqdefault.jpg",
-    "duration": 3899,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "G6hn1dEl78A",
-    "title": "New Song 2026 | New Hindi Song | Teri Yaadon Mein Sanam | Emran Hashmi | Kriti Sanon| New Song",
-    "url": "https://www.youtube.com/watch?v=G6hn1dEl78A",
-    "channel": "Prakash Jojawar",
-    "thumbnail": "https://i.ytimg.com/vi/G6hn1dEl78A/hqdefault.jpg",
-    "duration": 244,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "qSZOaSGrHpU",
-    "title": "New Song 2026 | Top 10 Hindi romantic songs | Audio jukebox | Letest Hindi Songs | New Song ",
-    "url": "https://www.youtube.com/watch?v=qSZOaSGrHpU",
-    "channel": "Sagar Bairagi ",
-    "thumbnail": "https://i.ytimg.com/vi/qSZOaSGrHpU/hqdefault.jpg",
-    "duration": 3220,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "mCeYN9dx1io",
-    "title": "Trending Songs 2026 | Latest Romantic Song Playlist | Audio jukebox | New Song Hindi | New Love Song",
-    "url": "https://www.youtube.com/watch?v=mCeYN9dx1io",
-    "channel": "Qalaamix Music and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/mCeYN9dx1io/hqdefault.jpg",
-    "duration": 2656,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "rLyrW9G_9AQ",
-    "title": "New Song 2026 | New Hindi Song | Adhura Pyar Tera | Ariyan Khan | Rashmika Mandana | New Song ",
-    "url": "https://www.youtube.com/watch?v=rLyrW9G_9AQ",
-    "channel": "Prakash Jojawar and Rawat Super Star Music",
-    "thumbnail": "https://i.ytimg.com/vi/rLyrW9G_9AQ/hqdefault.jpg",
-    "duration": 299,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "W9mU_iKY0KI",
-    "title": "Thummak Thummak - THE VVAAN | Sidharth Malhotra & Tamannaah | Dev Negi, Akasa, Tanishk B, Shabbir A",
-    "url": "https://www.youtube.com/watch?v=W9mU_iKY0KI",
-    "channel": "Zee Music Company",
-    "thumbnail": "https://i.ytimg.com/vi/W9mU_iKY0KI/hqdefault.jpg",
-    "duration": 152,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "D8DjTaDOw-U",
-    "title": "New Hindi Song 2026 - Arijit Singh,Jubin Nautiyal,Atif Aslam,Neha Kakkar,Armaan Malik,Shreya Ghoshal",
-    "url": "https://www.youtube.com/watch?v=D8DjTaDOw-U",
-    "channel": "🎧Bollywood Latest Song",
-    "thumbnail": "https://i.ytimg.com/vi/D8DjTaDOw-U/hqdefault.jpg",
-    "duration": 2517,
+    "id": "m67Xdu78PrA",
+    "title": "Top Trending Songs 2026❤️ Best Hindi Love Songs | Latest Romantic Songs Playlist | New Song Hindi",
+    "url": "https://www.youtube.com/watch?v=m67Xdu78PrA",
+    "channel": "Grow Music ",
+    "thumbnail": "https://i.ytimg.com/vi/m67Xdu78PrA/hqdefault.jpg",
+    "duration": 7429,
     "category": "recently_uploaded"
   },
   {
@@ -1062,21 +891,147 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "HNdauINck9s",
-    "title": "𝐀𝐋𝐋 𝐓𝐑𝐄𝐍𝐃𝐈𝐍𝐆 𝐇𝐈𝐍𝐃𝐈 𝐒𝐎𝐍𝐆𝐒 𝟐𝟎𝟐𝟔 | 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓 🎀  |COZI",
-    "url": "https://www.youtube.com/watch?v=HNdauINck9s",
-    "channel": "cozi_music",
-    "thumbnail": "https://i.ytimg.com/vi/HNdauINck9s/hqdefault.jpg",
-    "duration": 909,
+    "id": "WWIfHemqSEA",
+    "title": "Arijit Singh - Tujhko (from Cocktail 2) Rashmika Mandanna, Shahid Kapoor & Kriti | Love Song 2026",
+    "url": "https://www.youtube.com/watch?v=WWIfHemqSEA",
+    "channel": "iPop Superhits",
+    "thumbnail": "https://i.ytimg.com/vi/WWIfHemqSEA/hqdefault.jpg",
+    "duration": 337,
     "category": "recently_uploaded"
   },
   {
-    "id": "GlOFnUPDg1A",
-    "title": "New Song 2026 | Top 10 Hindi Romantic songs | Audio jukebox | Letest Hindi songs | New Song ",
-    "url": "https://www.youtube.com/watch?v=GlOFnUPDg1A",
+    "id": "Nm4V8EHSG4o",
+    "title": "Long Drive Love Mashup 2026❤️ | Hindi Love Mashup | New Bollywood Romantic Songs 2026 | Melodies ...",
+    "url": "https://www.youtube.com/watch?v=Nm4V8EHSG4o",
+    "channel": "CORAÇÃO MUSICAL",
+    "thumbnail": "https://i.ytimg.com/vi/Nm4V8EHSG4o/hqdefault.jpg",
+    "duration": 3899,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "bUWzbuEmYUI",
+    "title": "New Song 2026 | Top 10 Hindi romantic Songs | New Song | Audio Jukebox | New Hindi Song",
+    "url": "https://www.youtube.com/watch?v=bUWzbuEmYUI",
     "channel": "Sagar Bairagi ",
-    "thumbnail": "https://i.ytimg.com/vi/GlOFnUPDg1A/hqdefault.jpg",
-    "duration": 2721,
+    "thumbnail": "https://i.ytimg.com/vi/bUWzbuEmYUI/hqdefault.jpg",
+    "duration": 3093,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "G6hn1dEl78A",
+    "title": "New Song 2026 | New Hindi Song | Teri Yaadon Mein Sanam | Emran Hashmi | Kriti Sanon| New Song",
+    "url": "https://www.youtube.com/watch?v=G6hn1dEl78A",
+    "channel": "Prakash Jojawar",
+    "thumbnail": "https://i.ytimg.com/vi/G6hn1dEl78A/hqdefault.jpg",
+    "duration": 244,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "W9mU_iKY0KI",
+    "title": "Thummak Thummak - THE VVAAN | Sidharth Malhotra & Tamannaah | Dev Negi, Akasa, Tanishk B, Shabbir A",
+    "url": "https://www.youtube.com/watch?v=W9mU_iKY0KI",
+    "channel": "Zee Music Company",
+    "thumbnail": "https://i.ytimg.com/vi/W9mU_iKY0KI/hqdefault.jpg",
+    "duration": 152,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "mCeYN9dx1io",
+    "title": "Trending Songs 2026 | Latest Romantic Song Playlist | Audio jukebox | New Song Hindi | New Love Song",
+    "url": "https://www.youtube.com/watch?v=mCeYN9dx1io",
+    "channel": "Qalaamix Music and 2 more",
+    "thumbnail": "https://i.ytimg.com/vi/mCeYN9dx1io/hqdefault.jpg",
+    "duration": 2656,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "qSZOaSGrHpU",
+    "title": "New Song 2026 | Top 10 Hindi romantic songs | Audio jukebox | Letest Hindi Songs | New Song ",
+    "url": "https://www.youtube.com/watch?v=qSZOaSGrHpU",
+    "channel": "Sagar Bairagi ",
+    "thumbnail": "https://i.ytimg.com/vi/qSZOaSGrHpU/hqdefault.jpg",
+    "duration": 3220,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "ncDnUV1ZAyk",
+    "title": "New Song 2026 | New Hindi Song | Teri Aankhon Mein | Yash | Rakul Preet | New Song",
+    "url": "https://www.youtube.com/watch?v=ncDnUV1ZAyk",
+    "channel": "Gaurav Mali",
+    "thumbnail": "https://i.ytimg.com/vi/ncDnUV1ZAyk/hqdefault.jpg",
+    "duration": 279,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "hfaUwK3ZOM8",
+    "title": "Nonstop Bollywood (Summer 2026 Edition) - Priyanshu Nayak || Latest Dance & Love DJ Remix Songs 🕺❤️💥",
+    "url": "https://www.youtube.com/watch?v=hfaUwK3ZOM8",
+    "channel": "Priyanshu Nayak",
+    "thumbnail": "https://i.ytimg.com/vi/hfaUwK3ZOM8/hqdefault.jpg",
+    "duration": 3300,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "7jMzMXpSOjs",
+    "title": "Mashooqa (Video) Shahid, Kriti, Rashmika | Pritam, Mahmood, Amitabh B, Raghav C, Ruaa K | Cocktail 2",
+    "url": "https://www.youtube.com/watch?v=7jMzMXpSOjs",
+    "channel": "Universal Music India and 3 more",
+    "thumbnail": "https://i.ytimg.com/vi/7jMzMXpSOjs/hqdefault.jpg",
+    "duration": 176,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "uX7u9wtFh-M",
+    "title": "New Songs 2026 | New Trending Songs | New Hindi Song | Trending Songs | Latest Romantic Song",
+    "url": "https://www.youtube.com/watch?v=uX7u9wtFh-M",
+    "channel": "Vatsal Bhoya",
+    "thumbnail": "https://i.ytimg.com/vi/uX7u9wtFh-M/hqdefault.jpg",
+    "duration": 1276,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "bqJPbn7l3Lg",
+    "title": "PEDDI: Hellallallo (Song) Hindi | Ram Charan| Buchi Babu| Shruthi Haasan| Janhvi Kapoor| AR Rahman",
+    "url": "https://www.youtube.com/watch?v=bqJPbn7l3Lg",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/bqJPbn7l3Lg/hqdefault.jpg",
+    "duration": 237,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "sPEcx5UBh6M",
+    "title": "Yeh Prem Mol Liya- Title Track | Ayushmann, Sharvari, Sooraj Barjatya | Himesh Reshammiya | Shreya G",
+    "url": "https://www.youtube.com/watch?v=sPEcx5UBh6M",
+    "channel": "Himesh Reshammiya Melodies",
+    "thumbnail": "https://i.ytimg.com/vi/sPEcx5UBh6M/hqdefault.jpg",
+    "duration": 308,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "rLyrW9G_9AQ",
+    "title": "New Song 2026 | New Hindi Song | Adhura Pyar Tera | Ariyan Khan | Rashmika Mandana | New Song ",
+    "url": "https://www.youtube.com/watch?v=rLyrW9G_9AQ",
+    "channel": "Prakash Jojawar and Rawat Super Star Music",
+    "thumbnail": "https://i.ytimg.com/vi/rLyrW9G_9AQ/hqdefault.jpg",
+    "duration": 299,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "Egmnm2JuiLE",
+    "title": "New Song 2026 | New Hindi Song | Tere Ishq Ki Aarzoo | Emran Hashmi | Kriti Sanon| New Song",
+    "url": "https://www.youtube.com/watch?v=Egmnm2JuiLE",
+    "channel": "Prakash Jojawar",
+    "thumbnail": "https://i.ytimg.com/vi/Egmnm2JuiLE/hqdefault.jpg",
+    "duration": 329,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "Qys0N9Rw9mQ",
+    "title": "New Song 2026 | New Hindi Song | Suroor Mera Ho | Emraan Hashmi | Genelia D'Souza | New Song",
+    "url": "https://www.youtube.com/watch?v=Qys0N9Rw9mQ",
+    "channel": "Gaurav Mali",
+    "thumbnail": "https://i.ytimg.com/vi/Qys0N9Rw9mQ/hqdefault.jpg",
+    "duration": 280,
     "category": "recently_uploaded"
   },
   {
@@ -1089,6 +1044,15 @@
     "category": "recently_uploaded"
   },
   {
+    "id": "hPZcZpNn3KY",
+    "title": "Rana Ji 2.0 | Mahira Sharma | Tanishk Bagchi | Ila Arun | Alka Yagnik | Rajesh Roshan | Indeevar",
+    "url": "https://www.youtube.com/watch?v=hPZcZpNn3KY",
+    "channel": "Tips Official and Tanishk Bagchi",
+    "thumbnail": "https://i.ytimg.com/vi/hPZcZpNn3KY/hqdefault.jpg",
+    "duration": 229,
+    "category": "recently_uploaded"
+  },
+  {
     "id": "uCN3lhcFu5g",
     "title": "New Song 2026 | Guzaarish | New Hindi Song | Emran Hashmi | Disha patani | Sagar Bairagi | New Song",
     "url": "https://www.youtube.com/watch?v=uCN3lhcFu5g",
@@ -1098,21 +1062,12 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "q7gdQtg6KCg",
-    "title": "Bollywood Romantic Songs 2026 ♥️ New Hindi Love Songs | Top Playlist Songs 2026 | New Love Song 2026",
-    "url": "https://www.youtube.com/watch?v=q7gdQtg6KCg",
-    "channel": "Sony Wave",
-    "thumbnail": "https://i.ytimg.com/vi/q7gdQtg6KCg/hqdefault.jpg",
-    "duration": 3434,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "l1yzAPj1AlQ",
-    "title": "New Top 10 Bollywood Romantic Songs 2026 | New Hindi Jukebox | Sagar Bairagi | Hindi Romantic Mashup",
-    "url": "https://www.youtube.com/watch?v=l1yzAPj1AlQ",
-    "channel": "Sagar Bairagi ",
-    "thumbnail": "https://i.ytimg.com/vi/l1yzAPj1AlQ/hqdefault.jpg",
-    "duration": 2497,
+    "id": "ApNouygjN34",
+    "title": "New Songs 2026 | Top Trending Songs | New Hindi Song | Trending Songs | Latest Romantic Song",
+    "url": "https://www.youtube.com/watch?v=ApNouygjN34",
+    "channel": "Vatsal Bhoya",
+    "thumbnail": "https://i.ytimg.com/vi/ApNouygjN34/hqdefault.jpg",
+    "duration": 1413,
     "category": "recently_uploaded"
   },
   {
@@ -1125,24 +1080,6 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "ovoIHYw8L4c",
-    "title": "New Song 2026 | New Hindi Song | Kabhi Aankhon Se | Shahrukh Khan | Tamannaah Bhatia | New Song",
-    "url": "https://www.youtube.com/watch?v=ovoIHYw8L4c",
-    "channel": "Gaurav Mali",
-    "thumbnail": "https://i.ytimg.com/vi/ovoIHYw8L4c/hqdefault.jpg",
-    "duration": 285,
-    "category": "recently_uploaded"
-  },
-  {
-    "id": "7EUTa7GjX7o",
-    "title": "New Song 2026 | New Hindi Song | Dil Ki  Pukar | Tiger Shroff | Sonam Bajwa | New Song ",
-    "url": "https://www.youtube.com/watch?v=7EUTa7GjX7o",
-    "channel": "Prakash Jojawar",
-    "thumbnail": "https://i.ytimg.com/vi/7EUTa7GjX7o/hqdefault.jpg",
-    "duration": 282,
-    "category": "recently_uploaded"
-  },
-  {
     "id": "OdpCnQ7U1Qs",
     "title": "Mashooqa (Full HD Video) Kriti Sanon, Shahid Kapoor, Rashmika Mandanna | Cocktail 2 Songs | Pritam",
     "url": "https://www.youtube.com/watch?v=OdpCnQ7U1Qs",
@@ -1152,30 +1089,48 @@
     "category": "recently_uploaded"
   },
   {
-    "id": "hPZcZpNn3KY",
-    "title": "Rana Ji 2.0 | Mahira Sharma | Tanishk Bagchi | Ila Arun | Alka Yagnik | Rajesh Roshan | Indeevar",
-    "url": "https://www.youtube.com/watch?v=hPZcZpNn3KY",
-    "channel": "Tips Official and Tanishk Bagchi",
-    "thumbnail": "https://i.ytimg.com/vi/hPZcZpNn3KY/hqdefault.jpg",
-    "duration": 229,
+    "id": "HNdauINck9s",
+    "title": "𝐀𝐋𝐋 𝐓𝐑𝐄𝐍𝐃𝐈𝐍𝐆 𝐇𝐈𝐍𝐃𝐈 𝐒𝐎𝐍𝐆𝐒 𝟐𝟎𝟐𝟔 | 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓 🎀  |COZI",
+    "url": "https://www.youtube.com/watch?v=HNdauINck9s",
+    "channel": "cozi_music",
+    "thumbnail": "https://i.ytimg.com/vi/HNdauINck9s/hqdefault.jpg",
+    "duration": 909,
     "category": "recently_uploaded"
   },
   {
-    "id": "5QkJQrEh_3k",
-    "title": "New Song 2026 | New Hindi Song | Dhadkan Suno Na | Emraan Hashmi | Genelia D'Souza | New Song",
-    "url": "https://www.youtube.com/watch?v=5QkJQrEh_3k",
-    "channel": "Sagar Bairagi  and Sagar Bairagi",
-    "thumbnail": "https://i.ytimg.com/vi/5QkJQrEh_3k/hqdefault.jpg",
-    "duration": 304,
+    "id": "n6k6KUf3BOw",
+    "title": "New Song 2026 | New Hindi Song | Aye Zindagi | Emraan Hashmi | Genelia D'Souza | New Song",
+    "url": "https://www.youtube.com/watch?v=n6k6KUf3BOw",
+    "channel": "Sagar Bairagi  and EchoVerse Music ",
+    "thumbnail": "https://i.ytimg.com/vi/n6k6KUf3BOw/hqdefault.jpg",
+    "duration": 363,
     "category": "recently_uploaded"
   },
   {
-    "id": "bWCddDYGL_c",
-    "title": "New Song 2026 | New Hindi Song | Kaisi Ye Bekhudi Hai Sanam | Emran Hashmi | Kriti Sanon| New Song",
-    "url": "https://www.youtube.com/watch?v=bWCddDYGL_c",
-    "channel": "Prakash Jojawar and Rawat Super Star Music",
-    "thumbnail": "https://i.ytimg.com/vi/bWCddDYGL_c/hqdefault.jpg",
-    "duration": 333,
+    "id": "xCHsyht5eac",
+    "title": "Tujhko (Video) Shahid, Rashmika, Kriti | Pritam, Arijit Singh, Sunidhi C, Amitabh B | Cocktail 2",
+    "url": "https://www.youtube.com/watch?v=xCHsyht5eac",
+    "channel": "Universal Music India and 3 more",
+    "thumbnail": "https://i.ytimg.com/vi/xCHsyht5eac/hqdefault.jpg",
+    "duration": 216,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "3CDOd4GdcUQ",
+    "title": "Ucha Lamba Kad Forever | Welcome to the Jungle | Akshay Kumar | Disha Patani | Vikram Montrose",
+    "url": "https://www.youtube.com/watch?v=3CDOd4GdcUQ",
+    "channel": "Times Music and 2 more",
+    "thumbnail": "https://i.ytimg.com/vi/3CDOd4GdcUQ/hqdefault.jpg",
+    "duration": 227,
+    "category": "recently_uploaded"
+  },
+  {
+    "id": "1IKsJiMLGu0",
+    "title": "Samjho Na - THE VVAAN | Sidharth Malhotra & Tamannaah | Jubin Nautiyal, Tanishk B, Suvarna, Manoj M",
+    "url": "https://www.youtube.com/watch?v=1IKsJiMLGu0",
+    "channel": "Zee Music Company",
+    "thumbnail": "https://i.ytimg.com/vi/1IKsJiMLGu0/hqdefault.jpg",
+    "duration": 264,
     "category": "recently_uploaded"
   }
 ]
