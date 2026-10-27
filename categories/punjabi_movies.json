@@ -27,60 +27,6 @@
     "category": "punjabi_movies"
   },
   {
-    "id": "A7uwqEXipU8",
-    "title": "Carry On Jatta (Full Movie) | Gippy Grewal | Binnu Dhillon | Gurpreet Ghuggi | Punjabi Movie 2025",
-    "url": "https://www.youtube.com/watch?v=A7uwqEXipU8",
-    "channel": "Speed Records Movies",
-    "thumbnail": "https://i.ytimg.com/vi/A7uwqEXipU8/hqdefault.jpg",
-    "duration": 7288,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "jmC1K6PvE6k",
-    "title": "BADNAAM - Full Punjabi Movie 2025 | Jai Randhawa, Jasmin Bhasin, Nikki Tamboli | Action Movie",
-    "url": "https://www.youtube.com/watch?v=jmC1K6PvE6k",
-    "channel": "Nova Movies Hindi",
-    "thumbnail": "https://i.ytimg.com/vi/jmC1K6PvE6k/hqdefault.jpg",
-    "duration": 9899,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "52TD-4BP59s",
-    "title": "MEDAL (Full Movie) - Jayy Randhawa - Baani Sandhu - Latest Punjabi Movies - Geet MP3",
-    "url": "https://www.youtube.com/watch?v=52TD-4BP59s",
-    "channel": "Geet MP3 Movies",
-    "thumbnail": "https://i.ytimg.com/vi/52TD-4BP59s/hqdefault.jpg",
-    "duration": 8374,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "hjWt9ZuBhRQ",
-    "title": "Shooter Full Movie | Jayy Randhawa - Vadda Grewal - Punjabi Movie - Geet MP3",
-    "url": "https://www.youtube.com/watch?v=hjWt9ZuBhRQ",
-    "channel": "Geet MP3 Movies",
-    "thumbnail": "https://i.ytimg.com/vi/hjWt9ZuBhRQ/hqdefault.jpg",
-    "duration": 8617,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "w1NKZJdAvGw",
-    "title": "PHAPHEY KUTTNIYAN  (Full Movie) | Neeru Bajwa | Tania | New Punjabi Movie 2026 | Lokdhun Punjabi",
-    "url": "https://www.youtube.com/watch?v=w1NKZJdAvGw",
-    "channel": "Lokdhun Punjabi",
-    "thumbnail": "https://i.ytimg.com/vi/w1NKZJdAvGw/hqdefault.jpg",
-    "duration": 7191,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "7ApPaZQxavc",
-    "title": "Main Viyah Nahi Karona Tere Naal - Punjabi Full Movie - Sonam Bajwa, Gurnam Bhullar, Bhupinder B",
-    "url": "https://www.youtube.com/watch?v=7ApPaZQxavc",
-    "channel": "Zee Movies Punjabi",
-    "thumbnail": "https://i.ytimg.com/vi/7ApPaZQxavc/hqdefault.jpg",
-    "duration": 6660,
-    "category": "punjabi_movies"
-  },
-  {
     "id": "4wVuxRe0hZ0",
     "title": "Mera Dhol Sharabi | Full Punjabi Movie 2026 | Ammy Virk & Tania | Punjabi Movie",
     "url": "https://www.youtube.com/watch?v=4wVuxRe0hZ0",
@@ -99,6 +45,69 @@
     "category": "punjabi_movies"
   },
   {
+    "id": "jmC1K6PvE6k",
+    "title": "BADNAAM - Full Punjabi Movie 2025 | Jai Randhawa, Jasmin Bhasin, Nikki Tamboli | Action Movie",
+    "url": "https://www.youtube.com/watch?v=jmC1K6PvE6k",
+    "channel": "Nova Movies Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/jmC1K6PvE6k/hqdefault.jpg",
+    "duration": 9899,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "hjWt9ZuBhRQ",
+    "title": "Shooter Full Movie | Jayy Randhawa - Vadda Grewal - Punjabi Movie - Geet MP3",
+    "url": "https://www.youtube.com/watch?v=hjWt9ZuBhRQ",
+    "channel": "Geet MP3 Movies",
+    "thumbnail": "https://i.ytimg.com/vi/hjWt9ZuBhRQ/hqdefault.jpg",
+    "duration": 8617,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "7ApPaZQxavc",
+    "title": "Main Viyah Nahi Karona Tere Naal - Punjabi Full Movie - Sonam Bajwa, Gurnam Bhullar, Bhupinder B",
+    "url": "https://www.youtube.com/watch?v=7ApPaZQxavc",
+    "channel": "Zee Movies Punjabi",
+    "thumbnail": "https://i.ytimg.com/vi/7ApPaZQxavc/hqdefault.jpg",
+    "duration": 6660,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "w1NKZJdAvGw",
+    "title": "PHAPHEY KUTTNIYAN  (Full Movie) | Neeru Bajwa | Tania | New Punjabi Movie 2026 | Lokdhun Punjabi",
+    "url": "https://www.youtube.com/watch?v=w1NKZJdAvGw",
+    "channel": "Lokdhun Punjabi",
+    "thumbnail": "https://i.ytimg.com/vi/w1NKZJdAvGw/hqdefault.jpg",
+    "duration": 7191,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "A2vcDRAdf5I",
+    "title": "Angrej Full Movie (HD) | Amrinder Gill | Aditi Sharma | Sargun Mehta|Superhit Punjabi Movies",
+    "url": "https://www.youtube.com/watch?v=A2vcDRAdf5I",
+    "channel": "Rhythm Boyz",
+    "thumbnail": "https://i.ytimg.com/vi/A2vcDRAdf5I/hqdefault.jpg",
+    "duration": 7910,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "5E8YHloiu4g",
+    "title": "Sohreyan Da Pind Aa Gaya - Punjabi Full Movie - Gurnam Bhullar, Sargun Mehta, Jasmin Bajwa",
+    "url": "https://www.youtube.com/watch?v=5E8YHloiu4g",
+    "channel": "Zee Movies Punjabi",
+    "thumbnail": "https://i.ytimg.com/vi/5E8YHloiu4g/hqdefault.jpg",
+    "duration": 7511,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "A7uwqEXipU8",
+    "title": "Carry On Jatta (Full Movie) | Gippy Grewal | Binnu Dhillon | Gurpreet Ghuggi | Punjabi Movie 2025",
+    "url": "https://www.youtube.com/watch?v=A7uwqEXipU8",
+    "channel": "Speed Records Movies",
+    "thumbnail": "https://i.ytimg.com/vi/A7uwqEXipU8/hqdefault.jpg",
+    "duration": 7288,
+    "category": "punjabi_movies"
+  },
+  {
     "id": "nL-WIXPT6Ak",
     "title": "Tere Mera Hubby Punjabi Movie | Gippy Grewal, Sargun Mehta, Nimrat Khaira | Punjabi Comedy Movie",
     "url": "https://www.youtube.com/watch?v=nL-WIXPT6Ak",
@@ -108,21 +117,21 @@
     "category": "punjabi_movies"
   },
   {
-    "id": "HqkjSs1-bQg",
-    "title": "Vigdi Aulaad (Full Movie) | Latest punjabi Movie 2026 | Jaswinder Bhalla | Gippy Grewal |#yt",
-    "url": "https://www.youtube.com/watch?v=HqkjSs1-bQg",
-    "channel": "Movie Magic",
-    "thumbnail": "https://i.ytimg.com/vi/HqkjSs1-bQg/hqdefault.jpg",
-    "duration": 7323,
+    "id": "YiyoVBTRdpA",
+    "title": "Vekh Baraatan Challiyan | Full Movie | Binnu Dhillon, Kavita Kaushik | Punjabi Comedy Movie 2025",
+    "url": "https://www.youtube.com/watch?v=YiyoVBTRdpA",
+    "channel": "Haryana On Track",
+    "thumbnail": "https://i.ytimg.com/vi/YiyoVBTRdpA/hqdefault.jpg",
+    "duration": 7509,
     "category": "punjabi_movies"
   },
   {
-    "id": "ICRS9V9N-bI",
-    "title": "Jatt And Juliet (Full Movie) | Diljit Dosanjh | Neeru Bajwa | Jaswinder Bhalla | Punjabi Full Movie",
-    "url": "https://www.youtube.com/watch?v=ICRS9V9N-bI",
-    "channel": "Speed Records Movies",
-    "thumbnail": "https://i.ytimg.com/vi/ICRS9V9N-bI/hqdefault.jpg",
-    "duration": 7449,
+    "id": "_V2_OTS4dkk",
+    "title": "Yaar Anmulle Returns - Punjabi Full Movie - Harish Varma, Navpreet Banga, Prabh Gill, Yuvraj Hans",
+    "url": "https://www.youtube.com/watch?v=_V2_OTS4dkk",
+    "channel": "Zee Movies Punjabi",
+    "thumbnail": "https://i.ytimg.com/vi/_V2_OTS4dkk/hqdefault.jpg",
+    "duration": 8112,
     "category": "punjabi_movies"
   },
   {
@@ -144,30 +153,30 @@
     "category": "punjabi_movies"
   },
   {
-    "id": "G-xtA1jnV7k",
-    "title": "Zaildar Saab (2026) | Ammy Virk & Tania | New Punjabi Movie 2026",
-    "url": "https://www.youtube.com/watch?v=G-xtA1jnV7k",
-    "channel": "Pollywood Dhamaka",
-    "thumbnail": "https://i.ytimg.com/vi/G-xtA1jnV7k/hqdefault.jpg",
-    "duration": 7211,
+    "id": "ICRS9V9N-bI",
+    "title": "Jatt And Juliet (Full Movie) | Diljit Dosanjh | Neeru Bajwa | Jaswinder Bhalla | Punjabi Full Movie",
+    "url": "https://www.youtube.com/watch?v=ICRS9V9N-bI",
+    "channel": "Speed Records Movies",
+    "thumbnail": "https://i.ytimg.com/vi/ICRS9V9N-bI/hqdefault.jpg",
+    "duration": 7449,
     "category": "punjabi_movies"
   },
   {
-    "id": "_V2_OTS4dkk",
-    "title": "Yaar Anmulle Returns - Punjabi Full Movie - Harish Varma, Navpreet Banga, Prabh Gill, Yuvraj Hans",
-    "url": "https://www.youtube.com/watch?v=_V2_OTS4dkk",
-    "channel": "Zee Movies Punjabi",
-    "thumbnail": "https://i.ytimg.com/vi/_V2_OTS4dkk/hqdefault.jpg",
-    "duration": 8112,
+    "id": "-MiUDJS9YZE",
+    "title": "Carry On Jatta Return (Full Movie) | Gippy Grewal | Binnu Dhillon | New Punjabi Movies 2026",
+    "url": "https://www.youtube.com/watch?v=-MiUDJS9YZE",
+    "channel": "Speed Records Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/-MiUDJS9YZE/hqdefault.jpg",
+    "duration": 7323,
     "category": "punjabi_movies"
   },
   {
-    "id": "2WIsLWYDerQ",
-    "title": "🔥 Sippiyan Sitaare (2026) Punjabi Movie | Full Movie HD | Latest Punjabi Film 🎬🍿",
-    "url": "https://www.youtube.com/watch?v=2WIsLWYDerQ",
-    "channel": "Comedy MM",
-    "thumbnail": "https://i.ytimg.com/vi/2WIsLWYDerQ/hqdefault.jpg",
-    "duration": 5971,
+    "id": "Gw5_UTgjVgY",
+    "title": "Nakhrewaalii Official Trailer|Ansh, Pragati|Rahul S|Jyoti D, Aanand L Rai, Himanshu S|30 Oct Release",
+    "url": "https://www.youtube.com/watch?v=Gw5_UTgjVgY",
+    "channel": "JioStudios and Colour Yellow",
+    "thumbnail": "https://i.ytimg.com/vi/Gw5_UTgjVgY/hqdefault.jpg",
+    "duration": 141,
     "category": "punjabi_movies"
   },
   {
@@ -180,42 +189,6 @@
     "category": "punjabi_movies"
   },
   {
-    "id": "C-Gg9-SA-M4",
-    "title": "THAAPI (Trailer) | Neeru Bajwa | Sunny Singh | Jagdeep Warring | Amanpreet Singh | In Cinemas 16 Oct",
-    "url": "https://www.youtube.com/watch?v=C-Gg9-SA-M4",
-    "channel": "Smarters Films",
-    "thumbnail": "https://i.ytimg.com/vi/C-Gg9-SA-M4/hqdefault.jpg",
-    "duration": 176,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "_w_00mUOz04",
-    "title": "Eh Din Roz Ni Aune- Official Trailer | Harbhajan Mann, Avkash Mann | In Cinemas 9th October 2026",
-    "url": "https://www.youtube.com/watch?v=_w_00mUOz04",
-    "channel": "Harbhajan Mann",
-    "thumbnail": "https://i.ytimg.com/vi/_w_00mUOz04/hqdefault.jpg",
-    "duration": 143,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "Jv764Gp30lI",
-    "title": "DAUDAAK (Trailer) Hardeep Grewal | In Cinemas 23rd Oct",
-    "url": "https://www.youtube.com/watch?v=Jv764Gp30lI",
-    "channel": "Hardeep Grewal Music",
-    "thumbnail": "https://i.ytimg.com/vi/Jv764Gp30lI/hqdefault.jpg",
-    "duration": 121,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "9PZN30QAmL8",
-    "title": "TUTT PAINI ENGLISH NE (Official Trailer) Simi Chahal | Satvinder Singh | Mandy Takhar",
-    "url": "https://www.youtube.com/watch?v=9PZN30QAmL8",
-    "channel": "Eiffle Studioz and Sound Box",
-    "thumbnail": "https://i.ytimg.com/vi/9PZN30QAmL8/hqdefault.jpg",
-    "duration": 177,
-    "category": "punjabi_movies"
-  },
-  {
     "id": "qPgHHEQsyks",
     "title": "PATAKKA GUDDIYAN | Official Trailer | Hashneen Chauhan | In Cinemas 30 October",
     "url": "https://www.youtube.com/watch?v=qPgHHEQsyks",
@@ -225,93 +198,111 @@
     "category": "punjabi_movies"
   },
   {
-    "id": "SroUAfGEgf8",
-    "title": "PATAKKA GUDDIYAN | Official First Look | Hashneen Chauhan | Punjabi Movie 2026 | 30 October",
-    "url": "https://www.youtube.com/watch?v=SroUAfGEgf8",
-    "channel": "Ishanya Studios",
-    "thumbnail": "https://i.ytimg.com/vi/SroUAfGEgf8/hqdefault.jpg",
-    "duration": 53,
+    "id": "hSPEHPkrk48",
+    "title": "YAARAN DE YAAR - Movie Trailer - Preet Goldsmith - Hobby Dhaliwal - Ashish Duggal - Gurpreet Bhangu",
+    "url": "https://www.youtube.com/watch?v=hSPEHPkrk48",
+    "channel": "Starway Productions",
+    "thumbnail": "https://i.ytimg.com/vi/hSPEHPkrk48/hqdefault.jpg",
+    "duration": 129,
     "category": "punjabi_movies"
   },
   {
-    "id": "EZ7sI5qnxO8",
-    "title": "Chal Mera Putt 4 (Trailer) | Amrinder Gill | Simi Chahal | Releasing 1st August 2025",
-    "url": "https://www.youtube.com/watch?v=EZ7sI5qnxO8",
-    "channel": "Rhythm Boyz",
-    "thumbnail": "https://i.ytimg.com/vi/EZ7sI5qnxO8/hqdefault.jpg",
-    "duration": 193,
+    "id": "0i-12PgQh9Q",
+    "title": "BEPARWAH - Trailer | Ahaan Panday | Sharvari | Bobby Deol | Aaishvary | Ali Abbas Zafar | In 2027",
+    "url": "https://www.youtube.com/watch?v=0i-12PgQh9Q",
+    "channel": "Uncut Cinema",
+    "thumbnail": "https://i.ytimg.com/vi/0i-12PgQh9Q/hqdefault.jpg",
+    "duration": 115,
     "category": "punjabi_movies"
   },
   {
-    "id": "V5LAS0FdEhc",
-    "title": "DASTAAR (OFFICIAL TRAILER) : TARSEM JASSAR | YOGRAJ SINGH | Rel 17th July #latestmovies",
-    "url": "https://www.youtube.com/watch?v=V5LAS0FdEhc",
-    "channel": "White Hill Music",
-    "thumbnail": "https://i.ytimg.com/vi/V5LAS0FdEhc/hqdefault.jpg",
-    "duration": 178,
+    "id": "UTgecrJoTZc",
+    "title": "SURYAA: Ant Se Aarambh Tak - Official Teaser | Sunny Deol, Ravi Kishan | M Padmakumar| 20th Nov 2026",
+    "url": "https://www.youtube.com/watch?v=UTgecrJoTZc",
+    "channel": "Zee Music Company and 2 more",
+    "thumbnail": "https://i.ytimg.com/vi/UTgecrJoTZc/hqdefault.jpg",
+    "duration": 78,
     "category": "punjabi_movies"
   },
   {
-    "id": "4lLzT7BDG6A",
-    "title": "THAAPI (Teaser) | Neeru Bajwa | Sunny Singh | Jagdeep Warring | Amanpreet Singh | In Cinemas 16 Oct",
-    "url": "https://www.youtube.com/watch?v=4lLzT7BDG6A",
+    "id": "7D130pKqp6o",
+    "title": "KHADAPE SAPP | Official Trailer | Punjabi Feature Film I EXCLUSIVELY STREAMING ON CHAUPAL APP NOV 16",
+    "url": "https://www.youtube.com/watch?v=7D130pKqp6o",
+    "channel": "True Flash ",
+    "thumbnail": "https://i.ytimg.com/vi/7D130pKqp6o/hqdefault.jpg",
+    "duration": 116,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "ykTVr6MjdSc",
+    "title": "Jihne Mera Ghar Patteya (Trailer) Karamjit Anmol, Ihana Dhillon, Nisha B | Rel. 15th Oct on Chaupal",
+    "url": "https://www.youtube.com/watch?v=ykTVr6MjdSc",
+    "channel": "arsh_sandhu",
+    "thumbnail": "https://i.ytimg.com/vi/ykTVr6MjdSc/hqdefault.jpg",
+    "duration": 171,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "p362aN589F0",
+    "title": "BEEJ - New Punjabi Film Trailer",
+    "url": "https://www.youtube.com/watch?v=p362aN589F0",
+    "channel": "Kalakaar Entertainment and Surinder Singh Films",
+    "thumbnail": "https://i.ytimg.com/vi/p362aN589F0/hqdefault.jpg",
+    "duration": 127,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "Q8bzONgKvGM",
+    "title": "Saara Pind Vailliyaan Daa (Official Trailer) | Latest Punjabi Movie | KableOne Original | 10th SEP",
+    "url": "https://www.youtube.com/watch?v=Q8bzONgKvGM",
+    "channel": "KableOne",
+    "thumbnail": "https://i.ytimg.com/vi/Q8bzONgKvGM/hqdefault.jpg",
+    "duration": 188,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "C-Gg9-SA-M4",
+    "title": "THAAPI (Trailer) | Neeru Bajwa | Sunny Singh | Jagdeep Warring | Amanpreet Singh | In Cinemas 16 Oct",
+    "url": "https://www.youtube.com/watch?v=C-Gg9-SA-M4",
     "channel": "Smarters Films",
-    "thumbnail": "https://i.ytimg.com/vi/4lLzT7BDG6A/hqdefault.jpg",
-    "duration": 88,
+    "thumbnail": "https://i.ytimg.com/vi/C-Gg9-SA-M4/hqdefault.jpg",
+    "duration": 176,
     "category": "punjabi_movies"
   },
   {
-    "id": "_dWoYM_OIQE",
-    "title": "Yaar Mera Titliaan Warga (Official Trailer) : Gippy Grewal | Tanu Grewal | Punjabi Movie 2022",
-    "url": "https://www.youtube.com/watch?v=_dWoYM_OIQE",
-    "channel": "Gem Tunes Punjabi",
-    "thumbnail": "https://i.ytimg.com/vi/_dWoYM_OIQE/hqdefault.jpg",
-    "duration": 199,
+    "id": "sSVxFVIjSN4",
+    "title": "DOOSRA - Official Trailer | 23rd OCT In Cinemas",
+    "url": "https://www.youtube.com/watch?v=sSVxFVIjSN4",
+    "channel": "Doosra The Film and PVRINOX Pictures",
+    "thumbnail": "https://i.ytimg.com/vi/sSVxFVIjSN4/hqdefault.jpg",
+    "duration": 132,
     "category": "punjabi_movies"
   },
   {
-    "id": "Vi1-bmCN5OA",
-    "title": "Chakkven | Official Teaser | Kartar Cheema | Vishal Brar | New Punjabi Movie | In Cinemas 20th NOV.",
-    "url": "https://www.youtube.com/watch?v=Vi1-bmCN5OA",
-    "channel": "SagaHits",
-    "thumbnail": "https://i.ytimg.com/vi/Vi1-bmCN5OA/hqdefault.jpg",
-    "duration": 84,
+    "id": "Fl_VRor8MJc",
+    "title": "Kanakvanni (Official Trailer) Balraj Sagar | Harinder Veer | #newpunjabimovie",
+    "url": "https://www.youtube.com/watch?v=Fl_VRor8MJc",
+    "channel": "LINK ROAD ENTERTAINMENT",
+    "thumbnail": "https://i.ytimg.com/vi/Fl_VRor8MJc/hqdefault.jpg",
+    "duration": 142,
     "category": "punjabi_movies"
   },
   {
-    "id": "UZtUf7Fqw7A",
-    "title": "Lutt Mubarak (Official Trailer) | Harish Verma, Kanika Mann | In Cinemas 25 Sept 2026",
-    "url": "https://www.youtube.com/watch?v=UZtUf7Fqw7A",
-    "channel": "R Records",
-    "thumbnail": "https://i.ytimg.com/vi/UZtUf7Fqw7A/hqdefault.jpg",
-    "duration": 174,
+    "id": "ewbaODuDd0Q",
+    "title": "Meri Girlfriend Da Viyaah | Official Trailer | New Punjabi Movie 2026 | Smeep Kang, Kairav Kang",
+    "url": "https://www.youtube.com/watch?v=ewbaODuDd0Q",
+    "channel": "Omjee Punjabi and Smeep Kang",
+    "thumbnail": "https://i.ytimg.com/vi/ewbaODuDd0Q/hqdefault.jpg",
+    "duration": 194,
     "category": "punjabi_movies"
   },
   {
-    "id": "Jqi4ahkLWjc",
-    "title": "DAUDAAK (Teaser) Hardeep Grewal | In Cinemas 23rd Oct",
-    "url": "https://www.youtube.com/watch?v=Jqi4ahkLWjc",
-    "channel": "Dank Studios",
-    "thumbnail": "https://i.ytimg.com/vi/Jqi4ahkLWjc/hqdefault.jpg",
-    "duration": 68,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "R--_9oL64_o",
-    "title": "Vailly Chotti Da (Official Trailer) | New Punjabi Movie | Lankesh Kamal, Victor John | 30 October",
-    "url": "https://www.youtube.com/watch?v=R--_9oL64_o",
-    "channel": "Omjee Punjabi",
-    "thumbnail": "https://i.ytimg.com/vi/R--_9oL64_o/hqdefault.jpg",
-    "duration": 163,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "fODHnx6aNRA",
-    "title": "New Punjabi Comedy Film 2026 | Karamjit Anmol | Non-Stop Laughter | Punjabi Comedy Movie",
-    "url": "https://www.youtube.com/watch?v=fODHnx6aNRA",
-    "channel": "Orion Music",
-    "thumbnail": "https://i.ytimg.com/vi/fODHnx6aNRA/hqdefault.jpg",
-    "duration": 8880,
+    "id": "f6ga0g_-OVk",
+    "title": "Akka | Official Trailer | Keerthy Suresh, Radhika Apte | Netflix India",
+    "url": "https://www.youtube.com/watch?v=f6ga0g_-OVk",
+    "channel": "Netflix India",
+    "thumbnail": "https://i.ytimg.com/vi/f6ga0g_-OVk/hqdefault.jpg",
+    "duration": 144,
     "category": "punjabi_movies"
   },
   {
@@ -324,66 +315,21 @@
     "category": "punjabi_movies"
   },
   {
-    "id": "2r4PbHTEIw0",
-    "title": "MADHANIYAN | Full Movie | Dev Kharoud | Neeru Bajwa | Nav Bajwa | Gurpreet Ghuggi | New Punjabi Film",
-    "url": "https://www.youtube.com/watch?v=2r4PbHTEIw0",
-    "channel": "Yellow Music",
-    "thumbnail": "https://i.ytimg.com/vi/2r4PbHTEIw0/hqdefault.jpg",
-    "duration": 8642,
+    "id": "D4spBq-4nzM",
+    "title": "Ghar Da Kalesh (2026) | New Punjabi Movie | Amrinder Gill & Sargun Mehta | Punjabi Movie 2026",
+    "url": "https://www.youtube.com/watch?v=D4spBq-4nzM",
+    "channel": "Punjabi Movie House",
+    "thumbnail": "https://i.ytimg.com/vi/D4spBq-4nzM/hqdefault.jpg",
+    "duration": 5692,
     "category": "punjabi_movies"
   },
   {
-    "id": "kwqr5xWlcJo",
-    "title": "Dev Kharoud | Gandhi 3 (Full Movie 2026) | Aditi Aarya | Punjabi Action Crime Drama",
-    "url": "https://www.youtube.com/watch?v=kwqr5xWlcJo",
-    "channel": "Yellow Digital",
-    "thumbnail": "https://i.ytimg.com/vi/kwqr5xWlcJo/hqdefault.jpg",
-    "duration": 7987,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "ghdEFwzF2qM",
-    "title": "Maa Jaye | Full Punjabi Movie | Jimmy Sheirgill, Manav Vij | A Story of Brotherhood 🏆 Award Winning",
-    "url": "https://www.youtube.com/watch?v=ghdEFwzF2qM",
-    "channel": "Amar Studios",
-    "thumbnail": "https://i.ytimg.com/vi/ghdEFwzF2qM/hqdefault.jpg",
-    "duration": 6373,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "8KhBnHeLBS8",
-    "title": "Nikka Zaildar 4 | Official Movie | New Punjabi Movie 2026 | Ammy Virk | Sonam Bajwa | Full HD ",
-    "url": "https://www.youtube.com/watch?v=8KhBnHeLBS8",
-    "channel": "Movieomaxo ",
-    "thumbnail": "https://i.ytimg.com/vi/8KhBnHeLBS8/hqdefault.jpg",
-    "duration": 8264,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "_874rdbsE9c",
-    "title": "GANDHI 3 | Full Punjabi Movie | Dev Kharoud | Yarran Da Yaar| Blockbuster Punjabi Action Crime Drama",
-    "url": "https://www.youtube.com/watch?v=_874rdbsE9c",
-    "channel": "Ohri Productions",
-    "thumbnail": "https://i.ytimg.com/vi/_874rdbsE9c/hqdefault.jpg",
-    "duration": 8341,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "Dj5524GaNiQ",
-    "title": "Full Punjabi Movie 2026 | Rajdhani Punjab | Full Hd Movie| Latest Punjabi Film | Yograj singh",
-    "url": "https://www.youtube.com/watch?v=Dj5524GaNiQ",
-    "channel": "Filmyfarmer",
-    "thumbnail": "https://i.ytimg.com/vi/Dj5524GaNiQ/hqdefault.jpg",
-    "duration": 5291,
-    "category": "punjabi_movies"
-  },
-  {
-    "id": "tepvBetSdKg",
-    "title": "Dev Kharoud Latest Punjabi Full Movie 2026 | Gandhi 3: Yarran Da Yaar | Aditi Aarya |Action Thriller",
-    "url": "https://www.youtube.com/watch?v=tepvBetSdKg",
+    "id": "fODHnx6aNRA",
+    "title": "New Punjabi Comedy Film 2026 | Karamjit Anmol | Non-Stop Laughter | Punjabi Comedy Movie",
+    "url": "https://www.youtube.com/watch?v=fODHnx6aNRA",
     "channel": "Orion Music",
-    "thumbnail": "https://i.ytimg.com/vi/tepvBetSdKg/hqdefault.jpg",
-    "duration": 7607,
+    "thumbnail": "https://i.ytimg.com/vi/fODHnx6aNRA/hqdefault.jpg",
+    "duration": 8880,
     "category": "punjabi_movies"
   },
   {
@@ -396,12 +342,57 @@
     "category": "punjabi_movies"
   },
   {
-    "id": "D4spBq-4nzM",
-    "title": "Ghar Da Kalesh (2026) | New Punjabi Movie | Amrinder Gill & Sargun Mehta | Punjabi Movie 2026",
-    "url": "https://www.youtube.com/watch?v=D4spBq-4nzM",
+    "id": "eYcCIBoIsPg",
+    "title": "Punjabi Comedy Movie 2026 | Jaswinder Bhalla | Binnu Dhillon | BN Sharma",
+    "url": "https://www.youtube.com/watch?v=eYcCIBoIsPg",
+    "channel": "TMP Studios",
+    "thumbnail": "https://i.ytimg.com/vi/eYcCIBoIsPg/hqdefault.jpg",
+    "duration": 7885,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "8KhBnHeLBS8",
+    "title": "Nikka Zaildar 4 | Official Movie | New Punjabi Movie 2026 | Ammy Virk | Sonam Bajwa | Full HD ",
+    "url": "https://www.youtube.com/watch?v=8KhBnHeLBS8",
+    "channel": "Movieomaxo ",
+    "thumbnail": "https://i.ytimg.com/vi/8KhBnHeLBS8/hqdefault.jpg",
+    "duration": 8264,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "O5P97noGWg4",
+    "title": "Sarpanch in Canada (2026) | Dev Kharoud & Neeru Bajwa | New Punjabi Movie",
+    "url": "https://www.youtube.com/watch?v=O5P97noGWg4",
     "channel": "Punjabi Movie House",
-    "thumbnail": "https://i.ytimg.com/vi/D4spBq-4nzM/hqdefault.jpg",
-    "duration": 5692,
+    "thumbnail": "https://i.ytimg.com/vi/O5P97noGWg4/hqdefault.jpg",
+    "duration": 7211,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "_LRiw2maXU4",
+    "title": "New Punjabi Comedy Movie 2026 | Full HD Movie | Latest Punjabi Movie | Superhit Comedy Film #comedy",
+    "url": "https://www.youtube.com/watch?v=_LRiw2maXU4",
+    "channel": "Lokdhun Virsa",
+    "thumbnail": "https://i.ytimg.com/vi/_LRiw2maXU4/hqdefault.jpg",
+    "duration": 6333,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "yBclzLg1HMs",
+    "title": "Daaru Peela De - Ammy Virk & Sonam Bajwa | New Punjabi Movie 2026 | Latest Punjabi Movies",
+    "url": "https://www.youtube.com/watch?v=yBclzLg1HMs",
+    "channel": "Pollywood Punjab",
+    "thumbnail": "https://i.ytimg.com/vi/yBclzLg1HMs/hqdefault.jpg",
+    "duration": 6311,
+    "category": "punjabi_movies"
+  },
+  {
+    "id": "-Pt2GSBsKSM",
+    "title": "Saak Punjabi Movie | Mandy Takhar, Jobanpreet Singh | Punjabi Romantic Drama #fullmovie",
+    "url": "https://www.youtube.com/watch?v=-Pt2GSBsKSM",
+    "channel": "White Hill Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/-Pt2GSBsKSM/hqdefault.jpg",
+    "duration": 7167,
     "category": "punjabi_movies"
   }
 ]
