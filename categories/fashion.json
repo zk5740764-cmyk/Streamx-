@@ -1,14 +1,5 @@
 [
   {
-    "id": "f4kQHDOKcBI",
-    "title": "Manish Malhotra | Dubai Fashion Week 2026",
-    "url": "https://www.youtube.com/watch?v=f4kQHDOKcBI",
-    "channel": "Manish Malhotra",
-    "thumbnail": "https://i.ytimg.com/vi/f4kQHDOKcBI/hqdefault.jpg",
-    "duration": 925,
-    "category": "fashion"
-  },
-  {
     "id": "RzhA0lCditA",
     "title": "Manish Malhotra | Mijwan Fashion Show 2026",
     "url": "https://www.youtube.com/watch?v=RzhA0lCditA",
@@ -18,48 +9,12 @@
     "category": "fashion"
   },
   {
-    "id": "3OdO_3yESgg",
-    "title": "All Celebrities Walk The Ramp At Bombay Fashion Week 2026 | Glamour, Style & Stunning Looks!",
-    "url": "https://www.youtube.com/watch?v=3OdO_3yESgg",
-    "channel": "Buzzzooka Prime",
-    "thumbnail": "https://i.ytimg.com/vi/3OdO_3yESgg/hqdefault.jpg",
-    "duration": 1447,
-    "category": "fashion"
-  },
-  {
-    "id": "SrRuGCFBtgM",
-    "title": "INDIAN FASHION TRENDS 2026 | Affordable & Sustainable Look with Treding Outfits #fashion #trending",
-    "url": "https://www.youtube.com/watch?v=SrRuGCFBtgM",
-    "channel": "Pooja Fashion",
-    "thumbnail": "https://i.ytimg.com/vi/SrRuGCFBtgM/hqdefault.jpg",
-    "duration": 143,
-    "category": "fashion"
-  },
-  {
-    "id": "rTxxh5Qh9FM",
-    "title": "Delhi Times Fashion Week 2026✨️ | Haute Couture & Diwali Collection | Latest Indian Fashion Trends",
-    "url": "https://www.youtube.com/watch?v=rTxxh5Qh9FM",
-    "channel": "Prakshi rawat",
-    "thumbnail": "https://i.ytimg.com/vi/rTxxh5Qh9FM/hqdefault.jpg",
-    "duration": 1122,
-    "category": "fashion"
-  },
-  {
-    "id": "spLf3nnKhVE",
-    "title": "Indian Couture Week- 2026",
-    "url": "https://www.youtube.com/watch?v=spLf3nnKhVE",
-    "channel": "Falguni Shane Peacock",
-    "thumbnail": "https://i.ytimg.com/vi/spLf3nnKhVE/hqdefault.jpg",
-    "duration": 595,
-    "category": "fashion"
-  },
-  {
-    "id": "UGmJACjMMfg",
-    "title": "Manish Malhotra | Luxe Prêt Show 2026 | LFW x FDCI",
-    "url": "https://www.youtube.com/watch?v=UGmJACjMMfg",
+    "id": "f4kQHDOKcBI",
+    "title": "Manish Malhotra | Dubai Fashion Week 2026",
+    "url": "https://www.youtube.com/watch?v=f4kQHDOKcBI",
     "channel": "Manish Malhotra",
-    "thumbnail": "https://i.ytimg.com/vi/UGmJACjMMfg/hqdefault.jpg",
-    "duration": 1229,
+    "thumbnail": "https://i.ytimg.com/vi/f4kQHDOKcBI/hqdefault.jpg",
+    "duration": 925,
     "category": "fashion"
   },
   {
@@ -72,21 +27,66 @@
     "category": "fashion"
   },
   {
+    "id": "SrRuGCFBtgM",
+    "title": "INDIAN FASHION TRENDS 2026 | Affordable & Sustainable Look with Treding Outfits #fashion #trending",
+    "url": "https://www.youtube.com/watch?v=SrRuGCFBtgM",
+    "channel": "Pooja Fashion",
+    "thumbnail": "https://i.ytimg.com/vi/SrRuGCFBtgM/hqdefault.jpg",
+    "duration": 143,
+    "category": "fashion"
+  },
+  {
+    "id": "UGmJACjMMfg",
+    "title": "Manish Malhotra | Luxe Prêt Show 2026 | LFW x FDCI",
+    "url": "https://www.youtube.com/watch?v=UGmJACjMMfg",
+    "channel": "Manish Malhotra",
+    "thumbnail": "https://i.ytimg.com/vi/UGmJACjMMfg/hqdefault.jpg",
+    "duration": 1229,
+    "category": "fashion"
+  },
+  {
+    "id": "rTxxh5Qh9FM",
+    "title": "Delhi Times Fashion Week 2026✨️ | Haute Couture & Diwali Collection | Latest Indian Fashion Trends",
+    "url": "https://www.youtube.com/watch?v=rTxxh5Qh9FM",
+    "channel": "Prakshi rawat",
+    "thumbnail": "https://i.ytimg.com/vi/rTxxh5Qh9FM/hqdefault.jpg",
+    "duration": 1122,
+    "category": "fashion"
+  },
+  {
+    "id": "QxkkFaCBr9E",
+    "title": "Indian High Fashion Show 2026 🔥 Luxury Saree & Lehenga Runway",
+    "url": "https://www.youtube.com/watch?v=QxkkFaCBr9E",
+    "channel": "Indian FashionVerse ",
+    "thumbnail": "https://i.ytimg.com/vi/QxkkFaCBr9E/hqdefault.jpg",
+    "duration": 224,
+    "category": "fashion"
+  },
+  {
+    "id": "3OdO_3yESgg",
+    "title": "All Celebrities Walk The Ramp At Bombay Fashion Week 2026 | Glamour, Style & Stunning Looks!",
+    "url": "https://www.youtube.com/watch?v=3OdO_3yESgg",
+    "channel": "Buzzzooka Prime",
+    "thumbnail": "https://i.ytimg.com/vi/3OdO_3yESgg/hqdefault.jpg",
+    "duration": 1447,
+    "category": "fashion"
+  },
+  {
+    "id": "spLf3nnKhVE",
+    "title": "Indian Couture Week- 2026",
+    "url": "https://www.youtube.com/watch?v=spLf3nnKhVE",
+    "channel": "Falguni Shane Peacock",
+    "thumbnail": "https://i.ytimg.com/vi/spLf3nnKhVE/hqdefault.jpg",
+    "duration": 595,
+    "category": "fashion"
+  },
+  {
     "id": "Www2m4EsRys",
     "title": "2026 Indian wear trends what's going to be trend in 2026 | 2026 fashion trends",
     "url": "https://www.youtube.com/watch?v=Www2m4EsRys",
     "channel": "Deep ",
     "thumbnail": "https://i.ytimg.com/vi/Www2m4EsRys/hqdefault.jpg",
     "duration": 71,
-    "category": "fashion"
-  },
-  {
-    "id": "n1jDU9B2ohA",
-    "title": "NEW Indo Fusion Fashion Trends 2026 | Latest Festival & Wedding Outfit Ideas for Women |",
-    "url": "https://www.youtube.com/watch?v=n1jDU9B2ohA",
-    "channel": "G3Fashion.com",
-    "thumbnail": "https://i.ytimg.com/vi/n1jDU9B2ohA/hqdefault.jpg",
-    "duration": 749,
     "category": "fashion"
   },
   {
@@ -99,30 +99,12 @@
     "category": "fashion"
   },
   {
-    "id": "sN0PLUoJSrs",
-    "title": "LAAM Fashion Week 2026  day 4| MK Maria Osama Khan Owns the Retail Runway #MOK #LFW ##mariaosamakhan",
-    "url": "https://www.youtube.com/watch?v=sN0PLUoJSrs",
-    "channel": "faisalsatti",
-    "thumbnail": "https://i.ytimg.com/vi/sN0PLUoJSrs/hqdefault.jpg",
-    "duration": 712,
-    "category": "fashion"
-  },
-  {
-    "id": "WkDZwjAYkbc",
-    "title": "Fashion Is Changing: 7 Fall 2026 Trends To Know Now",
-    "url": "https://www.youtube.com/watch?v=WkDZwjAYkbc",
-    "channel": "Desi Rich",
-    "thumbnail": "https://i.ytimg.com/vi/WkDZwjAYkbc/hqdefault.jpg",
-    "duration": 508,
-    "category": "fashion"
-  },
-  {
-    "id": "TkOk0WHY9pg",
-    "title": "Top Trending Kids Fashion Week 2026 | Stylish Little Stars on Runway | 4K",
-    "url": "https://www.youtube.com/watch?v=TkOk0WHY9pg",
-    "channel": "FASHION MOTION PICTURES",
-    "thumbnail": "https://i.ytimg.com/vi/TkOk0WHY9pg/hqdefault.jpg",
-    "duration": 37,
+    "id": "n1jDU9B2ohA",
+    "title": "NEW Indo Fusion Fashion Trends 2026 | Latest Festival & Wedding Outfit Ideas for Women |",
+    "url": "https://www.youtube.com/watch?v=n1jDU9B2ohA",
+    "channel": "G3Fashion.com",
+    "thumbnail": "https://i.ytimg.com/vi/n1jDU9B2ohA/hqdefault.jpg",
+    "duration": 749,
     "category": "fashion"
   },
   {
@@ -144,30 +126,30 @@
     "category": "fashion"
   },
   {
+    "id": "kO4xIT4npF4",
+    "title": "Gouri Edit by Adhvaria Silks | Bombay Times Fashion Week 2026",
+    "url": "https://www.youtube.com/watch?v=kO4xIT4npF4",
+    "channel": "adhvaria silks",
+    "thumbnail": "https://i.ytimg.com/vi/kO4xIT4npF4/hqdefault.jpg",
+    "duration": 708,
+    "category": "fashion"
+  },
+  {
+    "id": "sN0PLUoJSrs",
+    "title": "LAAM Fashion Week 2026  day 4| MK Maria Osama Khan Owns the Retail Runway #MOK #LFW ##mariaosamakhan",
+    "url": "https://www.youtube.com/watch?v=sN0PLUoJSrs",
+    "channel": "faisalsatti",
+    "thumbnail": "https://i.ytimg.com/vi/sN0PLUoJSrs/hqdefault.jpg",
+    "duration": 712,
+    "category": "fashion"
+  },
+  {
     "id": "zPnj4y-e668",
     "title": "UNCUT - Lakme Fashion Week 2026 | Day 03 | Disha Patani, Tamannaah Bhatia, Khushi Kapoor, Shanaya",
     "url": "https://www.youtube.com/watch?v=zPnj4y-e668",
     "channel": "Buzzzooka Prime",
     "thumbnail": "https://i.ytimg.com/vi/zPnj4y-e668/hqdefault.jpg",
     "duration": 3950,
-    "category": "fashion"
-  },
-  {
-    "id": "BTDg65ul0N8",
-    "title": "New trend Indian dresses for Wedding 2026. Salwar suits, Fusion Wear",
-    "url": "https://www.youtube.com/watch?v=BTDg65ul0N8",
-    "channel": "G3Fashion.com",
-    "thumbnail": "https://i.ytimg.com/vi/BTDg65ul0N8/hqdefault.jpg",
-    "duration": 848,
-    "category": "fashion"
-  },
-  {
-    "id": "QxkkFaCBr9E",
-    "title": "Indian High Fashion Show 2026 🔥 Luxury Saree & Lehenga Runway",
-    "url": "https://www.youtube.com/watch?v=QxkkFaCBr9E",
-    "channel": "Indian FashionVerse ",
-    "thumbnail": "https://i.ytimg.com/vi/QxkkFaCBr9E/hqdefault.jpg",
-    "duration": 224,
     "category": "fashion"
   },
   {
@@ -180,102 +162,21 @@
     "category": "fashion"
   },
   {
+    "id": "BTDg65ul0N8",
+    "title": "New trend Indian dresses for Wedding 2026. Salwar suits, Fusion Wear",
+    "url": "https://www.youtube.com/watch?v=BTDg65ul0N8",
+    "channel": "G3Fashion.com",
+    "thumbnail": "https://i.ytimg.com/vi/BTDg65ul0N8/hqdefault.jpg",
+    "duration": 848,
+    "category": "fashion"
+  },
+  {
     "id": "oj2GUKO6sAI",
     "title": "Aditi Rao Hydari And Manu More Arrives At Lakme Fashion Week 2026",
     "url": "https://www.youtube.com/watch?v=oj2GUKO6sAI",
     "channel": "Buzzzooka Prime",
     "thumbnail": "https://i.ytimg.com/vi/oj2GUKO6sAI/hqdefault.jpg",
     "duration": 1264,
-    "category": "fashion"
-  },
-  {
-    "id": "KgIySi_uIiU",
-    "title": "Lakmé India Fashion Week  LIVE🔴Latest Runway Moments 2026  | Delhi",
-    "url": "https://www.youtube.com/watch?v=KgIySi_uIiU",
-    "channel": "MyNation",
-    "thumbnail": "https://i.ytimg.com/vi/KgIySi_uIiU/hqdefault.jpg",
-    "duration": 16197,
-    "category": "fashion"
-  },
-  {
-    "id": "PT1H0AYdlSE",
-    "title": "Top Fashion Trends for 2026: Everything You Need to Know!",
-    "url": "https://www.youtube.com/watch?v=PT1H0AYdlSE",
-    "channel": "Siddhi Mapxencar",
-    "thumbnail": "https://i.ytimg.com/vi/PT1H0AYdlSE/hqdefault.jpg",
-    "duration": 447,
-    "category": "fashion"
-  },
-  {
-    "id": "kO4xIT4npF4",
-    "title": "Gouri Edit by Adhvaria Silks | Bombay Times Fashion Week 2026",
-    "url": "https://www.youtube.com/watch?v=kO4xIT4npF4",
-    "channel": "adhvaria silks",
-    "thumbnail": "https://i.ytimg.com/vi/kO4xIT4npF4/hqdefault.jpg",
-    "duration": 708,
-    "category": "fashion"
-  },
-  {
-    "id": "LZMba5vrsos",
-    "title": "Santa Fe Indian Market 2026 SWAIA Fashion Show & Pathways Indigenous Arts Festival",
-    "url": "https://www.youtube.com/watch?v=LZMba5vrsos",
-    "channel": "Dee Lovely Life",
-    "thumbnail": "https://i.ytimg.com/vi/LZMba5vrsos/hqdefault.jpg",
-    "duration": 2387,
-    "category": "fashion"
-  },
-  {
-    "id": "lmnmPs3HlIg",
-    "title": "STOP Wearing These Outdated Indian Trends in 2026 | What to Stop Buying That Look 'CHEAP' Now",
-    "url": "https://www.youtube.com/watch?v=lmnmPs3HlIg",
-    "channel": "Find Your Fashion with Neha",
-    "thumbnail": "https://i.ytimg.com/vi/lmnmPs3HlIg/hqdefault.jpg",
-    "duration": 537,
-    "category": "fashion"
-  },
-  {
-    "id": "or2XJQmBWR0",
-    "title": "Victoria's Secret Fashion Show 2026",
-    "url": "https://www.youtube.com/watch?v=or2XJQmBWR0",
-    "channel": "Victoria's Secret",
-    "thumbnail": "https://i.ytimg.com/vi/or2XJQmBWR0/hqdefault.jpg",
-    "duration": 16,
-    "category": "fashion"
-  },
-  {
-    "id": "EhzJMOHkNoI",
-    "title": "NIF GLOBAL 'THE RUNWAY' AT LAKME FASHION WEEK X FDCI MARCH 2026",
-    "url": "https://www.youtube.com/watch?v=EhzJMOHkNoI",
-    "channel": "NIF GLOBAL",
-    "thumbnail": "https://i.ytimg.com/vi/EhzJMOHkNoI/hqdefault.jpg",
-    "duration": 1393,
-    "category": "fashion"
-  },
-  {
-    "id": "xhyplEeBP54",
-    "title": "Winter Fashion Trends 2026 For Men 😍 Fits, Colors & Pieces (India Guide) | ONE CHANCE",
-    "url": "https://www.youtube.com/watch?v=xhyplEeBP54",
-    "channel": "ONE CHANCE",
-    "thumbnail": "https://i.ytimg.com/vi/xhyplEeBP54/hqdefault.jpg",
-    "duration": 580,
-    "category": "fashion"
-  },
-  {
-    "id": "BzTR0mplrks",
-    "title": "Fashion begins in your eyes✨ | Pantaloons Puja 2026",
-    "url": "https://www.youtube.com/watch?v=BzTR0mplrks",
-    "channel": "Pantaloons Fashion",
-    "thumbnail": "https://i.ytimg.com/vi/BzTR0mplrks/hqdefault.jpg",
-    "duration": 45,
-    "category": "fashion"
-  },
-  {
-    "id": "jsfrLwXoy8Q",
-    "title": "FESTIVAL OUTFIT IDEAS 2026 ✨ | Trendy & Stylish Indian Ethnic Wear Ideas for Girls | Festive Looks",
-    "url": "https://www.youtube.com/watch?v=jsfrLwXoy8Q",
-    "channel": "THE GIRLY FASHION",
-    "thumbnail": "https://i.ytimg.com/vi/jsfrLwXoy8Q/hqdefault.jpg",
-    "duration": 135,
     "category": "fashion"
   },
   {
@@ -288,21 +189,21 @@
     "category": "fashion"
   },
   {
-    "id": "CK5H1cuACFQ",
-    "title": "Very Much Indian at Pune Times Fashion Week 2026: Swarajya ft. Sakshi Tanwar & Irina | Ramp Walk",
-    "url": "https://www.youtube.com/watch?v=CK5H1cuACFQ",
-    "channel": "Very Much Indian Official",
-    "thumbnail": "https://i.ytimg.com/vi/CK5H1cuACFQ/hqdefault.jpg",
-    "duration": 1240,
+    "id": "KgIySi_uIiU",
+    "title": "Lakmé India Fashion Week  LIVE🔴Latest Runway Moments 2026  | Delhi",
+    "url": "https://www.youtube.com/watch?v=KgIySi_uIiU",
+    "channel": "MyNation",
+    "thumbnail": "https://i.ytimg.com/vi/KgIySi_uIiU/hqdefault.jpg",
+    "duration": 16197,
     "category": "fashion"
   },
   {
-    "id": "4dsnQr1um2o",
-    "title": "MISS UNIVERSE INDIA 2026 - SWIMSUIT FASHION SHOW",
-    "url": "https://www.youtube.com/watch?v=4dsnQr1um2o",
-    "channel": "CharmViet",
-    "thumbnail": "https://i.ytimg.com/vi/4dsnQr1um2o/hqdefault.jpg",
-    "duration": 1748,
+    "id": "lmnmPs3HlIg",
+    "title": "STOP Wearing These Outdated Indian Trends in 2026 | What to Stop Buying That Look 'CHEAP' Now",
+    "url": "https://www.youtube.com/watch?v=lmnmPs3HlIg",
+    "channel": "Find Your Fashion with Neha",
+    "thumbnail": "https://i.ytimg.com/vi/lmnmPs3HlIg/hqdefault.jpg",
+    "duration": 537,
     "category": "fashion"
   },
   {
@@ -315,12 +216,75 @@
     "category": "fashion"
   },
   {
+    "id": "BzTR0mplrks",
+    "title": "Fashion begins in your eyes✨ | Pantaloons Puja 2026",
+    "url": "https://www.youtube.com/watch?v=BzTR0mplrks",
+    "channel": "Pantaloons Fashion",
+    "thumbnail": "https://i.ytimg.com/vi/BzTR0mplrks/hqdefault.jpg",
+    "duration": 45,
+    "category": "fashion"
+  },
+  {
+    "id": "TkOk0WHY9pg",
+    "title": "Top Trending Kids Fashion Week 2026 | Stylish Little Stars on Runway | 4K",
+    "url": "https://www.youtube.com/watch?v=TkOk0WHY9pg",
+    "channel": "FASHION MOTION PICTURES",
+    "thumbnail": "https://i.ytimg.com/vi/TkOk0WHY9pg/hqdefault.jpg",
+    "duration": 37,
+    "category": "fashion"
+  },
+  {
+    "id": "EhzJMOHkNoI",
+    "title": "NIF GLOBAL 'THE RUNWAY' AT LAKME FASHION WEEK X FDCI MARCH 2026",
+    "url": "https://www.youtube.com/watch?v=EhzJMOHkNoI",
+    "channel": "NIF GLOBAL",
+    "thumbnail": "https://i.ytimg.com/vi/EhzJMOHkNoI/hqdefault.jpg",
+    "duration": 1393,
+    "category": "fashion"
+  },
+  {
+    "id": "jsfrLwXoy8Q",
+    "title": "FESTIVAL OUTFIT IDEAS 2026 ✨ | Trendy & Stylish Indian Ethnic Wear Ideas for Girls | Festive Looks",
+    "url": "https://www.youtube.com/watch?v=jsfrLwXoy8Q",
+    "channel": "THE GIRLY FASHION",
+    "thumbnail": "https://i.ytimg.com/vi/jsfrLwXoy8Q/hqdefault.jpg",
+    "duration": 135,
+    "category": "fashion"
+  },
+  {
+    "id": "xhyplEeBP54",
+    "title": "Winter Fashion Trends 2026 Every Man Should Know (Detailed)",
+    "url": "https://www.youtube.com/watch?v=xhyplEeBP54",
+    "channel": "ONE CHANCE",
+    "thumbnail": "https://i.ytimg.com/vi/xhyplEeBP54/hqdefault.jpg",
+    "duration": 580,
+    "category": "fashion"
+  },
+  {
+    "id": "CK5H1cuACFQ",
+    "title": "Very Much Indian at Pune Times Fashion Week 2026: Swarajya ft. Sakshi Tanwar & Irina | Ramp Walk",
+    "url": "https://www.youtube.com/watch?v=CK5H1cuACFQ",
+    "channel": "Very Much Indian Official",
+    "thumbnail": "https://i.ytimg.com/vi/CK5H1cuACFQ/hqdefault.jpg",
+    "duration": 1240,
+    "category": "fashion"
+  },
+  {
     "id": "wxB4evOnecs",
     "title": "Lakme Fashion Week 2026 | Bollywood Stars Light Up Lakme Fashion Week Runway",
     "url": "https://www.youtube.com/watch?v=wxB4evOnecs",
     "channel": "NDTV",
     "thumbnail": "https://i.ytimg.com/vi/wxB4evOnecs/hqdefault.jpg",
     "duration": 281,
+    "category": "fashion"
+  },
+  {
+    "id": "4dsnQr1um2o",
+    "title": "MISS UNIVERSE INDIA 2026 - SWIMSUIT FASHION SHOW",
+    "url": "https://www.youtube.com/watch?v=4dsnQr1um2o",
+    "channel": "CharmViet",
+    "thumbnail": "https://i.ytimg.com/vi/4dsnQr1um2o/hqdefault.jpg",
+    "duration": 1748,
     "category": "fashion"
   },
   {
@@ -342,12 +306,30 @@
     "category": "fashion"
   },
   {
-    "id": "Fwa42T4ZCnM",
-    "title": "Rohit Bal Fashion Show | India Couture Week 2026 - 4K",
-    "url": "https://www.youtube.com/watch?v=Fwa42T4ZCnM",
-    "channel": "Fashion Feed",
-    "thumbnail": "https://i.ytimg.com/vi/Fwa42T4ZCnM/hqdefault.jpg",
-    "duration": 1520,
+    "id": "_yf4CYAJc-0",
+    "title": "Why STARE Is 2026's Most Important Indian Fashion Film | Bhavya Ramesh × NorBlack NorWhite",
+    "url": "https://www.youtube.com/watch?v=_yf4CYAJc-0",
+    "channel": "World of Advertising",
+    "thumbnail": "https://i.ytimg.com/vi/_yf4CYAJc-0/hqdefault.jpg",
+    "duration": 136,
+    "category": "fashion"
+  },
+  {
+    "id": "uo4JWL45ESY",
+    "title": "Tate McRae - 2026 Victoria's Secret Fashion Show Performance",
+    "url": "https://www.youtube.com/watch?v=uo4JWL45ESY",
+    "channel": "Tate McRae",
+    "thumbnail": "https://i.ytimg.com/vi/uo4JWL45ESY/hqdefault.jpg",
+    "duration": 542,
+    "category": "fashion"
+  },
+  {
+    "id": "3ZOl_N5d1x4",
+    "title": "Westside Women New Diwali Ethnic Collection November 2026 | Westside Women Festive Finds #Diwali",
+    "url": "https://www.youtube.com/watch?v=3ZOl_N5d1x4",
+    "channel": "Sona Family Blog",
+    "thumbnail": "https://i.ytimg.com/vi/3ZOl_N5d1x4/hqdefault.jpg",
+    "duration": 673,
     "category": "fashion"
   },
   {
@@ -360,6 +342,24 @@
     "category": "fashion"
   },
   {
+    "id": "QlQJE4gxbDg",
+    "title": "Masaba Fashion Show | India Couture Week 2026 - 4K",
+    "url": "https://www.youtube.com/watch?v=QlQJE4gxbDg",
+    "channel": "Fashion Feed",
+    "thumbnail": "https://i.ytimg.com/vi/QlQJE4gxbDg/hqdefault.jpg",
+    "duration": 1147,
+    "category": "fashion"
+  },
+  {
+    "id": "Us3OUPJYzyI",
+    "title": "Latest Indian Fashion Collection 2026 | Beautiful Lehenga & Saree Designs ✨",
+    "url": "https://www.youtube.com/watch?v=Us3OUPJYzyI",
+    "channel": "Fashion with Anu",
+    "thumbnail": "https://i.ytimg.com/vi/Us3OUPJYzyI/hqdefault.jpg",
+    "duration": 441,
+    "category": "fashion"
+  },
+  {
     "id": "Chr0_6yokJI",
     "title": "The ONLY Winter 2026 Fashion Trends Worth Your Money!",
     "url": "https://www.youtube.com/watch?v=Chr0_6yokJI",
@@ -369,75 +369,12 @@
     "category": "fashion"
   },
   {
-    "id": "ujedFUv1JUI",
-    "title": "10 GENIUS Winter 2026/27 Fashion Trends You'll See Everywhere This Season",
-    "url": "https://www.youtube.com/watch?v=ujedFUv1JUI",
-    "channel": "Petite Secrets",
-    "thumbnail": "https://i.ytimg.com/vi/ujedFUv1JUI/hqdefault.jpg",
-    "duration": 875,
-    "category": "fashion"
-  },
-  {
-    "id": "fVYnl0I8j1w",
-    "title": "Winter 2026 Fashion Trends You'll ACTUALLY Wear (What's IN vs OUT!)",
-    "url": "https://www.youtube.com/watch?v=fVYnl0I8j1w",
-    "channel": "Billie Newland",
-    "thumbnail": "https://i.ytimg.com/vi/fVYnl0I8j1w/hqdefault.jpg",
-    "duration": 1238,
-    "category": "fashion"
-  },
-  {
-    "id": "KwsHZ-6adXY",
-    "title": "Winter 2026/2027 Trends You’ll See Everywhere (10 to Know)",
-    "url": "https://www.youtube.com/watch?v=KwsHZ-6adXY",
-    "channel": "That Trending Girl",
-    "thumbnail": "https://i.ytimg.com/vi/KwsHZ-6adXY/hqdefault.jpg",
-    "duration": 690,
-    "category": "fashion"
-  },
-  {
-    "id": "txQUZV4wgK4",
-    "title": "5 Fall 2026 Trends to AVOID if You're Over 40... Plus 5 Trends that are worth a shot!",
-    "url": "https://www.youtube.com/watch?v=txQUZV4wgK4",
-    "channel": "A N N A R E I D",
-    "thumbnail": "https://i.ytimg.com/vi/txQUZV4wgK4/hqdefault.jpg",
-    "duration": 1418,
-    "category": "fashion"
-  },
-  {
-    "id": "T9mzD6se56I",
-    "title": "The ONLY Winter Fashion Trends Guide You Need for Winter 2026–2027 - Jeans, Coats, Boots and More",
-    "url": "https://www.youtube.com/watch?v=T9mzD6se56I",
-    "channel": "Mimi Lane Outfit Ideas",
-    "thumbnail": "https://i.ytimg.com/vi/T9mzD6se56I/hqdefault.jpg",
-    "duration": 2782,
-    "category": "fashion"
-  },
-  {
-    "id": "JnSWECykjsQ",
-    "title": "14 Winter Fashion Trends That Will Be EVERYWHERE in 2026–2027",
-    "url": "https://www.youtube.com/watch?v=JnSWECykjsQ",
-    "channel": "Loya the Fashion Queen",
-    "thumbnail": "https://i.ytimg.com/vi/JnSWECykjsQ/hqdefault.jpg",
-    "duration": 1508,
-    "category": "fashion"
-  },
-  {
-    "id": "DIqC6pywSjM",
-    "title": "Winter 2026/2027 Fashion Trends You’ll Actually Want to Wear!",
-    "url": "https://www.youtube.com/watch?v=DIqC6pywSjM",
-    "channel": "The Essence Of Elegance",
-    "thumbnail": "https://i.ytimg.com/vi/DIqC6pywSjM/hqdefault.jpg",
-    "duration": 653,
-    "category": "fashion"
-  },
-  {
-    "id": "IRUu4cSdTzY",
-    "title": "10 Fall Fashion Trends Most Women Don’t Know About Yet | 2026",
-    "url": "https://www.youtube.com/watch?v=IRUu4cSdTzY",
-    "channel": "Style over 60",
-    "thumbnail": "https://i.ytimg.com/vi/IRUu4cSdTzY/hqdefault.jpg",
-    "duration": 2773,
+    "id": "WkDZwjAYkbc",
+    "title": "Fashion Is Changing: 7 Fall 2026 Trends To Know Now",
+    "url": "https://www.youtube.com/watch?v=WkDZwjAYkbc",
+    "channel": "Desi Rich",
+    "thumbnail": "https://i.ytimg.com/vi/WkDZwjAYkbc/hqdefault.jpg",
+    "duration": 508,
     "category": "fashion"
   },
   {
@@ -450,138 +387,75 @@
     "category": "fashion"
   },
   {
-    "id": "wCCqeckiq0Q",
-    "title": "10 Fall Trends That Are Secretly Dead In 2026 (You're Still Wearing Them)",
-    "url": "https://www.youtube.com/watch?v=wCCqeckiq0Q",
-    "channel": "That Trending Girl",
-    "thumbnail": "https://i.ytimg.com/vi/wCCqeckiq0Q/hqdefault.jpg",
-    "duration": 780,
+    "id": "N6f0-ke98bE",
+    "title": "2026 Fashion Trend Predictions",
+    "url": "https://www.youtube.com/watch?v=N6f0-ke98bE",
+    "channel": "Drew Joiner",
+    "thumbnail": "https://i.ytimg.com/vi/N6f0-ke98bE/hqdefault.jpg",
+    "duration": 660,
     "category": "fashion"
   },
   {
-    "id": "qtENHzxIc5Q",
-    "title": "MILAN’S CHICEST FALL TRENDS 2026 🇮🇹 ELEGANT LUXURY OUTFITS & STREET STYLE",
-    "url": "https://www.youtube.com/watch?v=qtENHzxIc5Q",
-    "channel": "Street Style Diaries",
-    "thumbnail": "https://i.ytimg.com/vi/qtENHzxIc5Q/hqdefault.jpg",
-    "duration": 1209,
-    "category": "fashion"
-  },
-  {
-    "id": "IBsz7tHZ8eU",
-    "title": "Top 10 Wearable Winter 2026 Fashion Trends You'll See EVERYWHERE!",
-    "url": "https://www.youtube.com/watch?v=IBsz7tHZ8eU",
-    "channel": "The Style Insider",
-    "thumbnail": "https://i.ytimg.com/vi/IBsz7tHZ8eU/hqdefault.jpg",
-    "duration": 1182,
-    "category": "fashion"
-  },
-  {
-    "id": "8NndcEBGy1Q",
-    "title": "What to Wear This Autumn / 100+ Fall 2026 Outfit Ideas / Fashion Trends ",
-    "url": "https://www.youtube.com/watch?v=8NndcEBGy1Q",
-    "channel": "Fashion Trends",
-    "thumbnail": "https://i.ytimg.com/vi/8NndcEBGy1Q/hqdefault.jpg",
-    "duration": 709,
-    "category": "fashion"
-  },
-  {
-    "id": "oe5XB317i_s",
-    "title": "FASHION TRENDS that are DEAD in 2026 and WHAT TO WEAR Instead!",
-    "url": "https://www.youtube.com/watch?v=oe5XB317i_s",
-    "channel": "Ziba Shops Style",
-    "thumbnail": "https://i.ytimg.com/vi/oe5XB317i_s/hqdefault.jpg",
-    "duration": 1176,
-    "category": "fashion"
-  },
-  {
-    "id": "VNU_sqCTTDY",
-    "title": "The Most Beautiful Italian Outfits🍂Fall/Winter 2026 🇮🇹 Key Fashion Trends & Effortless Elegance",
-    "url": "https://www.youtube.com/watch?v=VNU_sqCTTDY",
-    "channel": "MILANO VIEW STREET STYLE",
-    "thumbnail": "https://i.ytimg.com/vi/VNU_sqCTTDY/hqdefault.jpg",
-    "duration": 1313,
-    "category": "fashion"
-  },
-  {
-    "id": "KYXhdNev5Z8",
-    "title": "MILAN’S CHICEST FALL TRENDS 2026 🇮🇹 ELEGANT LUXURY OUTFITS & STREET FASHION",
-    "url": "https://www.youtube.com/watch?v=KYXhdNev5Z8",
-    "channel": "Street Style Diaries",
-    "thumbnail": "https://i.ytimg.com/vi/KYXhdNev5Z8/hqdefault.jpg",
-    "duration": 1228,
-    "category": "fashion"
-  },
-  {
-    "id": "Dac3Uhzrm5E",
-    "title": "10 Fashion Trends FINALLY OUT OF STYLE in 2026",
-    "url": "https://www.youtube.com/watch?v=Dac3Uhzrm5E",
-    "channel": "Angela Masson - Fashion Over 50",
-    "thumbnail": "https://i.ytimg.com/vi/Dac3Uhzrm5E/hqdefault.jpg",
-    "duration": 690,
-    "category": "fashion"
-  },
-  {
-    "id": "Vlmjmz-zrm8",
-    "title": "Italy's Ultimate Elegance: Stunning Fashion Trends in November 2026 ✨ Italian Chic & Luxury Style",
-    "url": "https://www.youtube.com/watch?v=Vlmjmz-zrm8",
-    "channel": "MILAN ON TREND",
-    "thumbnail": "https://i.ytimg.com/vi/Vlmjmz-zrm8/hqdefault.jpg",
-    "duration": 2033,
-    "category": "fashion"
-  },
-  {
-    "id": "7qsj3IYl9lk",
-    "title": "Beautiful Outfits and the Latest Fashion Trends for November 2026 | Chic Elegant London Fashion",
-    "url": "https://www.youtube.com/watch?v=7qsj3IYl9lk",
-    "channel": "London Street Style",
-    "thumbnail": "https://i.ytimg.com/vi/7qsj3IYl9lk/hqdefault.jpg",
-    "duration": 528,
-    "category": "fashion"
-  },
-  {
-    "id": "FhNuAlNs0hc",
-    "title": "Fall 2026 Fashion Trends: 20 Trends That Will Be Everywhere",
-    "url": "https://www.youtube.com/watch?v=FhNuAlNs0hc",
+    "id": "JnSWECykjsQ",
+    "title": "14 Winter Fashion Trends That Will Be EVERYWHERE in 2026–2027",
+    "url": "https://www.youtube.com/watch?v=JnSWECykjsQ",
     "channel": "Loya the Fashion Queen",
-    "thumbnail": "https://i.ytimg.com/vi/FhNuAlNs0hc/hqdefault.jpg",
-    "duration": 1662,
+    "thumbnail": "https://i.ytimg.com/vi/JnSWECykjsQ/hqdefault.jpg",
+    "duration": 1508,
     "category": "fashion"
   },
   {
-    "id": "gP6sUIObBmg",
-    "title": "FALL/WINTER 2026–27 FASHION TRENDS & WHAT WE’LL BE WEARING MOST (The Trends You Need to Know)",
-    "url": "https://www.youtube.com/watch?v=gP6sUIObBmg",
-    "channel": "Timeless Elegance Style ",
-    "thumbnail": "https://i.ytimg.com/vi/gP6sUIObBmg/hqdefault.jpg",
-    "duration": 750,
+    "id": "30L-EHe4WAQ",
+    "title": "2026 fashion trends I’d actually wear (and the ones I’ll skip)",
+    "url": "https://www.youtube.com/watch?v=30L-EHe4WAQ",
+    "channel": "Tim Dessaint",
+    "thumbnail": "https://i.ytimg.com/vi/30L-EHe4WAQ/hqdefault.jpg",
+    "duration": 645,
     "category": "fashion"
   },
   {
-    "id": "EKUEDlYUfec",
-    "title": "Elegant Outfit Ideas for Women / Fall–Winter 2026–2027 / Fashion Trends",
-    "url": "https://www.youtube.com/watch?v=EKUEDlYUfec",
-    "channel": "Fashion Trends",
-    "thumbnail": "https://i.ytimg.com/vi/EKUEDlYUfec/hqdefault.jpg",
-    "duration": 568,
+    "id": "BONiy3WJyPA",
+    "title": "summer 2026 trends i'm obsessed with! | & a wishlist",
+    "url": "https://www.youtube.com/watch?v=BONiy3WJyPA",
+    "channel": "angie",
+    "thumbnail": "https://i.ytimg.com/vi/BONiy3WJyPA/hqdefault.jpg",
+    "duration": 897,
     "category": "fashion"
   },
   {
-    "id": "wFoMArgpa2Q",
-    "title": "DON’T Buy These Fall Trends! What to Buy Instead in 2026",
-    "url": "https://www.youtube.com/watch?v=wFoMArgpa2Q",
-    "channel": "Dana Berez",
-    "thumbnail": "https://i.ytimg.com/vi/wFoMArgpa2Q/hqdefault.jpg",
-    "duration": 1544,
+    "id": "XrpT8X7otvY",
+    "title": "Fall Fashion 2026 | 12 Trends Dominating This Autumn",
+    "url": "https://www.youtube.com/watch?v=XrpT8X7otvY",
+    "channel": "That Trending Girl",
+    "thumbnail": "https://i.ytimg.com/vi/XrpT8X7otvY/hqdefault.jpg",
+    "duration": 900,
     "category": "fashion"
   },
   {
-    "id": "ZdPD8pN7BKQ",
-    "title": "WINTER 2026-2027 FASHION TRENDS - WHAT TO WEAR THIS SEASON",
-    "url": "https://www.youtube.com/watch?v=ZdPD8pN7BKQ",
-    "channel": "Timeless Elegance Style ",
-    "thumbnail": "https://i.ytimg.com/vi/ZdPD8pN7BKQ/hqdefault.jpg",
-    "duration": 587,
+    "id": "wePO2EaCQ54",
+    "title": "Italy's Ultimate Elegance:Stunning Fashion Trends inNovember 2026Italian Chic& Luxury Style",
+    "url": "https://www.youtube.com/watch?v=wePO2EaCQ54",
+    "channel": "Milano style ",
+    "thumbnail": "https://i.ytimg.com/vi/wePO2EaCQ54/hqdefault.jpg",
+    "duration": 548,
+    "category": "fashion"
+  },
+  {
+    "id": "eVLz3auvFqU",
+    "title": "2026 fashion trends and predictions 🎀🪲✨",
+    "url": "https://www.youtube.com/watch?v=eVLz3auvFqU",
+    "channel": "ModernGurlz",
+    "thumbnail": "https://i.ytimg.com/vi/eVLz3auvFqU/hqdefault.jpg",
+    "duration": 1315,
+    "category": "fashion"
+  },
+  {
+    "id": "KwsHZ-6adXY",
+    "title": "Winter 2026/2027 Trends You’ll See Everywhere (10 to Know)",
+    "url": "https://www.youtube.com/watch?v=KwsHZ-6adXY",
+    "channel": "That Trending Girl",
+    "thumbnail": "https://i.ytimg.com/vi/KwsHZ-6adXY/hqdefault.jpg",
+    "duration": 690,
     "category": "fashion"
   },
   {
@@ -594,6 +468,51 @@
     "category": "fashion"
   },
   {
+    "id": "z9M_hq3a_3k",
+    "title": "Fall Fashion Trends I’ll Actually Be Wearing in 2026",
+    "url": "https://www.youtube.com/watch?v=z9M_hq3a_3k",
+    "channel": "Brittany I PocketsandBowsTV",
+    "thumbnail": "https://i.ytimg.com/vi/z9M_hq3a_3k/hqdefault.jpg",
+    "duration": 1561,
+    "category": "fashion"
+  },
+  {
+    "id": "aNEth1DBS8Q",
+    "title": "2026 fall fashion trends: YAY or NAY?",
+    "url": "https://www.youtube.com/watch?v=aNEth1DBS8Q",
+    "channel": "Hannah Louise Poston",
+    "thumbnail": "https://i.ytimg.com/vi/aNEth1DBS8Q/hqdefault.jpg",
+    "duration": 2053,
+    "category": "fashion"
+  },
+  {
+    "id": "kw3etZAWdCU",
+    "title": "Fall 2026 Fashion Trends You Probably Already Own",
+    "url": "https://www.youtube.com/watch?v=kw3etZAWdCU",
+    "channel": "beepworld",
+    "thumbnail": "https://i.ytimg.com/vi/kw3etZAWdCU/hqdefault.jpg",
+    "duration": 1064,
+    "category": "fashion"
+  },
+  {
+    "id": "IBsz7tHZ8eU",
+    "title": "Top 10 Wearable Winter 2026 Fashion Trends You'll See EVERYWHERE!",
+    "url": "https://www.youtube.com/watch?v=IBsz7tHZ8eU",
+    "channel": "The Style Insider",
+    "thumbnail": "https://i.ytimg.com/vi/IBsz7tHZ8eU/hqdefault.jpg",
+    "duration": 1182,
+    "category": "fashion"
+  },
+  {
+    "id": "qiLIbNakQro",
+    "title": "10 Fall Fashion Trends That Are Actually Worth Your Money in 2026",
+    "url": "https://www.youtube.com/watch?v=qiLIbNakQro",
+    "channel": "The Style Insider",
+    "thumbnail": "https://i.ytimg.com/vi/qiLIbNakQro/hqdefault.jpg",
+    "duration": 1210,
+    "category": "fashion"
+  },
+  {
     "id": "V1MVZKODdFA",
     "title": "10 Autumn 2026 Fashion Trends Actually Worth Wearing This Fall",
     "url": "https://www.youtube.com/watch?v=V1MVZKODdFA",
@@ -603,30 +522,111 @@
     "category": "fashion"
   },
   {
-    "id": "I8fXg4ewB9I",
-    "title": "What Are The Biggest Autumn Fashion Trends? The Colours, Prints & Brands To Know Now",
-    "url": "https://www.youtube.com/watch?v=I8fXg4ewB9I",
-    "channel": "SheerLuxe",
-    "thumbnail": "https://i.ytimg.com/vi/I8fXg4ewB9I/hqdefault.jpg",
-    "duration": 894,
+    "id": "IZ-ymk_JGsE",
+    "title": "The ULTIMATE 2026 Fashion Trend Guide: Everything You Need to Know in One Video",
+    "url": "https://www.youtube.com/watch?v=IZ-ymk_JGsE",
+    "channel": "Chic Charts",
+    "thumbnail": "https://i.ytimg.com/vi/IZ-ymk_JGsE/hqdefault.jpg",
+    "duration": 7508,
     "category": "fashion"
   },
   {
-    "id": "qGPko-mspnA",
-    "title": "Fall Fashion Trends Have CHANGED 👀 What’s IN & OUT for 2026",
-    "url": "https://www.youtube.com/watch?v=qGPko-mspnA",
+    "id": "aiqd6x98jds",
+    "title": "Fashion Trends That Are Officially DEAD in 2026!",
+    "url": "https://www.youtube.com/watch?v=aiqd6x98jds",
+    "channel": "ezracaughtin4k",
+    "thumbnail": "https://i.ytimg.com/vi/aiqd6x98jds/hqdefault.jpg",
+    "duration": 1005,
+    "category": "fashion"
+  },
+  {
+    "id": "gO3ig-fjc6M",
+    "title": "THE TOP FASHION & STYLE TRENDS for 2026 - What to wear in 2026 / Easy wearable womens fashion trends",
+    "url": "https://www.youtube.com/watch?v=gO3ig-fjc6M",
+    "channel": "Ciara O Doherty",
+    "thumbnail": "https://i.ytimg.com/vi/gO3ig-fjc6M/hqdefault.jpg",
+    "duration": 1506,
+    "category": "fashion"
+  },
+  {
+    "id": "writPewc8mw",
+    "title": "Summer Fashion Trends That Are Officially DEAD in 2026!",
+    "url": "https://www.youtube.com/watch?v=writPewc8mw",
+    "channel": "ezracaughtin4k",
+    "thumbnail": "https://i.ytimg.com/vi/writPewc8mw/hqdefault.jpg",
+    "duration": 1778,
+    "category": "fashion"
+  },
+  {
+    "id": "Uuo7E1bW1_g",
+    "title": "11 Fall 2026 Fashion Trends That Are Actually Worth Wearing",
+    "url": "https://www.youtube.com/watch?v=Uuo7E1bW1_g",
+    "channel": "Lil Miss JB Style",
+    "thumbnail": "https://i.ytimg.com/vi/Uuo7E1bW1_g/hqdefault.jpg",
+    "duration": 1485,
+    "category": "fashion"
+  },
+  {
+    "id": "DIqC6pywSjM",
+    "title": "Winter 2026/2027 Fashion Trends You’ll Actually Want to Wear!",
+    "url": "https://www.youtube.com/watch?v=DIqC6pywSjM",
+    "channel": "The Essence Of Elegance",
+    "thumbnail": "https://i.ytimg.com/vi/DIqC6pywSjM/hqdefault.jpg",
+    "duration": 653,
+    "category": "fashion"
+  },
+  {
+    "id": "4jabEuxfxoM",
+    "title": "Fall Color Trends *It's going to be a colorful Fall 2026*",
+    "url": "https://www.youtube.com/watch?v=4jabEuxfxoM",
+    "channel": "A N N A R E I D",
+    "thumbnail": "https://i.ytimg.com/vi/4jabEuxfxoM/hqdefault.jpg",
+    "duration": 921,
+    "category": "fashion"
+  },
+  {
+    "id": "kQxwE2XXycE",
+    "title": "RANKING & ROASTING FALL 2026 FASHION TRENDS !!! 🍁",
+    "url": "https://www.youtube.com/watch?v=kQxwE2XXycE",
+    "channel": "Alexa Sunshine83",
+    "thumbnail": "https://i.ytimg.com/vi/kQxwE2XXycE/hqdefault.jpg",
+    "duration": 1606,
+    "category": "fashion"
+  },
+  {
+    "id": "0Dj4rDlg7yo",
+    "title": "10 Pre-Fall Fashion Trends 2026 & How to Wear Them",
+    "url": "https://www.youtube.com/watch?v=0Dj4rDlg7yo",
+    "channel": "Shukura Taylor",
+    "thumbnail": "https://i.ytimg.com/vi/0Dj4rDlg7yo/hqdefault.jpg",
+    "duration": 1222,
+    "category": "fashion"
+  },
+  {
+    "id": "dLBeLai9n14",
+    "title": "These Trends Are Taking Over Autumn 2026",
+    "url": "https://www.youtube.com/watch?v=dLBeLai9n14",
+    "channel": "Harry Has",
+    "thumbnail": "https://i.ytimg.com/vi/dLBeLai9n14/hqdefault.jpg",
+    "duration": 509,
+    "category": "fashion"
+  },
+  {
+    "id": "PeBBlk0z6IA",
+    "title": "fall 2026 trends you'll actually wear",
+    "url": "https://www.youtube.com/watch?v=PeBBlk0z6IA",
+    "channel": "Laini Ozark",
+    "thumbnail": "https://i.ytimg.com/vi/PeBBlk0z6IA/hqdefault.jpg",
+    "duration": 598,
+    "category": "fashion"
+  },
+  {
+    "id": "wFoMArgpa2Q",
+    "title": "DON’T Buy These Fall Trends! What to Buy Instead in 2026",
+    "url": "https://www.youtube.com/watch?v=wFoMArgpa2Q",
     "channel": "Dana Berez",
-    "thumbnail": "https://i.ytimg.com/vi/qGPko-mspnA/hqdefault.jpg",
-    "duration": 1140,
-    "category": "fashion"
-  },
-  {
-    "id": "diQ7AFM2HGM",
-    "title": "The Fashion Trends You're About to See Everywhere",
-    "url": "https://www.youtube.com/watch?v=diQ7AFM2HGM",
-    "channel": "Adore Your Wardrobe",
-    "thumbnail": "https://i.ytimg.com/vi/diQ7AFM2HGM/hqdefault.jpg",
-    "duration": 839,
+    "thumbnail": "https://i.ytimg.com/vi/wFoMArgpa2Q/hqdefault.jpg",
+    "duration": 1544,
     "category": "fashion"
   },
   {
@@ -648,21 +648,21 @@
     "category": "fashion"
   },
   {
-    "id": "KwwdruToGD4",
-    "title": "Top 20 Stunning 3D Suits for Women | Latest Indian Fashion Trends 2025 #3dsuits #punjabisuits",
-    "url": "https://www.youtube.com/watch?v=KwwdruToGD4",
-    "channel": "Kaur Trends",
-    "thumbnail": "https://i.ytimg.com/vi/KwwdruToGD4/hqdefault.jpg",
-    "duration": 79,
-    "category": "fashion"
-  },
-  {
     "id": "CCTpxFwZPFg",
     "title": "How Zudio and Westside conquered India’s Fashion market and made 11069 crores?  |  IBP",
     "url": "https://www.youtube.com/watch?v=CCTpxFwZPFg",
     "channel": "Think School",
     "thumbnail": "https://i.ytimg.com/vi/CCTpxFwZPFg/hqdefault.jpg",
     "duration": 3726,
+    "category": "fashion"
+  },
+  {
+    "id": "KwwdruToGD4",
+    "title": "Top 20 Stunning 3D Suits for Women | Latest Indian Fashion Trends 2025 #3dsuits #punjabisuits",
+    "url": "https://www.youtube.com/watch?v=KwwdruToGD4",
+    "channel": "Kaur Trends",
+    "thumbnail": "https://i.ytimg.com/vi/KwwdruToGD4/hqdefault.jpg",
+    "duration": 79,
     "category": "fashion"
   },
   {
@@ -684,30 +684,12 @@
     "category": "fashion"
   },
   {
-    "id": "QE7Q1ob0S7s",
-    "title": "latest Indian fashion trends 2025",
-    "url": "https://www.youtube.com/watch?v=QE7Q1ob0S7s",
-    "channel": "Neha fashion house",
-    "thumbnail": "https://i.ytimg.com/vi/QE7Q1ob0S7s/hqdefault.jpg",
-    "duration": 166,
-    "category": "fashion"
-  },
-  {
     "id": "h7fEPF9l2RE",
     "title": "Indian Fashion Trends What is Actually Cool",
     "url": "https://www.youtube.com/watch?v=h7fEPF9l2RE",
     "channel": "Behaviour Islam",
     "thumbnail": "https://i.ytimg.com/vi/h7fEPF9l2RE/hqdefault.jpg",
     "duration": 99,
-    "category": "fashion"
-  },
-  {
-    "id": "Oo5qGN-acxs",
-    "title": "2025 Indian wear trends • what's going to be trend in 2025 • 2025 fashion trends • STYLE POINT",
-    "url": "https://www.youtube.com/watch?v=Oo5qGN-acxs",
-    "channel": "STYLE POINT",
-    "thumbnail": "https://i.ytimg.com/vi/Oo5qGN-acxs/hqdefault.jpg",
-    "duration": 135,
     "category": "fashion"
   },
   {
@@ -729,6 +711,33 @@
     "category": "fashion"
   },
   {
+    "id": "QE7Q1ob0S7s",
+    "title": "latest Indian fashion trends 2025",
+    "url": "https://www.youtube.com/watch?v=QE7Q1ob0S7s",
+    "channel": "Neha fashion house",
+    "thumbnail": "https://i.ytimg.com/vi/QE7Q1ob0S7s/hqdefault.jpg",
+    "duration": 166,
+    "category": "fashion"
+  },
+  {
+    "id": "Oo5qGN-acxs",
+    "title": "2025 Indian wear trends • what's going to be trend in 2025 • 2025 fashion trends • STYLE POINT",
+    "url": "https://www.youtube.com/watch?v=Oo5qGN-acxs",
+    "channel": "STYLE POINT",
+    "thumbnail": "https://i.ytimg.com/vi/Oo5qGN-acxs/hqdefault.jpg",
+    "duration": 135,
+    "category": "fashion"
+  },
+  {
+    "id": "UWwz7350Uow",
+    "title": "Amazon | The Fashion Situation",
+    "url": "https://www.youtube.com/watch?v=UWwz7350Uow",
+    "channel": "Amazon India",
+    "thumbnail": "https://i.ytimg.com/vi/UWwz7350Uow/hqdefault.jpg",
+    "duration": 30,
+    "category": "fashion"
+  },
+  {
     "id": "Yv5TRDu6kIo",
     "title": "Latest Fashion Trends 2026",
     "url": "https://www.youtube.com/watch?v=Yv5TRDu6kIo",
@@ -738,12 +747,12 @@
     "category": "fashion"
   },
   {
-    "id": "iJtc2_2k7qg",
-    "title": "Indian Fashion Trends 2024: Hottest Styles Everyone's Wearing!#fashion",
-    "url": "https://www.youtube.com/watch?v=iJtc2_2k7qg",
-    "channel": "Sangrish Fashion House ",
-    "thumbnail": "https://i.ytimg.com/vi/iJtc2_2k7qg/hqdefault.jpg",
-    "duration": 128,
+    "id": "HMx4FlnbFEk",
+    "title": "Wedding & Diwali Suit Sets 2026 , Cotton Suits, Mirror Work Gharara, Co-ord & Anaarkali #sale",
+    "url": "https://www.youtube.com/watch?v=HMx4FlnbFEk",
+    "channel": "Vanhula Fashions",
+    "thumbnail": "https://i.ytimg.com/vi/HMx4FlnbFEk/hqdefault.jpg",
+    "duration": 2221,
     "category": "fashion"
   },
   {
@@ -765,57 +774,21 @@
     "category": "fashion"
   },
   {
-    "id": "bYgYZkDZxFA",
-    "title": "Top 15 Ethnic Looks 2026 | Latest Indian Ethnic Fashion Trends 😍 | Trending Ethnic Wear",
-    "url": "https://www.youtube.com/watch?v=bYgYZkDZxFA",
-    "channel": "💡Poonam Ni Creative Duniya 🌷",
-    "thumbnail": "https://i.ytimg.com/vi/bYgYZkDZxFA/hqdefault.jpg",
-    "duration": 21,
+    "id": "cpd2BY1kBSg",
+    "title": "2026 FASHION TRENDS YOU MUST TRY",
+    "url": "https://www.youtube.com/watch?v=cpd2BY1kBSg",
+    "channel": "Vaibhav Keswani",
+    "thumbnail": "https://i.ytimg.com/vi/cpd2BY1kBSg/hqdefault.jpg",
+    "duration": 798,
     "category": "fashion"
   },
   {
-    "id": "05dxGQSQ1-Y",
-    "title": "lacha lengha girl indian fashion style 2025#fashiontrends #dress #lenghacholi ",
-    "url": "https://www.youtube.com/watch?v=05dxGQSQ1-Y",
-    "channel": "fashiongirl032",
-    "thumbnail": "https://i.ytimg.com/vi/05dxGQSQ1-Y/hqdefault.jpg",
-    "duration": 31,
-    "category": "fashion"
-  },
-  {
-    "id": "tRcol4afMoo",
-    "title": "The Evolution of Indian Fashion | From Ancient Times to Modern-Day Trends",
-    "url": "https://www.youtube.com/watch?v=tRcol4afMoo",
-    "channel": "Rhythm of India",
-    "thumbnail": "https://i.ytimg.com/vi/tRcol4afMoo/hqdefault.jpg",
-    "duration": 195,
-    "category": "fashion"
-  },
-  {
-    "id": "qaCEaOVB8BY",
-    "title": "Top 10 Summer Fashion Trends 2026 | Pakistani Fashion | Indian Fashion",
-    "url": "https://www.youtube.com/watch?v=qaCEaOVB8BY",
-    "channel": "Home Mystics",
-    "thumbnail": "https://i.ytimg.com/vi/qaCEaOVB8BY/hqdefault.jpg",
-    "duration": 335,
-    "category": "fashion"
-  },
-  {
-    "id": "ZiurZWhjs2Y",
-    "title": "Reliance Trends Women Latest Diwali Collection November 2026 | Upto 50% | Diwali Festive Finds 🪔🧨",
-    "url": "https://www.youtube.com/watch?v=ZiurZWhjs2Y",
-    "channel": "Sona Family Blog",
-    "thumbnail": "https://i.ytimg.com/vi/ZiurZWhjs2Y/hqdefault.jpg",
-    "duration": 662,
-    "category": "fashion"
-  },
-  {
-    "id": "-Otqfml4WKU",
-    "title": "Indian Fashion trends along with Hungarian Fashion Trends",
-    "url": "https://www.youtube.com/watch?v=-Otqfml4WKU",
-    "channel": "Global India 2021",
-    "thumbnail": "https://i.ytimg.com/vi/-Otqfml4WKU/hqdefault.jpg",
-    "duration": 30,
+    "id": "9ou4yiypQPE",
+    "title": "Fashion Trends That Make You Look 10x Better in 2026 | Fashion Guide for Men",
+    "url": "https://www.youtube.com/watch?v=9ou4yiypQPE",
+    "channel": "Pranav",
+    "thumbnail": "https://i.ytimg.com/vi/9ou4yiypQPE/hqdefault.jpg",
+    "duration": 209,
     "category": "fashion"
   },
   {
@@ -828,48 +801,57 @@
     "category": "fashion"
   },
   {
-    "id": "8Imm96w-qCY",
-    "title": "INDIAN FASHION TRENDS 2016 ( BE OFFICIAL BLOGGERS",
-    "url": "https://www.youtube.com/watch?v=8Imm96w-qCY",
-    "channel": "Blogger expo",
-    "thumbnail": "https://i.ytimg.com/vi/8Imm96w-qCY/hqdefault.jpg",
-    "duration": 57,
+    "id": "05dxGQSQ1-Y",
+    "title": "lacha lengha girl indian fashion style 2025#fashiontrends #dress #lenghacholi ",
+    "url": "https://www.youtube.com/watch?v=05dxGQSQ1-Y",
+    "channel": "fashiongirl032",
+    "thumbnail": "https://i.ytimg.com/vi/05dxGQSQ1-Y/hqdefault.jpg",
+    "duration": 31,
     "category": "fashion"
   },
   {
-    "id": "FKiC61269vo",
-    "title": "Dream Trends - Indian Fashion",
-    "url": "https://www.youtube.com/watch?v=FKiC61269vo",
-    "channel": "dream trends",
-    "thumbnail": "https://i.ytimg.com/vi/FKiC61269vo/hqdefault.jpg",
-    "duration": 51,
+    "id": "bYgYZkDZxFA",
+    "title": "Top 15 Ethnic Looks 2026 | Latest Indian Ethnic Fashion Trends 😍 | Trending Ethnic Wear",
+    "url": "https://www.youtube.com/watch?v=bYgYZkDZxFA",
+    "channel": "💡Poonam Ni Creative Duniya 🌷",
+    "thumbnail": "https://i.ytimg.com/vi/bYgYZkDZxFA/hqdefault.jpg",
+    "duration": 21,
     "category": "fashion"
   },
   {
-    "id": "R0ptUQYNTtE",
-    "title": " India Shopping Haul 🇮🇳 | Sarees, Dresses, Kids Clothes & Shoes | India to USA 🇺🇸 Shopping",
-    "url": "https://www.youtube.com/watch?v=R0ptUQYNTtE",
-    "channel": "Ishira DJ",
-    "thumbnail": "https://i.ytimg.com/vi/R0ptUQYNTtE/hqdefault.jpg",
-    "duration": 1430,
+    "id": "qaCEaOVB8BY",
+    "title": "Top 10 Summer Fashion Trends 2026 | Pakistani Fashion | Indian Fashion",
+    "url": "https://www.youtube.com/watch?v=qaCEaOVB8BY",
+    "channel": "Home Mystics",
+    "thumbnail": "https://i.ytimg.com/vi/qaCEaOVB8BY/hqdefault.jpg",
+    "duration": 335,
     "category": "fashion"
   },
   {
-    "id": "-QWPBbbbBe8",
-    "title": "Indian traditional saree fashion show",
-    "url": "https://www.youtube.com/watch?v=-QWPBbbbBe8",
-    "channel": "Saree Lover Pinki Tiwari ",
-    "thumbnail": "https://i.ytimg.com/vi/-QWPBbbbBe8/hqdefault.jpg",
-    "duration": 212,
+    "id": "E-ZjW_T0rks",
+    "title": "TRENDS IN INDIAN BRIDAL FASHION",
+    "url": "https://www.youtube.com/watch?v=E-ZjW_T0rks",
+    "channel": "Lawfully Fashionable by Anchal",
+    "thumbnail": "https://i.ytimg.com/vi/E-ZjW_T0rks/hqdefault.jpg",
+    "duration": 854,
     "category": "fashion"
   },
   {
-    "id": "9149iBA6OcY",
-    "title": "Inside India’s Most EXCLUSIVE Fashion Show – You’ve Never Seen This Before 🔥",
-    "url": "https://www.youtube.com/watch?v=9149iBA6OcY",
-    "channel": "Uvichar",
-    "thumbnail": "https://i.ytimg.com/vi/9149iBA6OcY/hqdefault.jpg",
-    "duration": 1885,
+    "id": "MDFJtXg37e8",
+    "title": "Top Elegant Silk Saree Styles 2026 , Traditional Indian Saree Fashion Lookbook | #fashiontrends ",
+    "url": "https://www.youtube.com/watch?v=MDFJtXg37e8",
+    "channel": "Couturier Design Official",
+    "thumbnail": "https://i.ytimg.com/vi/MDFJtXg37e8/hqdefault.jpg",
+    "duration": 89,
+    "category": "fashion"
+  },
+  {
+    "id": "6UFkgOkh7BU",
+    "title": "𝐒𝐚𝐫𝐞𝐞 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐕𝐥𝐨𝐠 | 𝐌𝐨𝐝𝐞𝐥 𝐀𝐑𝐏𝐈𝐓𝐀 𝐒𝐀𝐇𝐀 | 𝐁𝐨𝐧𝐠 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐨𝐧𝐠 𝐁𝐞𝐚𝐮𝐭𝐲 | 𝐈𝐧𝐝𝐢𝐚𝐧 𝐌𝐨𝐝𝐞𝐥 | 𝐒𝐚𝐫𝐞𝐞 𝐒𝐮𝐧𝐝𝐚𝐫𝐢 |",
+    "url": "https://www.youtube.com/watch?v=6UFkgOkh7BU",
+    "channel": "FASHION 24",
+    "thumbnail": "https://i.ytimg.com/vi/6UFkgOkh7BU/hqdefault.jpg",
+    "duration": 548,
     "category": "fashion"
   },
   {
@@ -882,39 +864,12 @@
     "category": "fashion"
   },
   {
-    "id": "gO4cO_Ns_NM",
-    "title": "India Shopping Haul 2026 | Saree, Suits, Bags | Fashion Finds | NRI, London",
-    "url": "https://www.youtube.com/watch?v=gO4cO_Ns_NM",
-    "channel": "neha'sCreativity-Indian Mom in London ",
-    "thumbnail": "https://i.ytimg.com/vi/gO4cO_Ns_NM/hqdefault.jpg",
-    "duration": 1771,
-    "category": "fashion"
-  },
-  {
-    "id": "x_VqmyWzcSU",
-    "title": "Budhwar Peth Pune $8 Shopping Vlog | Buying Clothes, Stylish Watches & Jewellery #BudhwarPeth",
-    "url": "https://www.youtube.com/watch?v=x_VqmyWzcSU",
-    "channel": "BP Street Clips (( Casual ))",
-    "thumbnail": "https://i.ytimg.com/vi/x_VqmyWzcSU/hqdefault.jpg",
-    "duration": 442,
-    "category": "fashion"
-  },
-  {
-    "id": "qktZx_oKW6M",
-    "title": "Desi Elegance & Glamour | Indian Saree Fashion Shoot | Dynamic Video-Hub",
-    "url": "https://www.youtube.com/watch?v=qktZx_oKW6M",
-    "channel": "Dynamic Video-Hub ",
-    "thumbnail": "https://i.ytimg.com/vi/qktZx_oKW6M/hqdefault.jpg",
-    "duration": 191,
-    "category": "fashion"
-  },
-  {
-    "id": "7T-90ovV_-A",
-    "title": "Exploring the NEW South India Shopping Mall!😲 | Sarees, Jewellery, Clothes & More❤️| Full Mall Tour!",
-    "url": "https://www.youtube.com/watch?v=7T-90ovV_-A",
-    "channel": "Sweet Home",
-    "thumbnail": "https://i.ytimg.com/vi/7T-90ovV_-A/hqdefault.jpg",
-    "duration": 1326,
+    "id": "ZXv5_Ot928c",
+    "title": "INTRO | SAREE FASHION VLOG | GLAMAZON FASHION | 2025",
+    "url": "https://www.youtube.com/watch?v=ZXv5_Ot928c",
+    "channel": "Glamazon Fashion",
+    "thumbnail": "https://i.ytimg.com/vi/ZXv5_Ot928c/hqdefault.jpg",
+    "duration": 7,
     "category": "fashion"
   },
   {
@@ -927,21 +882,111 @@
     "category": "fashion"
   },
   {
-    "id": "ceoyeyC4rls",
-    "title": "Things I wish I knew, before doing Fashion Design in India. *Brutal honesty*",
-    "url": "https://www.youtube.com/watch?v=ceoyeyC4rls",
-    "channel": "With love, Christina ",
-    "thumbnail": "https://i.ytimg.com/vi/ceoyeyC4rls/hqdefault.jpg",
-    "duration": 580,
+    "id": "8naPMKEP2WA",
+    "title": "𝐁𝐄 𝐁𝐎𝐋𝐃 𝐁𝐄 𝐁𝐄𝐀𝐔𝐓𝐈𝐅𝐔𝐋  𝙈𝙤𝙙𝙚𝙡 𝙄𝙎𝙃𝘼𝙉𝙄 |4K| 2025 #saree #style #fashion #video #love",
+    "url": "https://www.youtube.com/watch?v=8naPMKEP2WA",
+    "channel": "Raj Creation",
+    "thumbnail": "https://i.ytimg.com/vi/8naPMKEP2WA/hqdefault.jpg",
+    "duration": 429,
     "category": "fashion"
   },
   {
-    "id": "3t_9oAPboz4",
-    "title": "the westernization of indian fashion [they don't want to credit us]",
-    "url": "https://www.youtube.com/watch?v=3t_9oAPboz4",
-    "channel": "genie",
-    "thumbnail": "https://i.ytimg.com/vi/3t_9oAPboz4/hqdefault.jpg",
-    "duration": 1049,
+    "id": "gQChhsG1TBA",
+    "title": "FASHION ULLAS LOGO | FASHION VLOG #sareelover #saree #sareefashion #fashiontrends #bengalisaree",
+    "url": "https://www.youtube.com/watch?v=gQChhsG1TBA",
+    "channel": "Fashion Ullas",
+    "thumbnail": "https://i.ytimg.com/vi/gQChhsG1TBA/hqdefault.jpg",
+    "duration": 13,
+    "category": "fashion"
+  },
+  {
+    "id": "skEU9OgQtlQ",
+    "title": "Model CANDY | Saree Fashion Video | Bong Beauty | Indian Model | Saree Sundari | Bong Saree Video",
+    "url": "https://www.youtube.com/watch?v=skEU9OgQtlQ",
+    "channel": "FASHION 24",
+    "thumbnail": "https://i.ytimg.com/vi/skEU9OgQtlQ/hqdefault.jpg",
+    "duration": 551,
+    "category": "fashion"
+  },
+  {
+    "id": "J8QvsQJ0-3g",
+    "title": "NEELAM | INDO WESTERN SAREE LOOKS | BINDASS FASHION | FASHION VLOG | FASHION VIDEO",
+    "url": "https://www.youtube.com/watch?v=J8QvsQJ0-3g",
+    "channel": "Bindass Fashion ",
+    "thumbnail": "https://i.ytimg.com/vi/J8QvsQJ0-3g/hqdefault.jpg",
+    "duration": 11,
+    "category": "fashion"
+  },
+  {
+    "id": "sOhcPPqn6ng",
+    "title": "Poonam tiwari | New Sleevless blouse design | Saree fashion video | Saree | Saree fashion india",
+    "url": "https://www.youtube.com/watch?v=sOhcPPqn6ng",
+    "channel": "Sneha Beauty",
+    "thumbnail": "https://i.ytimg.com/vi/sOhcPPqn6ng/hqdefault.jpg",
+    "duration": 303,
+    "category": "fashion"
+  },
+  {
+    "id": "7qnOZyIj6b4",
+    "title": "Trending Saree Draping Style | Saree Fashion Vlog | Saree Look | Glam Touch",
+    "url": "https://www.youtube.com/watch?v=7qnOZyIj6b4",
+    "channel": "Glam Touch",
+    "thumbnail": "https://i.ytimg.com/vi/7qnOZyIj6b4/hqdefault.jpg",
+    "duration": 20,
+    "category": "fashion"
+  },
+  {
+    "id": "4Px2B7VH7Ec",
+    "title": "𝐌𝐎𝐃𝐄𝐋 𝐃𝐄𝐁𝐀𝐒𝐑𝐄𝐄 | 𝐁𝐎𝐋𝐃 𝐒𝐀𝐑𝐄𝐄 𝐅𝐀𝐒𝐇𝐈𝐎𝐍 𝐕𝐈𝐃𝐄𝐎 | 𝐁𝐨𝐧𝐠 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐨𝐧𝐠 𝐁𝐞𝐚𝐮𝐭𝐲 | 𝐈𝐧𝐝𝐢𝐚𝐧 𝐌𝐨𝐝𝐞𝐥 |  𝐒𝐚𝐫𝐢 𝐒𝐮𝐧𝐝𝐚𝐫𝐢",
+    "url": "https://www.youtube.com/watch?v=4Px2B7VH7Ec",
+    "channel": "FASHION 24",
+    "thumbnail": "https://i.ytimg.com/vi/4Px2B7VH7Ec/hqdefault.jpg",
+    "duration": 80,
+    "category": "fashion"
+  },
+  {
+    "id": "kKazJkO7Lko",
+    "title": "Model NISHA | Western Fashion Video | Bong Beauty | Indian Model | Saree Sundari | Indian Beauty",
+    "url": "https://www.youtube.com/watch?v=kKazJkO7Lko",
+    "channel": "FASHION 24",
+    "thumbnail": "https://i.ytimg.com/vi/kKazJkO7Lko/hqdefault.jpg",
+    "duration": 558,
+    "category": "fashion"
+  },
+  {
+    "id": "TUBLChxThMY",
+    "title": "SHOPPING VLOG | Zara | Uniqlo | Men’s Fashion #mensfashion #fashion #zara #shopping #vlog ",
+    "url": "https://www.youtube.com/watch?v=TUBLChxThMY",
+    "channel": "Gursimar Singh",
+    "thumbnail": "https://i.ytimg.com/vi/TUBLChxThMY/hqdefault.jpg",
+    "duration": 651,
+    "category": "fashion"
+  },
+  {
+    "id": "gVrIXyhNZ8Y",
+    "title": "Ethnic FLAT 50% 30%OFF SALE & New Collection ♥️11.11 SALE 📣 ethnic sale 2026🔥😱ethnic New Arrival ",
+    "url": "https://www.youtube.com/watch?v=gVrIXyhNZ8Y",
+    "channel": "hsk vlogs",
+    "thumbnail": "https://i.ytimg.com/vi/gVrIXyhNZ8Y/hqdefault.jpg",
+    "duration": 1490,
+    "category": "fashion"
+  },
+  {
+    "id": "7aAz5v5qlB0",
+    "title": "Rubi_Saree Fashion Vlog | Saree Fashion Bangali Beauty | Saree | Bong Girl | Sneha Beauty #fashion ",
+    "url": "https://www.youtube.com/watch?v=7aAz5v5qlB0",
+    "channel": "Sneha Beauty",
+    "thumbnail": "https://i.ytimg.com/vi/7aAz5v5qlB0/hqdefault.jpg",
+    "duration": 249,
+    "category": "fashion"
+  },
+  {
+    "id": "x_VqmyWzcSU",
+    "title": "Budhwar Peth Pune $8 Shopping Vlog | Buying Clothes, Stylish Watches & Jewellery #BudhwarPeth",
+    "url": "https://www.youtube.com/watch?v=x_VqmyWzcSU",
+    "channel": "BP Street Clips (( Casual ))",
+    "thumbnail": "https://i.ytimg.com/vi/x_VqmyWzcSU/hqdefault.jpg",
+    "duration": 442,
     "category": "fashion"
   },
   {
@@ -954,57 +999,30 @@
     "category": "fashion"
   },
   {
-    "id": "Xsj3cOkiOgI",
-    "title": "SAREE SUNDORI ft. RIYA ROY | INDIAN AURA FASHION VLOG | RIYA IS BACK! MUST WATCH!!",
-    "url": "https://www.youtube.com/watch?v=Xsj3cOkiOgI",
-    "channel": "Indian Aura",
-    "thumbnail": "https://i.ytimg.com/vi/Xsj3cOkiOgI/hqdefault.jpg",
-    "duration": 314,
+    "id": "sJe9Iaibg0E",
+    "title": "𝐒𝐚𝐫𝐞𝐞 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐕𝐥𝐨𝐠 | 𝐌𝐨𝐝𝐞𝐥 𝐀𝐑𝐏𝐈𝐓𝐀 𝐒𝐀𝐇𝐀 | 𝐁𝐨𝐧𝐠 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐨𝐧𝐠 𝐁𝐞𝐚𝐮𝐭𝐲 | 𝐈𝐧𝐝𝐢𝐚𝐧 𝐌𝐨𝐝𝐞𝐥 | 𝐒𝐚𝐫𝐞𝐞 𝐒𝐮𝐧𝐝𝐚𝐫𝐢 |",
+    "url": "https://www.youtube.com/watch?v=sJe9Iaibg0E",
+    "channel": "FASHION 24",
+    "thumbnail": "https://i.ytimg.com/vi/sJe9Iaibg0E/hqdefault.jpg",
+    "duration": 613,
     "category": "fashion"
   },
   {
-    "id": "paoeEV1tKeI",
-    "title": "Inside India’s Most Glamorous Fashion Show! ✨ | Abhinav Mishra",
-    "url": "https://www.youtube.com/watch?v=paoeEV1tKeI",
-    "channel": "Uvichar",
-    "thumbnail": "https://i.ytimg.com/vi/paoeEV1tKeI/hqdefault.jpg",
-    "duration": 769,
+    "id": "BoSW8rSDQyA",
+    "title": "Saree Fashion Vlog I Moon Das Trailer I Ethnic Shoot I  Indian Beauty I Bong Beauty",
+    "url": "https://www.youtube.com/watch?v=BoSW8rSDQyA",
+    "channel": "FASHION 24",
+    "thumbnail": "https://i.ytimg.com/vi/BoSW8rSDQyA/hqdefault.jpg",
+    "duration": 54,
     "category": "fashion"
   },
   {
-    "id": "2bpNb8NmV88",
-    "title": "My Australian Wife’s First Day Living in India 🇮🇳",
-    "url": "https://www.youtube.com/watch?v=2bpNb8NmV88",
-    "channel": "Desi x Aussie",
-    "thumbnail": "https://i.ytimg.com/vi/2bpNb8NmV88/hqdefault.jpg",
-    "duration": 999,
-    "category": "fashion"
-  },
-  {
-    "id": "gSBlCK8oCH0",
-    "title": "Inside a Clothing Factory in India",
-    "url": "https://www.youtube.com/watch?v=gSBlCK8oCH0",
-    "channel": "Will Lasry",
-    "thumbnail": "https://i.ytimg.com/vi/gSBlCK8oCH0/hqdefault.jpg",
-    "duration": 722,
-    "category": "fashion"
-  },
-  {
-    "id": "u9V754W-yKY",
-    "title": "Starting a clothing brand in India as a 21yo | Vlog | paiichuuu",
-    "url": "https://www.youtube.com/watch?v=u9V754W-yKY",
-    "channel": "Paiichuuu",
-    "thumbnail": "https://i.ytimg.com/vi/u9V754W-yKY/hqdefault.jpg",
-    "duration": 380,
-    "category": "fashion"
-  },
-  {
-    "id": "j17-33Tqq4c",
-    "title": "From Jaywalking to India’s Biggest Luxury Fashion Store 📍 South Bombay Streetwear Finds",
-    "url": "https://www.youtube.com/watch?v=j17-33Tqq4c",
-    "channel": "Smart Kicks",
-    "thumbnail": "https://i.ytimg.com/vi/j17-33Tqq4c/hqdefault.jpg",
-    "duration": 1015,
+    "id": "J3oCjIK8yVA",
+    "title": "PRODUCTIVE fashion student vlog 📓🩰: Uni assignments, new sewing machine, locking in, etc.",
+    "url": "https://www.youtube.com/watch?v=J3oCjIK8yVA",
+    "channel": "zoe ng",
+    "thumbnail": "https://i.ytimg.com/vi/J3oCjIK8yVA/hqdefault.jpg",
+    "duration": 1127,
     "category": "fashion"
   },
   {
@@ -1026,12 +1044,21 @@
     "category": "fashion"
   },
   {
-    "id": "P8o4tYQrfgs",
-    "title": "ITALIAN Timeless ELEGANCE: The Art of Milanese Chic Women's Winter Style / Milan Street Fashion ",
-    "url": "https://www.youtube.com/watch?v=P8o4tYQrfgs",
-    "channel": "IKAMODA",
-    "thumbnail": "https://i.ytimg.com/vi/P8o4tYQrfgs/hqdefault.jpg",
-    "duration": 2074,
+    "id": "dj9kwBlMzvo",
+    "title": "November 2026 Milan Street Style 🇮🇹 New Autumn Winter Fashion Trends & Timeless Italian Outfits",
+    "url": "https://www.youtube.com/watch?v=dj9kwBlMzvo",
+    "channel": "Fashion Streets",
+    "thumbnail": "https://i.ytimg.com/vi/dj9kwBlMzvo/hqdefault.jpg",
+    "duration": 1606,
+    "category": "fashion"
+  },
+  {
+    "id": "DPEodkHzH-s",
+    "title": "Tate McRae - Housewife (Official Video)",
+    "url": "https://www.youtube.com/watch?v=DPEodkHzH-s",
+    "channel": "Tate McRae",
+    "thumbnail": "https://i.ytimg.com/vi/DPEodkHzH-s/hqdefault.jpg",
+    "duration": 210,
     "category": "fashion"
   },
   {
@@ -1053,51 +1080,6 @@
     "category": "fashion"
   },
   {
-    "id": "dj9kwBlMzvo",
-    "title": "November 2026 Milan Street Style 🇮🇹 New Autumn Winter Fashion Trends & Timeless Italian Outfits",
-    "url": "https://www.youtube.com/watch?v=dj9kwBlMzvo",
-    "channel": "Fashion Streets",
-    "thumbnail": "https://i.ytimg.com/vi/dj9kwBlMzvo/hqdefault.jpg",
-    "duration": 1606,
-    "category": "fashion"
-  },
-  {
-    "id": "DPEodkHzH-s",
-    "title": "Tate McRae - Housewife (Official Video)",
-    "url": "https://www.youtube.com/watch?v=DPEodkHzH-s",
-    "channel": "Tate McRae",
-    "thumbnail": "https://i.ytimg.com/vi/DPEodkHzH-s/hqdefault.jpg",
-    "duration": 210,
-    "category": "fashion"
-  },
-  {
-    "id": "YIJXsn1Xng8",
-    "title": "GLOBAL FASHION COLLECTIVE Spring 2027 Paris edition #2 - 4K",
-    "url": "https://www.youtube.com/watch?v=YIJXsn1Xng8",
-    "channel": "Fashion Channel",
-    "thumbnail": "https://i.ytimg.com/vi/YIJXsn1Xng8/hqdefault.jpg",
-    "duration": 1599,
-    "category": "fashion"
-  },
-  {
-    "id": "49ebQwFA21k",
-    "title": "Best of London Fashion Week || Latest fashion video",
-    "url": "https://www.youtube.com/watch?v=49ebQwFA21k",
-    "channel": "Fashion Magnet FMM",
-    "thumbnail": "https://i.ytimg.com/vi/49ebQwFA21k/hqdefault.jpg",
-    "duration": 165,
-    "category": "fashion"
-  },
-  {
-    "id": "uo4JWL45ESY",
-    "title": "Tate McRae - 2026 Victoria's Secret Fashion Show Performance",
-    "url": "https://www.youtube.com/watch?v=uo4JWL45ESY",
-    "channel": "Tate McRae",
-    "thumbnail": "https://i.ytimg.com/vi/uo4JWL45ESY/hqdefault.jpg",
-    "duration": 542,
-    "category": "fashion"
-  },
-  {
     "id": "7tift39QR40",
     "title": "ZARA WOMEN'S LATEST FASHION COLLECTION | NEW IN | NOVEMBER 2026",
     "url": "https://www.youtube.com/watch?v=7tift39QR40",
@@ -1107,12 +1089,12 @@
     "category": "fashion"
   },
   {
-    "id": "Uycdkf04i7k",
-    "title": "🔥Classy Lace Styles for Elegant Ladies | Latest African Lace Fashion 2026/2027 #ClassyLaceStyles ",
-    "url": "https://www.youtube.com/watch?v=Uycdkf04i7k",
-    "channel": "Shula's Fashion World 🌍",
-    "thumbnail": "https://i.ytimg.com/vi/Uycdkf04i7k/hqdefault.jpg",
-    "duration": 556,
+    "id": "SitEJ8zLBzk",
+    "title": "ZARA WOMEN’S COLLECTION 2026|Special Prices, Latest Fashion Trends & Online Shopping Haul|Zara Sale",
+    "url": "https://www.youtube.com/watch?v=SitEJ8zLBzk",
+    "channel": "Life style with Aisha",
+    "thumbnail": "https://i.ytimg.com/vi/SitEJ8zLBzk/hqdefault.jpg",
+    "duration": 334,
     "category": "fashion"
   },
   {
@@ -1134,12 +1116,21 @@
     "category": "fashion"
   },
   {
-    "id": "GlgakZ76kYM",
-    "title": "You NEED to see this WALMART HAUL‼️ * Brand NEW* Walmart Fashion Finds | Walmart Try-On Haul 🌟",
-    "url": "https://www.youtube.com/watch?v=GlgakZ76kYM",
-    "channel": "Madison Payne",
-    "thumbnail": "https://i.ytimg.com/vi/GlgakZ76kYM/hqdefault.jpg",
-    "duration": 1300,
+    "id": "49ebQwFA21k",
+    "title": "Best of London Fashion Week || Latest fashion video",
+    "url": "https://www.youtube.com/watch?v=49ebQwFA21k",
+    "channel": "Fashion Magnet FMM",
+    "thumbnail": "https://i.ytimg.com/vi/49ebQwFA21k/hqdefault.jpg",
+    "duration": 165,
+    "category": "fashion"
+  },
+  {
+    "id": "Uycdkf04i7k",
+    "title": "🔥Classy Lace Styles for Elegant Ladies | Latest African Lace Fashion 2026/2027 #ClassyLaceStyles ",
+    "url": "https://www.youtube.com/watch?v=Uycdkf04i7k",
+    "channel": "Shula's Fashion World 🌍",
+    "thumbnail": "https://i.ytimg.com/vi/Uycdkf04i7k/hqdefault.jpg",
+    "duration": 556,
     "category": "fashion"
   },
   {
@@ -1185,6 +1176,24 @@
     "channel": "Harry Styles",
     "thumbnail": "https://i.ytimg.com/vi/M4qX5wzx-wY/hqdefault.jpg",
     "duration": 257,
+    "category": "fashion"
+  },
+  {
+    "id": "UxXY_hR_wzo",
+    "title": "LISA - NEW WOMAN feat. Rosalía (Official Music Video)",
+    "url": "https://www.youtube.com/watch?v=UxXY_hR_wzo",
+    "channel": "LLOUD Official",
+    "thumbnail": "https://i.ytimg.com/vi/UxXY_hR_wzo/hqdefault.jpg",
+    "duration": 192,
+    "category": "fashion"
+  },
+  {
+    "id": "5ITVhNc9P9g",
+    "title": "SAVANA HAUL 🎀 | Unboxing My Latest Fashion Finds! 💗✨",
+    "url": "https://www.youtube.com/watch?v=5ITVhNc9P9g",
+    "channel": "Sapna Chanana",
+    "thumbnail": "https://i.ytimg.com/vi/5ITVhNc9P9g/hqdefault.jpg",
+    "duration": 583,
     "category": "fashion"
   }
 ]
