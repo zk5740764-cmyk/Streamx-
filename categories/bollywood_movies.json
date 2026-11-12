@@ -1,5 +1,50 @@
 [
   {
+    "id": "fA8-gXDoAk8",
+    "title": "Maatrubhumi - Trailer | Salman Khan, Chitrangda Singh | Apoorva Lakhia | 4th December 2026",
+    "url": "https://www.youtube.com/watch?v=fA8-gXDoAk8",
+    "channel": "Salman Khan Films",
+    "thumbnail": "https://i.ytimg.com/vi/fA8-gXDoAk8/hqdefault.jpg",
+    "duration": 275,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "vPSOb5Tci5M",
+    "title": "SNAPPER Full Movie | Salman Khan, Jacqueline Fernandez, Anil Kapoor | Action Thriller 2026",
+    "url": "https://www.youtube.com/watch?v=vPSOb5Tci5M",
+    "channel": "Saanvi Records",
+    "thumbnail": "https://i.ytimg.com/vi/vPSOb5Tci5M/hqdefault.jpg",
+    "duration": 7642,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "Dv7WxKoc1bk",
+    "title": "DAANAV (2026) Full Horror Movie | Hrithik Roshan, Deepika Padukone | Superhit Hindi Thriller HD",
+    "url": "https://www.youtube.com/watch?v=Dv7WxKoc1bk",
+    "channel": "StarFlix Cinema",
+    "thumbnail": "https://i.ytimg.com/vi/Dv7WxKoc1bk/hqdefault.jpg",
+    "duration": 8825,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "JWQ_Wl5gvqA",
+    "title": "YAARA (2026) Full Movie | Vidyut Jammwal & Shruti Haasan | New Released Bollywood Crime Movie",
+    "url": "https://www.youtube.com/watch?v=JWQ_Wl5gvqA",
+    "channel": "RDC Bollywood Buzz",
+    "thumbnail": "https://i.ytimg.com/vi/JWQ_Wl5gvqA/hqdefault.jpg",
+    "duration": 6407,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "zHtF44WCJxg",
+    "title": "Mass Leader (2026) New Released Full Hindi Dubbed Movie | Shivaraj | Mass Leader Hindi Dubbed Movie",
+    "url": "https://www.youtube.com/watch?v=zHtF44WCJxg",
+    "channel": "The Playhouse",
+    "thumbnail": "https://i.ytimg.com/vi/zHtF44WCJxg/hqdefault.jpg",
+    "duration": 6862,
+    "category": "bollywood_movies"
+  },
+  {
     "id": "RK1M11LnYKc",
     "title": "SAAND KI AANKH\" (2026) -\"Taapsee Pannu & Bhumi Pednekar\" | New Released Bollywood Full Hindi Movie",
     "url": "https://www.youtube.com/watch?v=RK1M11LnYKc",
@@ -9,12 +54,75 @@
     "category": "bollywood_movies"
   },
   {
+    "id": "_eWniEuva5c",
+    "title": "PANIPAT (Full Movie) Arjun Kapoor | Sanjay Dutt | Kriti Sanon | Bollywood Full Historical Movie",
+    "url": "https://www.youtube.com/watch?v=_eWniEuva5c",
+    "channel": "South Jalwa",
+    "thumbnail": "https://i.ytimg.com/vi/_eWniEuva5c/hqdefault.jpg",
+    "duration": 8721,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "uL_L8TOrjco",
+    "title": "Alpha (2026) Full Movie | Alia Bhatt,  & Hrithik Roshan | Bollywood Action Thriller | Hindi Movie",
+    "url": "https://www.youtube.com/watch?v=uL_L8TOrjco",
+    "channel": "Tastymovie",
+    "thumbnail": "https://i.ytimg.com/vi/uL_L8TOrjco/hqdefault.jpg",
+    "duration": 9083,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "lyfOzaFiptE",
+    "title": "Immortal (2026) New Released Hindi Dubbed Full Movie | Starring G. V. Prakash & Kayadu Lohar",
+    "url": "https://www.youtube.com/watch?v=lyfOzaFiptE",
+    "channel": "RG Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/lyfOzaFiptE/hqdefault.jpg",
+    "duration": 7251,
+    "category": "bollywood_movies"
+  },
+  {
     "id": "wZMUCSpylJc",
     "title": "Kuwari (2026) Full Movie In Hindi Dub | Vijay Thalapathy | New South Indian Hindi Dubbed Movies 2026",
     "url": "https://www.youtube.com/watch?v=wZMUCSpylJc",
     "channel": "Movie Sung",
     "thumbnail": "https://i.ytimg.com/vi/wZMUCSpylJc/hqdefault.jpg",
     "duration": 7889,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "LCUOSkNOTNI",
+    "title": "Rahu Ketu (2026) | Pulkit Samrat, Shalini Pandey, Varun Sharma, Chunky Panday | Comedy Hindi Movie",
+    "url": "https://www.youtube.com/watch?v=LCUOSkNOTNI",
+    "channel": "RKD Movies",
+    "thumbnail": "https://i.ytimg.com/vi/LCUOSkNOTNI/hqdefault.jpg",
+    "duration": 7695,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "9L8qGIsB1bo",
+    "title": "Toxic (2026) New Released Hindi Dubbed Full Movie | Starring Yash, Kiara Advani, Nayanthara, Huma",
+    "url": "https://www.youtube.com/watch?v=9L8qGIsB1bo",
+    "channel": "RG Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/9L8qGIsB1bo/hqdefault.jpg",
+    "duration": 10154,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "4AYonITaPiw",
+    "title": "MARCO Full Movie | New (2026) Released South Indian Movie Dubbed In Hindi | Unni Mukundan | Action",
+    "url": "https://www.youtube.com/watch?v=4AYonITaPiw",
+    "channel": "Premium Digiplex Movies",
+    "thumbnail": "https://i.ytimg.com/vi/4AYonITaPiw/hqdefault.jpg",
+    "duration": 8092,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "RcyW7YQ_5WU",
+    "title": "Welcome to the Jungle (2026) Latest Hindi Full Movie | Starring Akshay Kumar, Suniel Shetty, Disha",
+    "url": "https://www.youtube.com/watch?v=RcyW7YQ_5WU",
+    "channel": "RG Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/RcyW7YQ_5WU/hqdefault.jpg",
+    "duration": 8081,
     "category": "bollywood_movies"
   },
   {
@@ -36,147 +144,12 @@
     "category": "bollywood_movies"
   },
   {
-    "id": "LCUOSkNOTNI",
-    "title": "Rahu Ketu (2026) | Pulkit Samrat, Shalini Pandey, Varun Sharma, Chunky Panday | Comedy Hindi Movie",
-    "url": "https://www.youtube.com/watch?v=LCUOSkNOTNI",
-    "channel": "RKD Movies",
-    "thumbnail": "https://i.ytimg.com/vi/LCUOSkNOTNI/hqdefault.jpg",
-    "duration": 7695,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "vPSOb5Tci5M",
-    "title": "SNAPPER Full Movie | Salman Khan, Jacqueline Fernandez, Anil Kapoor | Action Thriller 2026",
-    "url": "https://www.youtube.com/watch?v=vPSOb5Tci5M",
-    "channel": "Saanvi Records",
-    "thumbnail": "https://i.ytimg.com/vi/vPSOb5Tci5M/hqdefault.jpg",
-    "duration": 7642,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "Ge-kiERQduY",
-    "title": "CHITRADURGA Full Movie 2026 | Prabhas & Sreeleela | Sanjay Dutt New Released South Action Movie 2026",
-    "url": "https://www.youtube.com/watch?v=Ge-kiERQduY",
-    "channel": "Super High Pictures",
-    "thumbnail": "https://i.ytimg.com/vi/Ge-kiERQduY/hqdefault.jpg",
-    "duration": 8905,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "4JudJYuf6aI",
-    "title": "THE TRIAL (2026) New Release South Crime Mystery Hindi Dubbed Full Movie | Latest South Movie",
-    "url": "https://www.youtube.com/watch?v=4JudJYuf6aI",
-    "channel": "RDC South Dubbed",
-    "thumbnail": "https://i.ytimg.com/vi/4JudJYuf6aI/hqdefault.jpg",
-    "duration": 5721,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "fA8-gXDoAk8",
-    "title": "Maatrubhumi - Trailer | Salman Khan, Chitrangda Singh | Apoorva Lakhia | 4th December 2026",
-    "url": "https://www.youtube.com/watch?v=fA8-gXDoAk8",
-    "channel": "Salman Khan Films",
-    "thumbnail": "https://i.ytimg.com/vi/fA8-gXDoAk8/hqdefault.jpg",
-    "duration": 275,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "_eWniEuva5c",
-    "title": "PANIPAT (Full Movie) Arjun Kapoor | Sanjay Dutt | Kriti Sanon | Bollywood Full Historical Movie",
-    "url": "https://www.youtube.com/watch?v=_eWniEuva5c",
+    "id": "I_ZOgp680zQ",
+    "title": "Nikamma Full Movie | Shilpa Shetty | Shirley Setia | Abhimanyu Dassani | Bollywood Action Movie",
+    "url": "https://www.youtube.com/watch?v=I_ZOgp680zQ",
     "channel": "South Jalwa",
-    "thumbnail": "https://i.ytimg.com/vi/_eWniEuva5c/hqdefault.jpg",
-    "duration": 8721,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "XJiSexwrICg",
-    "title": "GAURI (2026) Full Action Movie | Salman Khan | New Bollywood Superhit Full Action Movies 2026",
-    "url": "https://www.youtube.com/watch?v=XJiSexwrICg",
-    "channel": "Super High Pictures",
-    "thumbnail": "https://i.ytimg.com/vi/XJiSexwrICg/hqdefault.jpg",
-    "duration": 8840,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "RcyW7YQ_5WU",
-    "title": "Welcome to the Jungle (2026) Latest Hindi Full Movie | Starring Akshay Kumar, Suniel Shetty, Disha",
-    "url": "https://www.youtube.com/watch?v=RcyW7YQ_5WU",
-    "channel": "RG Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/RcyW7YQ_5WU/hqdefault.jpg",
-    "duration": 8081,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "LdrPB0KMQWI",
-    "title": "DRISHYAM 3 | Full Movie HD| Ajay Devgn & Amala Paul New Blockbuster Action Thriller Movie HD",
-    "url": "https://www.youtube.com/watch?v=LdrPB0KMQWI",
-    "channel": "Kuber Cinema",
-    "thumbnail": "https://i.ytimg.com/vi/LdrPB0KMQWI/hqdefault.jpg",
-    "duration": 7359,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "9L8qGIsB1bo",
-    "title": "Toxic (2026) New Released Hindi Dubbed Full Movie | Starring Yash, Kiara Advani, Nayanthara, Huma",
-    "url": "https://www.youtube.com/watch?v=9L8qGIsB1bo",
-    "channel": "RG Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/9L8qGIsB1bo/hqdefault.jpg",
-    "duration": 10154,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "8PjoJzoYmtY",
-    "title": "Saand Ki Aankh (2026) Full Movie | Taapsee Pannu, Bhumi Pednekar | New Released Blockbuster Movie",
-    "url": "https://www.youtube.com/watch?v=8PjoJzoYmtY",
-    "channel": "RDC Bollywood Buzz",
-    "thumbnail": "https://i.ytimg.com/vi/8PjoJzoYmtY/hqdefault.jpg",
-    "duration": 7225,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "pLMPHnxsW6A",
-    "title": "Allu Arjun (2026) New Released South Hindi Dubbed Action Movie | Vinnu Maddipati, Smrita  New Movie",
-    "url": "https://www.youtube.com/watch?v=pLMPHnxsW6A",
-    "channel": "DRJ Records Movies ",
-    "thumbnail": "https://i.ytimg.com/vi/pLMPHnxsW6A/hqdefault.jpg",
-    "duration": 11703,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "uL_L8TOrjco",
-    "title": "Alpha (2026) Full Movie | Alia Bhatt,  & Hrithik Roshan | Bollywood Action Thriller | Hindi Movie",
-    "url": "https://www.youtube.com/watch?v=uL_L8TOrjco",
-    "channel": "Tastymovie",
-    "thumbnail": "https://i.ytimg.com/vi/uL_L8TOrjco/hqdefault.jpg",
-    "duration": 9083,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "7wi1fynDL4I",
-    "title": "New Blockbuster Bollywood Thriller HD Movie | Drishyam 26 (2026) | Ajay Devgan & Shriya 2026",
-    "url": "https://www.youtube.com/watch?v=7wi1fynDL4I",
-    "channel": "Kuber Cinema",
-    "thumbnail": "https://i.ytimg.com/vi/7wi1fynDL4I/hqdefault.jpg",
-    "duration": 7664,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "cGpMQr3BUXE",
-    "title": "MANGO (2026) Full Movie | Vijay Thalapathy | Sreeleela | New South Indian Hindi Dubbed Movies 2026",
-    "url": "https://www.youtube.com/watch?v=cGpMQr3BUXE",
-    "channel": "Super High Pictures",
-    "thumbnail": "https://i.ytimg.com/vi/cGpMQr3BUXE/hqdefault.jpg",
-    "duration": 8209,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "lyfOzaFiptE",
-    "title": "Immortal (2026) New Released Hindi Dubbed Full Movie | Starring G. V. Prakash & Kayadu Lohar",
-    "url": "https://www.youtube.com/watch?v=lyfOzaFiptE",
-    "channel": "RG Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/lyfOzaFiptE/hqdefault.jpg",
-    "duration": 7251,
+    "thumbnail": "https://i.ytimg.com/vi/I_ZOgp680zQ/hqdefault.jpg",
+    "duration": 7309,
     "category": "bollywood_movies"
   },
   {
@@ -189,48 +162,66 @@
     "category": "bollywood_movies"
   },
   {
+    "id": "7wi1fynDL4I",
+    "title": "New Blockbuster Bollywood Thriller HD Movie | Drishyam 26 (2026) | Ajay Devgan & Shriya 2026",
+    "url": "https://www.youtube.com/watch?v=7wi1fynDL4I",
+    "channel": "Kuber Cinema",
+    "thumbnail": "https://i.ytimg.com/vi/7wi1fynDL4I/hqdefault.jpg",
+    "duration": 7664,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "BnbzP2ppG-k",
+    "title": "Jr. NTR's BOSS REDDY - Hindi Dubbed Full Movie | Pooja Hegde, Jagapathi Babu | South Action Movie",
+    "url": "https://www.youtube.com/watch?v=BnbzP2ppG-k",
+    "channel": "ADMD South Flix",
+    "thumbnail": "https://i.ytimg.com/vi/BnbzP2ppG-k/hqdefault.jpg",
+    "duration": 8158,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "Z5osYfVpr98",
+    "title": "DAAKU (2026) Full Movie In Hindi Dubbed | Allu Arjun | New South Indian Hindi Dubbed Action Movies",
+    "url": "https://www.youtube.com/watch?v=Z5osYfVpr98",
+    "channel": "Movie Anand",
+    "thumbnail": "https://i.ytimg.com/vi/Z5osYfVpr98/hqdefault.jpg",
+    "duration": 6096,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "_7cF1sHGZ50",
+    "title": "The India Story (2026) Hindi Full Movie | Starring Kajal Aggarwal & Shreyas Talpade",
+    "url": "https://www.youtube.com/watch?v=_7cF1sHGZ50",
+    "channel": "RG Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/_7cF1sHGZ50/hqdefault.jpg",
+    "duration": 7220,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "unrmflguonA",
+    "title": "FARZI 2 Full Movie 2026 | Shahid Kapoor, Raashii Khanna | Blockbuster Hindi Action Crime Movie 2026",
+    "url": "https://www.youtube.com/watch?v=unrmflguonA",
+    "channel": "Entertainment Express TV",
+    "thumbnail": "https://i.ytimg.com/vi/unrmflguonA/hqdefault.jpg",
+    "duration": 5945,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "rK7sxsDQW-0",
+    "title": "Pagal Full Movie 2026 | Aamir khan, Vijay Raaz, Malaika Arora | Latest Superhit Bollywood Movie 2026",
+    "url": "https://www.youtube.com/watch?v=rK7sxsDQW-0",
+    "channel": "Bollwood Cinema Hindi",
+    "thumbnail": "https://i.ytimg.com/vi/rK7sxsDQW-0/hqdefault.jpg",
+    "duration": 5717,
+    "category": "bollywood_movies"
+  },
+  {
     "id": "r_-q4X8Jn1M",
     "title": "14 Phere (2026) New Released Blockbuster Hindi Romantic Full Movie | Kriti Kharbanda, Vikrant Massey",
     "url": "https://www.youtube.com/watch?v=r_-q4X8Jn1M",
     "channel": "RDC Bollywood Dhamal",
     "thumbnail": "https://i.ytimg.com/vi/r_-q4X8Jn1M/hqdefault.jpg",
     "duration": 5192,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "jawkt9hAbKw",
-    "title": "CHORBAZAR Full Comedy Movie | Kapil Sharma | Ishita Dutta | Monica Gill | Bollywood Full Hindi Movie",
-    "url": "https://www.youtube.com/watch?v=jawkt9hAbKw",
-    "channel": "South Jalwa",
-    "thumbnail": "https://i.ytimg.com/vi/jawkt9hAbKw/hqdefault.jpg",
-    "duration": 7358,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "T-5C-k1KIX8",
-    "title": "KAIDI (2026) Hindi Full Action Movie | Vidyut Jammwal, Shruti Haasan | New Bollywood Action Thriller",
-    "url": "https://www.youtube.com/watch?v=T-5C-k1KIX8",
-    "channel": "CineFlix World",
-    "thumbnail": "https://i.ytimg.com/vi/T-5C-k1KIX8/hqdefault.jpg",
-    "duration": 6061,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "SIZzmIymAAg",
-    "title": "Khaali Peeli (Full Movie) 2026 New Released Bollywood Full Movie | Ishaan Khatter, Ananya Panday",
-    "url": "https://www.youtube.com/watch?v=SIZzmIymAAg",
-    "channel": "RDC Bollywood Dhamal and RDC Movie Club",
-    "thumbnail": "https://i.ytimg.com/vi/SIZzmIymAAg/hqdefault.jpg",
-    "duration": 5956,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "SFJP2HJGjHA",
-    "title": "DAAKU (2026) Full Movie In Hindi Dubbed | Allu Arjun | New South Indian Hindi Dubbed Action Movies",
-    "url": "https://www.youtube.com/watch?v=SFJP2HJGjHA",
-    "channel": "Taal Tanda Studio",
-    "thumbnail": "https://i.ytimg.com/vi/SFJP2HJGjHA/hqdefault.jpg",
-    "duration": 8424,
     "category": "bollywood_movies"
   },
   {
@@ -243,30 +234,39 @@
     "category": "bollywood_movies"
   },
   {
-    "id": "JWQ_Wl5gvqA",
-    "title": "YAARA (2026) Full Movie | Vidyut Jammwal & Shruti Haasan | New Released Bollywood Crime Movie",
-    "url": "https://www.youtube.com/watch?v=JWQ_Wl5gvqA",
-    "channel": "RDC Bollywood Buzz",
-    "thumbnail": "https://i.ytimg.com/vi/JWQ_Wl5gvqA/hqdefault.jpg",
-    "duration": 6407,
+    "id": "ApCLpac8DE0",
+    "title": "HUCCHA HINDI 4K",
+    "url": "https://www.youtube.com/watch?v=ApCLpac8DE0",
+    "channel": "Premium Digiplex Movies and 6 more",
+    "thumbnail": "https://i.ytimg.com/vi/ApCLpac8DE0/hqdefault.jpg",
+    "duration": 6946,
     "category": "bollywood_movies"
   },
   {
-    "id": "UYOJ8M1eNZ4",
-    "title": "14 Phere (2026) New Released Blockbuster Hindi Romantic Full Movie | Kriti Kharbanda, Vikrant Massey",
-    "url": "https://www.youtube.com/watch?v=UYOJ8M1eNZ4",
-    "channel": "Big Screen Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/UYOJ8M1eNZ4/hqdefault.jpg",
-    "duration": 5223,
+    "id": "SFJP2HJGjHA",
+    "title": "DAAKU (2026) Full Movie In Hindi Dubbed | Allu Arjun | New South Indian Hindi Dubbed Action Movies",
+    "url": "https://www.youtube.com/watch?v=SFJP2HJGjHA",
+    "channel": "Taal Tanda Studio",
+    "thumbnail": "https://i.ytimg.com/vi/SFJP2HJGjHA/hqdefault.jpg",
+    "duration": 8424,
     "category": "bollywood_movies"
   },
   {
-    "id": "I_ZOgp680zQ",
-    "title": "Nikamma Full Movie | Shilpa Shetty | Shirley Setia | Abhimanyu Dassani | Bollywood Action Movie",
-    "url": "https://www.youtube.com/watch?v=I_ZOgp680zQ",
-    "channel": "South Jalwa",
-    "thumbnail": "https://i.ytimg.com/vi/I_ZOgp680zQ/hqdefault.jpg",
-    "duration": 7309,
+    "id": "4JudJYuf6aI",
+    "title": "THE TRIAL (2026) New Release South Crime Mystery Hindi Dubbed Full Movie | Latest South Movie",
+    "url": "https://www.youtube.com/watch?v=4JudJYuf6aI",
+    "channel": "RDC South Dubbed",
+    "thumbnail": "https://i.ytimg.com/vi/4JudJYuf6aI/hqdefault.jpg",
+    "duration": 5721,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "SIZzmIymAAg",
+    "title": "Khaali Peeli (Full Movie) 2026 New Released Bollywood Full Movie | Ishaan Khatter, Ananya Panday",
+    "url": "https://www.youtube.com/watch?v=SIZzmIymAAg",
+    "channel": "RDC Bollywood Dhamal and RDC Movie Club",
+    "thumbnail": "https://i.ytimg.com/vi/SIZzmIymAAg/hqdefault.jpg",
+    "duration": 5956,
     "category": "bollywood_movies"
   },
   {
@@ -279,15 +279,6 @@
     "category": "bollywood_movies"
   },
   {
-    "id": "IZcGeJwGuec",
-    "title": "Ranabaali | Hindi Trailer | Vijay Deverakonda | Rashmika Mandanna | Rahul Sankrityan | Netflix India",
-    "url": "https://www.youtube.com/watch?v=IZcGeJwGuec",
-    "channel": "Netflix India",
-    "thumbnail": "https://i.ytimg.com/vi/IZcGeJwGuec/hqdefault.jpg",
-    "duration": 246,
-    "category": "bollywood_movies"
-  },
-  {
     "id": "nb4Qb89zgmU",
     "title": "Daayra | Official Trailer | Kareena Kapoor, Prithviraj, Meghna Gulzar | Netflix India",
     "url": "https://www.youtube.com/watch?v=nb4Qb89zgmU",
@@ -297,12 +288,12 @@
     "category": "bollywood_movies"
   },
   {
-    "id": "v_JtIPAw32Q",
-    "title": "Dilwali Diwali | Official Trailer | Mihir Ahuja, Manoj Pahwa, Neelu Kohli, Aurra",
-    "url": "https://www.youtube.com/watch?v=v_JtIPAw32Q",
+    "id": "IZcGeJwGuec",
+    "title": "Ranabaali | Hindi Trailer | Vijay Deverakonda | Rashmika Mandanna | Rahul Sankrityan | Netflix India",
+    "url": "https://www.youtube.com/watch?v=IZcGeJwGuec",
     "channel": "Netflix India",
-    "thumbnail": "https://i.ytimg.com/vi/v_JtIPAw32Q/hqdefault.jpg",
-    "duration": 113,
+    "thumbnail": "https://i.ytimg.com/vi/IZcGeJwGuec/hqdefault.jpg",
+    "duration": 246,
     "category": "bollywood_movies"
   },
   {
@@ -324,39 +315,21 @@
     "category": "bollywood_movies"
   },
   {
-    "id": "nCa4BGy3MJ8",
-    "title": "Eetha | Official Trailer | Shraddha Kapoor | Randeep H | Dinesh V | Laxman U | In Cinemas Dec 4th",
-    "url": "https://www.youtube.com/watch?v=nCa4BGy3MJ8",
-    "channel": "Maddock Films and kathputli Creations",
-    "thumbnail": "https://i.ytimg.com/vi/nCa4BGy3MJ8/hqdefault.jpg",
-    "duration": 183,
+    "id": "BPZkZpGMpXA",
+    "title": "KING: Tu Mil Jaaye | Shah Rukh Khan, Deepika | Sachin-Jigar, Arijit, Ed Sheeran, Madhubanti, Kumaar",
+    "url": "https://www.youtube.com/watch?v=BPZkZpGMpXA",
+    "channel": "T-Series and 3 more",
+    "thumbnail": "https://i.ytimg.com/vi/BPZkZpGMpXA/hqdefault.jpg",
+    "duration": 223,
     "category": "bollywood_movies"
   },
   {
-    "id": "A36nagDzugo",
-    "title": "Ranabaali Official Trailer (Hindi) | Vijay Deverakonda | Rashmika | Rahul Sankrityan | Ajay-Atul",
-    "url": "https://www.youtube.com/watch?v=A36nagDzugo",
-    "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/A36nagDzugo/hqdefault.jpg",
-    "duration": 233,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "hN_ZUElLH44",
-    "title": "Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Akash A Kaushik | 23 October",
-    "url": "https://www.youtube.com/watch?v=hN_ZUElLH44",
-    "channel": "Dharma Productions and Sikhya Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/hN_ZUElLH44/hqdefault.jpg",
-    "duration": 199,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "Uu2QK9Z9X5E",
-    "title": "KING | Title Reveal | Shah Rukh Khan | Siddharth Anand | It’s Showtime | 2026",
-    "url": "https://www.youtube.com/watch?v=Uu2QK9Z9X5E",
-    "channel": "Red Chillies Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/Uu2QK9Z9X5E/hqdefault.jpg",
-    "duration": 72,
+    "id": "v_JtIPAw32Q",
+    "title": "Dilwali Diwali | Official Trailer | Mihir Ahuja, Manoj Pahwa, Neelu Kohli, Aurra",
+    "url": "https://www.youtube.com/watch?v=v_JtIPAw32Q",
+    "channel": "Netflix India",
+    "thumbnail": "https://i.ytimg.com/vi/v_JtIPAw32Q/hqdefault.jpg",
+    "duration": 113,
     "category": "bollywood_movies"
   },
   {
@@ -369,6 +342,15 @@
     "category": "bollywood_movies"
   },
   {
+    "id": "nCa4BGy3MJ8",
+    "title": "Eetha | Official Trailer | Shraddha Kapoor | Randeep H | Dinesh V | Laxman U | In Cinemas Dec 4th",
+    "url": "https://www.youtube.com/watch?v=nCa4BGy3MJ8",
+    "channel": "Maddock Films and kathputli Creations",
+    "thumbnail": "https://i.ytimg.com/vi/nCa4BGy3MJ8/hqdefault.jpg",
+    "duration": 183,
+    "category": "bollywood_movies"
+  },
+  {
     "id": "UTgecrJoTZc",
     "title": "SURYAA: Ant Se Aarambh Tak - Official Teaser | Sunny Deol, Ravi Kishan | M Padmakumar| 20th Nov 2026",
     "url": "https://www.youtube.com/watch?v=UTgecrJoTZc",
@@ -378,147 +360,12 @@
     "category": "bollywood_movies"
   },
   {
-    "id": "k6wW0QvjjhI",
-    "title": "Kaali Kheti | Official Teaser | In Cinemas 20th November 2026",
-    "url": "https://www.youtube.com/watch?v=k6wW0QvjjhI",
-    "channel": "PVRINOX Pictures",
-    "thumbnail": "https://i.ytimg.com/vi/k6wW0QvjjhI/hqdefault.jpg",
-    "duration": 62,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "MVR9TY6tpE8",
-    "title": "Pratap (Official Trailer) | Amit Sadh | Esha Deol | New Bollywood Movie 2026 | UV Films",
-    "url": "https://www.youtube.com/watch?v=MVR9TY6tpE8",
-    "channel": "UV Films Official",
-    "thumbnail": "https://i.ytimg.com/vi/MVR9TY6tpE8/hqdefault.jpg",
-    "duration": 115,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "khru4exyahg",
-    "title": "Daayra Official Trailer | Meghna Gulzar | Kareena Kapoor Khan | Prithviraj Sukumaran | 18 Sep",
-    "url": "https://www.youtube.com/watch?v=khru4exyahg",
-    "channel": "Pen Movies and Junglee Pictures",
-    "thumbnail": "https://i.ytimg.com/vi/khru4exyahg/hqdefault.jpg",
-    "duration": 140,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "Gv-laJMbvCc",
-    "title": "NAAGZILLA - Trailer | Kartik Aaryan | Preity Mukhundhan | Ravi Kishan",
-    "url": "https://www.youtube.com/watch?v=Gv-laJMbvCc",
-    "channel": "Universal Pan Studio",
-    "thumbnail": "https://i.ytimg.com/vi/Gv-laJMbvCc/hqdefault.jpg",
+    "id": "ouplj3yud-Y",
+    "title": "Obsession | 30th October | Varun Dhawan | Kriti Sanon | The Peacock Hub | JioHotstar",
+    "url": "https://www.youtube.com/watch?v=ouplj3yud-Y",
+    "channel": "JioHotstar",
+    "thumbnail": "https://i.ytimg.com/vi/ouplj3yud-Y/hqdefault.jpg",
     "duration": 65,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "VqbrAbuQC1o",
-    "title": "Reporting Live | Official Trailer | Parineeti Chopra, Deven Bhojani | Netflix India",
-    "url": "https://www.youtube.com/watch?v=VqbrAbuQC1o",
-    "channel": "Netflix India",
-    "thumbnail": "https://i.ytimg.com/vi/VqbrAbuQC1o/hqdefault.jpg",
-    "duration": 123,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "q_rQBuliB9E",
-    "title": "Last Man In Tower Movie Trailer",
-    "url": "https://www.youtube.com/watch?v=q_rQBuliB9E",
-    "channel": "Zee Music Company",
-    "thumbnail": "https://i.ytimg.com/vi/q_rQBuliB9E/hqdefault.jpg",
-    "duration": 133,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "aYneE8134Bs",
-    "title": "Adbhut - Official Trailer| Nawazuddin Siddiqui, Diana Penty, Shreya Dhanwanthary |#WatchOnJioHotstar",
-    "url": "https://www.youtube.com/watch?v=aYneE8134Bs",
-    "channel": "Sony Pictures Entertainment India",
-    "thumbnail": "https://i.ytimg.com/vi/aYneE8134Bs/hqdefault.jpg",
-    "duration": 144,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "dL-OiziGs0k",
-    "title": "KING: Trailer | Shah Rukh Khan | Deepika | Suhana Khan | Siddharth Anand | In Cinemas  24th Dec 2026",
-    "url": "https://www.youtube.com/watch?v=dL-OiziGs0k",
-    "channel": "CineCove Studios",
-    "thumbnail": "https://i.ytimg.com/vi/dL-OiziGs0k/hqdefault.jpg",
-    "duration": 70,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "1zip1rNaNYs",
-    "title": "RAMAYANA - Official Trailer",
-    "url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
-    "channel": "Sony Pictures Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
-    "duration": 250,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "ZuKPSLzSm88",
-    "title": "Last Man In Tower | Official Trailer | Manoj Bajpayee, Boman Irani, Divya Dutta | Watch Now on Zee 5",
-    "url": "https://www.youtube.com/watch?v=ZuKPSLzSm88",
-    "channel": "Zee 5",
-    "thumbnail": "https://i.ytimg.com/vi/ZuKPSLzSm88/hqdefault.jpg",
-    "duration": 128,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "rPE2JvKQ1Xg",
-    "title": "Maatrubhumi Trailer REVIEW | Deeksha Sharma",
-    "url": "https://www.youtube.com/watch?v=rPE2JvKQ1Xg",
-    "channel": "Filmi Indian",
-    "thumbnail": "https://i.ytimg.com/vi/rPE2JvKQ1Xg/hqdefault.jpg",
-    "duration": 277,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "_Hmds6apet4",
-    "title": "Tu Hai Meri Kiran - Official Trailer | Sonakshi Sinha, Zaheer | Karan Rawal | Vishal Rana | 23rd Oct",
-    "url": "https://www.youtube.com/watch?v=_Hmds6apet4",
-    "channel": "Saregama Music and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/_Hmds6apet4/hqdefault.jpg",
-    "duration": 136,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "T0Uduwg2W2w",
-    "title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER IN HINDI | RANBIR KAPOOR | YASH | SAI PALLAVI | SUNNY DEOL",
-    "url": "https://www.youtube.com/watch?v=T0Uduwg2W2w",
-    "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/T0Uduwg2W2w/hqdefault.jpg",
-    "duration": 144,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "NPkMecGOxDc",
-    "title": "Nayyi Navelli:Official Trailer | Yami,Addinath,Balaji Mohan,Aanand L Rai,G.V.Prakash Kumar| 16th Oct",
-    "url": "https://www.youtube.com/watch?v=NPkMecGOxDc",
-    "channel": "Amazon MGM Studios India and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/NPkMecGOxDc/hqdefault.jpg",
-    "duration": 183,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "9vfhRWq9osE",
-    "title": "RAMAYANA – Official Trailer – In Cinemas November 5, 2026",
-    "url": "https://www.youtube.com/watch?v=9vfhRWq9osE",
-    "channel": "Sony Pictures Releasing Australia",
-    "thumbnail": "https://i.ytimg.com/vi/9vfhRWq9osE/hqdefault.jpg",
-    "duration": 247,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "QRqGwGwo1Y0",
-    "title": "ALPHA Official Trailer | Alia, Sharvari, Anil, Bobby, Shiv Rawail | YRF Spy Universe",
-    "url": "https://www.youtube.com/watch?v=QRqGwGwo1Y0",
-    "channel": "YRF",
-    "thumbnail": "https://i.ytimg.com/vi/QRqGwGwo1Y0/hqdefault.jpg",
-    "duration": 154,
     "category": "bollywood_movies"
   },
   {
@@ -531,48 +378,156 @@
     "category": "bollywood_movies"
   },
   {
-    "id": "qEr-5SSj1-w",
-    "title": "Coolie No. 1 (1995) Govinda, Karisma Kapoor – Hindi Full Movie | Truth & Comedy",
-    "url": "https://www.youtube.com/watch?v=qEr-5SSj1-w",
-    "channel": "Film City HD",
-    "thumbnail": "https://i.ytimg.com/vi/qEr-5SSj1-w/hqdefault.jpg",
-    "duration": 8395,
+    "id": "k6wW0QvjjhI",
+    "title": "Kaali Kheti | Official Teaser | In Cinemas 20th November 2026",
+    "url": "https://www.youtube.com/watch?v=k6wW0QvjjhI",
+    "channel": "PVRINOX Pictures",
+    "thumbnail": "https://i.ytimg.com/vi/k6wW0QvjjhI/hqdefault.jpg",
+    "duration": 62,
     "category": "bollywood_movies"
   },
   {
-    "id": "Fa3y6z_BuEE",
-    "title": "AATMA  Akshay Kumar, Emraan Hashmi & Esha Gupta  Horror Bollywood Full Movie  Hindi Horror Movie",
-    "url": "https://www.youtube.com/watch?v=Fa3y6z_BuEE",
-    "channel": "Apex Movies",
-    "thumbnail": "https://i.ytimg.com/vi/Fa3y6z_BuEE/hqdefault.jpg",
-    "duration": 7712,
+    "id": "_T4DA1H9U_w",
+    "title": "Hotstar Specials: Student Of The Year - After Dark Official Trailer | Shanaya | 13 Nov | JioHotstar",
+    "url": "https://www.youtube.com/watch?v=_T4DA1H9U_w",
+    "channel": "JioHotstar",
+    "thumbnail": "https://i.ytimg.com/vi/_T4DA1H9U_w/hqdefault.jpg",
+    "duration": 111,
     "category": "bollywood_movies"
   },
   {
-    "id": "HFH-kUm3sX8",
-    "title": "Bhaiyya Ji | Full Movie | Manoj Bajpayee Suvinder Vicky Zoya Hussain | Hindi Bollywood Action Film",
-    "url": "https://www.youtube.com/watch?v=HFH-kUm3sX8",
-    "channel": "2NationDrama",
-    "thumbnail": "https://i.ytimg.com/vi/HFH-kUm3sX8/hqdefault.jpg",
-    "duration": 7136,
+    "id": "MVR9TY6tpE8",
+    "title": "Pratap (Official Trailer) | Amit Sadh | Esha Deol | New Bollywood Movie 2026 | UV Films",
+    "url": "https://www.youtube.com/watch?v=MVR9TY6tpE8",
+    "channel": "UV Films Official",
+    "thumbnail": "https://i.ytimg.com/vi/MVR9TY6tpE8/hqdefault.jpg",
+    "duration": 115,
     "category": "bollywood_movies"
   },
   {
-    "id": "_Z_PyO9CzGQ",
-    "title": "Tees Maar Khan (2010) Full Movie 4K | Akshay Kumar, Katrina Kaif, Akshaye Khanna | Farah Khan",
-    "url": "https://www.youtube.com/watch?v=_Z_PyO9CzGQ",
-    "channel": "Revere Records",
-    "thumbnail": "https://i.ytimg.com/vi/_Z_PyO9CzGQ/hqdefault.jpg",
-    "duration": 6471,
+    "id": "hN_ZUElLH44",
+    "title": "Udta Teer Official Trailer | Ayushmann Khurrana & Sara Ali Khan | Akash A Kaushik | 23 October",
+    "url": "https://www.youtube.com/watch?v=hN_ZUElLH44",
+    "channel": "Dharma Productions and Sikhya Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/hN_ZUElLH44/hqdefault.jpg",
+    "duration": 199,
     "category": "bollywood_movies"
   },
   {
-    "id": "QI7nGLrHu4g",
-    "title": "Special 26 (2013) Full Movie | Hindi Crime Thriller | Akshay Kumar | Anupam Kher | Manoj Bajpayee",
-    "url": "https://www.youtube.com/watch?v=QI7nGLrHu4g",
-    "channel": "Revere Haryanvi",
-    "thumbnail": "https://i.ytimg.com/vi/QI7nGLrHu4g/hqdefault.jpg",
-    "duration": 7695,
+    "id": "dL-OiziGs0k",
+    "title": "KING: Trailer | Shah Rukh Khan | Deepika | Suhana Khan | Siddharth Anand | In Cinemas  24th Dec 2026",
+    "url": "https://www.youtube.com/watch?v=dL-OiziGs0k",
+    "channel": "CineCove Studios",
+    "thumbnail": "https://i.ytimg.com/vi/dL-OiziGs0k/hqdefault.jpg",
+    "duration": 70,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "ZuKPSLzSm88",
+    "title": "Last Man In Tower | Official Trailer | Manoj Bajpayee, Boman Irani, Divya Dutta | Watch Now on Zee 5",
+    "url": "https://www.youtube.com/watch?v=ZuKPSLzSm88",
+    "channel": "Zee 5",
+    "thumbnail": "https://i.ytimg.com/vi/ZuKPSLzSm88/hqdefault.jpg",
+    "duration": 128,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "VqbrAbuQC1o",
+    "title": "Reporting Live | Official Trailer | Parineeti Chopra, Deven Bhojani | Netflix India",
+    "url": "https://www.youtube.com/watch?v=VqbrAbuQC1o",
+    "channel": "Netflix India",
+    "thumbnail": "https://i.ytimg.com/vi/VqbrAbuQC1o/hqdefault.jpg",
+    "duration": 123,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "1zip1rNaNYs",
+    "title": "RAMAYANA - Official Trailer",
+    "url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
+    "channel": "Sony Pictures Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg",
+    "duration": 250,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "Be3e0-3-Stg",
+    "title": "Scene (Hindi) - Official Trailer | Suriya | Nazriya Nazim | Naslen | Sushin Shyam | Jithu Madhavan",
+    "url": "https://www.youtube.com/watch?v=Be3e0-3-Stg",
+    "channel": "Sony Music India",
+    "thumbnail": "https://i.ytimg.com/vi/Be3e0-3-Stg/hqdefault.jpg",
+    "duration": 160,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "T0Uduwg2W2w",
+    "title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER IN HINDI | RANBIR KAPOOR | YASH | SAI PALLAVI | SUNNY DEOL",
+    "url": "https://www.youtube.com/watch?v=T0Uduwg2W2w",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/T0Uduwg2W2w/hqdefault.jpg",
+    "duration": 144,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "Rta_M2zkpWk",
+    "title": "MYSAA Teaser (Hindi) | Rashmika | Rawindra Pulle | Jakes Bejoy | UnFormula Films",
+    "url": "https://www.youtube.com/watch?v=Rta_M2zkpWk",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/Rta_M2zkpWk/hqdefault.jpg",
+    "duration": 121,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "74nF-FWAS6M",
+    "title": "RAMAYANA - Official Trailer (English)",
+    "url": "https://www.youtube.com/watch?v=74nF-FWAS6M",
+    "channel": "Sony Pictures Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/74nF-FWAS6M/hqdefault.jpg",
+    "duration": 235,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "PxtG6tSmPOM",
+    "title": "File no.25 : FAUZI - Hindi | Prabhas | Hanu Raghavapudi | March 19th 2027",
+    "url": "https://www.youtube.com/watch?v=PxtG6tSmPOM",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/PxtG6tSmPOM/hqdefault.jpg",
+    "duration": 152,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "LM4ByXufv2w",
+    "title": "Scene - Official Trailer | Suriya | Nazriya Nazim | Naslen | Sushin Shyam | Jithu Madhavan",
+    "url": "https://www.youtube.com/watch?v=LM4ByXufv2w",
+    "channel": "Sony Music South",
+    "thumbnail": "https://i.ytimg.com/vi/LM4ByXufv2w/hqdefault.jpg",
+    "duration": 160,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "BOJw7TYH-fE",
+    "title": "Trailer 2 : Ramayana: Rise of a Legend | Ranbir Kapoor | Yash | Sai Pallavi | Sunny Deol",
+    "url": "https://www.youtube.com/watch?v=BOJw7TYH-fE",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/BOJw7TYH-fE/hqdefault.jpg",
+    "duration": 144,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "hJL9MdogzTk",
+    "title": "Sumo Didi | Official Trailer | Hindi Zee 5 Original Film | Shriyam Bhagnani | Watch Now",
+    "url": "https://www.youtube.com/watch?v=hJL9MdogzTk",
+    "channel": "Zee 5",
+    "thumbnail": "https://i.ytimg.com/vi/hJL9MdogzTk/hqdefault.jpg",
+    "duration": 131,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "llLHwxkZ02k",
+    "title": "Namit Malhotra’s Ramayana - Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman",
+    "url": "https://www.youtube.com/watch?v=llLHwxkZ02k",
+    "channel": "Dharma Productions",
+    "thumbnail": "https://i.ytimg.com/vi/llLHwxkZ02k/hqdefault.jpg",
+    "duration": 250,
     "category": "bollywood_movies"
   },
   {
@@ -585,57 +540,48 @@
     "category": "bollywood_movies"
   },
   {
-    "id": "zPccVnkqAKE",
-    "title": "Yeh Hai Jalwa (2002) Full Movie 4K | Salman Khan, Ameesha Patel | Romantic Comedy 2000 Bollywood",
-    "url": "https://www.youtube.com/watch?v=zPccVnkqAKE",
-    "channel": "Ultra 4K Movies",
-    "thumbnail": "https://i.ytimg.com/vi/zPccVnkqAKE/hqdefault.jpg",
-    "duration": 8539,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "DoI_m5BmpuM",
-    "title": "Bhag Milkha Bhag Full Movie | Farhan Akhtar | Divya Dutta | Superhit Bollywood Movie | 4K",
-    "url": "https://www.youtube.com/watch?v=DoI_m5BmpuM",
-    "channel": "Star Studios",
-    "thumbnail": "https://i.ytimg.com/vi/DoI_m5BmpuM/hqdefault.jpg",
-    "duration": 11258,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "W-f0eMsAPsE",
-    "title": "Bollywood Full Hindi Suspense Drama Movie | Women | Kareena Kapoor, Tabu, Kriti Sanon",
-    "url": "https://www.youtube.com/watch?v=W-f0eMsAPsE",
-    "channel": "MovieShakti",
-    "thumbnail": "https://i.ytimg.com/vi/W-f0eMsAPsE/hqdefault.jpg",
-    "duration": 5242,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "Kkcwa_hSKLA",
-    "title": "Bhool Bhulaiyaa (Full Movie): Akshay Kumar | Vidya Balan | Paresh Rawal | Rajpal Yadav| Comedy Movie",
-    "url": "https://www.youtube.com/watch?v=Kkcwa_hSKLA",
+    "id": "KyPyjT1FvWs",
+    "title": "BABY 4K Full Movie: Akshay Kumar |Rana Daggubati |Taapsee |Anupam K| Neeraj P|Hindi Movie |Bhushan K",
+    "url": "https://www.youtube.com/watch?v=KyPyjT1FvWs",
     "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/Kkcwa_hSKLA/hqdefault.jpg",
-    "duration": 8900,
+    "thumbnail": "https://i.ytimg.com/vi/KyPyjT1FvWs/hqdefault.jpg",
+    "duration": 9202,
     "category": "bollywood_movies"
   },
   {
-    "id": "8ucYhlbg0Ko",
-    "title": "Tees Maar Khan (2010) Full Movie | Akshay Kumar | Katrina Kaif | Action Comedy | HD",
-    "url": "https://www.youtube.com/watch?v=8ucYhlbg0Ko",
+    "id": "74z6rvKLPP0",
+    "title": "Bajrangi Bhaijaan (2015) Full Movie | Salman Khan | Kareena Kapoor | Harshaali Malhotra",
+    "url": "https://www.youtube.com/watch?v=74z6rvKLPP0",
+    "channel": "envyworldwide",
+    "thumbnail": "https://i.ytimg.com/vi/74z6rvKLPP0/hqdefault.jpg",
+    "duration": 7238,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "Gu_SwpkKWa0",
+    "title": "Jodhaa Akbar (2008) Full Movie I Historical Romance | Hrithik Roshan | Aishwarya Rai | HD",
+    "url": "https://www.youtube.com/watch?v=Gu_SwpkKWa0",
     "channel": "Revere Records",
-    "thumbnail": "https://i.ytimg.com/vi/8ucYhlbg0Ko/hqdefault.jpg",
-    "duration": 6200,
+    "thumbnail": "https://i.ytimg.com/vi/Gu_SwpkKWa0/hqdefault.jpg",
+    "duration": 10309,
     "category": "bollywood_movies"
   },
   {
-    "id": "sa8uXteDBKk",
-    "title": "The Bhootni Horror Comedy Movie | Sanjay Dutt, Palak Tiwari, Mouni Roy, Sunny Singh| Bollywood Movie",
-    "url": "https://www.youtube.com/watch?v=sa8uXteDBKk",
+    "id": "qEr-5SSj1-w",
+    "title": "Coolie No. 1 (1995) Govinda, Karisma Kapoor – Hindi Full Movie | Truth & Comedy",
+    "url": "https://www.youtube.com/watch?v=qEr-5SSj1-w",
+    "channel": "Film City HD",
+    "thumbnail": "https://i.ytimg.com/vi/qEr-5SSj1-w/hqdefault.jpg",
+    "duration": 8395,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "J4PPoV4z2cQ",
+    "title": "Selfiee | Emraan Hashmi, Akshay Kumar, Nushrratt Bharuccha, Diana Penty | Superhit Bollywood Movie",
+    "url": "https://www.youtube.com/watch?v=J4PPoV4z2cQ",
     "channel": "RKD Studios",
-    "thumbnail": "https://i.ytimg.com/vi/sa8uXteDBKk/hqdefault.jpg",
-    "duration": 7341,
+    "thumbnail": "https://i.ytimg.com/vi/J4PPoV4z2cQ/hqdefault.jpg",
+    "duration": 8506,
     "category": "bollywood_movies"
   },
   {
@@ -648,12 +594,66 @@
     "category": "bollywood_movies"
   },
   {
+    "id": "q2yJZXr-G7w",
+    "title": "Phantom (Full Movie) Saif Ali Khan | Katrina Kaif | Mir Sarwar | Bollywood Full Action Movie",
+    "url": "https://www.youtube.com/watch?v=q2yJZXr-G7w",
+    "channel": "South Jalwa",
+    "thumbnail": "https://i.ytimg.com/vi/q2yJZXr-G7w/hqdefault.jpg",
+    "duration": 7053,
+    "category": "bollywood_movies"
+  },
+  {
     "id": "qMz_BXocEWQ",
     "title": "Dream Girl | Latest Full Movie | Ayushmann Khurrana Nushrratt Bharuccha | Best Hindi Comedy film",
     "url": "https://www.youtube.com/watch?v=qMz_BXocEWQ",
     "channel": "2NationDrama",
     "thumbnail": "https://i.ytimg.com/vi/qMz_BXocEWQ/hqdefault.jpg",
     "duration": 6846,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "YeoiK-TaRq0",
+    "title": "New Hindi Movie :Bawle Babu Bhaiya Full Movie | Akshay kumar movie | Bollywood Action Movies 2026",
+    "url": "https://www.youtube.com/watch?v=YeoiK-TaRq0",
+    "channel": "Apex Studios",
+    "thumbnail": "https://i.ytimg.com/vi/YeoiK-TaRq0/hqdefault.jpg",
+    "duration": 6946,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "49I2G6VVrnw",
+    "title": "Bodyguard (2011) Full Hindi Movie 4K | बॉडीगार्ड | Salman Khan | Kareena Kapoor | Hazel Keech",
+    "url": "https://www.youtube.com/watch?v=49I2G6VVrnw",
+    "channel": "Ultra Bollywood",
+    "thumbnail": "https://i.ytimg.com/vi/49I2G6VVrnw/hqdefault.jpg",
+    "duration": 7939,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "qANHXJmSJlE",
+    "title": "Bhagyawan (1993) Full Hindi Movie | भाग्यवान | Govinda | Juhi Chawla | Bollywood 90s Movie | Pran",
+    "url": "https://www.youtube.com/watch?v=qANHXJmSJlE",
+    "channel": "Ultra Bollywood",
+    "thumbnail": "https://i.ytimg.com/vi/qANHXJmSJlE/hqdefault.jpg",
+    "duration": 8433,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "tBmQtzFNjUw",
+    "title": "PROJECT KICK - South Action Comedy Movie In Hindi Dubbed | Ravi Teja, Rakul Preet Singh | Full Movie",
+    "url": "https://www.youtube.com/watch?v=tBmQtzFNjUw",
+    "channel": "AD-WISE MEDIA ACTION MOVIEPLEX",
+    "thumbnail": "https://i.ytimg.com/vi/tBmQtzFNjUw/hqdefault.jpg",
+    "duration": 8407,
+    "category": "bollywood_movies"
+  },
+  {
+    "id": "-yL9B3w_FHU",
+    "title": "THE TAJ STORY (Full Movie) Paresh Rawal, Zakir Hussain, Amruta Khanvilkar | New Bollywood Movie",
+    "url": "https://www.youtube.com/watch?v=-yL9B3w_FHU",
+    "channel": "Lionsgate Play - Hindi ",
+    "thumbnail": "https://i.ytimg.com/vi/-yL9B3w_FHU/hqdefault.jpg",
+    "duration": 9427,
     "category": "bollywood_movies"
   },
   {
@@ -666,21 +666,12 @@
     "category": "bollywood_movies"
   },
   {
-    "id": "HVyXEbOWrp4",
-    "title": "Hungama (HD) | Hindi Movies 2016 Full Movie | Akshaye Khanna Movies | Bollywood Comedy Movies",
-    "url": "https://www.youtube.com/watch?v=HVyXEbOWrp4",
-    "channel": "Venus Movies",
-    "thumbnail": "https://i.ytimg.com/vi/HVyXEbOWrp4/hqdefault.jpg",
-    "duration": 8771,
-    "category": "bollywood_movies"
-  },
-  {
-    "id": "xth2KA9Kqks",
-    "title": "VANVAAS | Nana Patekar & Utkarsh Sharma | New Released Bollywood Blockbuster Family Drama Movie 2026",
-    "url": "https://www.youtube.com/watch?v=xth2KA9Kqks",
-    "channel": "Big Screen Entertainment",
-    "thumbnail": "https://i.ytimg.com/vi/xth2KA9Kqks/hqdefault.jpg",
-    "duration": 7921,
+    "id": "Fa3y6z_BuEE",
+    "title": "AATMA  Akshay Kumar, Emraan Hashmi & Esha Gupta  Horror Bollywood Full Movie  Hindi Horror Movie",
+    "url": "https://www.youtube.com/watch?v=Fa3y6z_BuEE",
+    "channel": "Apex Movies",
+    "thumbnail": "https://i.ytimg.com/vi/Fa3y6z_BuEE/hqdefault.jpg",
+    "duration": 7712,
     "category": "bollywood_movies"
   }
 ]
