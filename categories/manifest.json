@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-19T00:09:46.857697+00:00",
+  "generated_at": "2026-11-19T15:34:45.175306+00:00",
   "categories": [
     {
       "name": "home",
       "type": "song",
       "file": "home.json",
-      "count": 218
+      "count": 220
     },
     {
       "name": "recently_uploaded",
       "type": "song",
       "file": "recently_uploaded.json",
-      "count": 122
+      "count": 128
     },
     {
       "name": "indian_pop_music",
       "type": "song",
       "file": "indian_pop_music.json",
-      "count": 111
+      "count": 117
     },
     {
       "name": "haryanvi",
@@ -29,49 +29,49 @@
       "name": "punjabi",
       "type": "song",
       "file": "punjabi.json",
-      "count": 138
+      "count": 137
     },
     {
       "name": "storytelling",
       "type": "song",
       "file": "storytelling.json",
-      "count": 119
+      "count": 124
     },
     {
       "name": "music",
       "type": "song",
       "file": "music.json",
-      "count": 114
+      "count": 133
     },
     {
       "name": "gaming",
       "type": "song",
       "file": "gaming.json",
-      "count": 188
+      "count": 186
     },
     {
       "name": "news",
       "type": "song",
       "file": "news.json",
-      "count": 155
+      "count": 158
     },
     {
       "name": "sports",
       "type": "song",
       "file": "sports.json",
-      "count": 148
+      "count": 139
     },
     {
       "name": "fashion",
       "type": "song",
       "file": "fashion.json",
-      "count": 133
+      "count": 127
     },
     {
       "name": "bollywood_movies",
       "type": "movie",
       "file": "bollywood_movies.json",
-      "count": 74
+      "count": 77
     },
     {
       "name": "hollywood_movies",
@@ -83,13 +83,13 @@
       "name": "south_indian_movies",
       "type": "movie",
       "file": "south_indian_movies.json",
-      "count": 61
+      "count": 63
     },
     {
       "name": "punjabi_movies",
       "type": "movie",
       "file": "punjabi_movies.json",
-      "count": 46
+      "count": 47
     }
   ]
 }
