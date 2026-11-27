@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-27T07:48:19.542751+00:00",
+  "generated_at": "2026-11-27T20:59:35.786854+00:00",
   "categories": [
     {
       "name": "home",
       "type": "song",
       "file": "home.json",
-      "count": 219
+      "count": 220
     },
     {
       "name": "recently_uploaded",
       "type": "song",
       "file": "recently_uploaded.json",
-      "count": 127
+      "count": 129
     },
     {
       "name": "indian_pop_music",
       "type": "song",
       "file": "indian_pop_music.json",
-      "count": 117
+      "count": 116
     },
     {
       "name": "haryanvi",
@@ -29,31 +29,31 @@
       "name": "punjabi",
       "type": "song",
       "file": "punjabi.json",
-      "count": 142
+      "count": 144
     },
     {
       "name": "storytelling",
       "type": "song",
       "file": "storytelling.json",
-      "count": 109
+      "count": 113
     },
     {
       "name": "music",
       "type": "song",
       "file": "music.json",
-      "count": 132
+      "count": 133
     },
     {
       "name": "gaming",
       "type": "song",
       "file": "gaming.json",
-      "count": 186
+      "count": 187
     },
     {
       "name": "news",
       "type": "song",
       "file": "news.json",
-      "count": 158
+      "count": 159
     },
     {
       "name": "sports",
@@ -65,25 +65,25 @@
       "name": "fashion",
       "type": "song",
       "file": "fashion.json",
-      "count": 135
+      "count": 134
     },
     {
       "name": "bollywood_movies",
       "type": "movie",
       "file": "bollywood_movies.json",
-      "count": 75
+      "count": 73
     },
     {
       "name": "hollywood_movies",
       "type": "movie",
       "file": "hollywood_movies.json",
-      "count": 69
+      "count": 68
     },
     {
       "name": "south_indian_movies",
       "type": "movie",
       "file": "south_indian_movies.json",
-      "count": 66
+      "count": 59
     },
     {
       "name": "punjabi_movies",
